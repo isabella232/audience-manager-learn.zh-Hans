@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 5%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 5%
       + [创建和配置基于人的目标](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [了解和配置LinkedIn基于人的目标](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [了解和配置Google客户匹配基于人的目标](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ 报告 {#reports}
+   + [将常规报表与特征和区段结合使用](reports/using-general-reports-with-traits-and-segments.md)
+   + [将趋势报表与特征和区段结合使用](reports/using-trended-reports-with-traits-and-segments.md)
 + 其他集成 {#other-integrations}
    + 与Ad Cloud集成 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud与Adobe Audience Manager一体化](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
