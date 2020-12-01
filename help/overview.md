@@ -18,21 +18,21 @@ ht-degree: 3%
 
 # 概述
 
-欢迎访问Audience ManagerTutorials网站。  将这些教程与文档一 [起使用](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ，您将更好地了解如何使用Adobe Audience Manager创建和激活任何渠道或设备上使用Adobe一流的受众 [!DNL data management platform]。
+欢迎访问Audience ManagerTutorials网站。  将这些教程与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)一起使用，您将更好地了解如何使用Adobe Audience Manager在使用Adobe的同类最佳[!DNL data management platform]的任何渠道或设备上创建和激活受众。
 
-* **“员工挑选** ”重点介绍我们最喜爱的一些内容
-* Explore the content by topic and subtopic in the **left navigation**
-* Use the **search** field at the top of the page if you know what you are looking for
+* **员工** 挑选我们最喜爱的内容
+* 在左侧导航&#x200B;**中按主题和子主题浏览内容**
+* 如果您知道要查找的内容，请使用页面顶部的&#x200B;**search**&#x200B;字段
 
 ## 新增功能
 
 * **[(视 [!UICONTROL Profile Merge Rules] 频)概述](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *了解客 [!UICONTROL Profile Merge Rules] 户的价值、工作方式以及对营销人员的价值。*
+   *了解客 [!UICONTROL Profile Merge Rules] 户的价值、工作方式及其对营销人员的价值。*
 
 * **[[!UICONTROL Profile Merge Rule]示例和使用案例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *在此视频中，您将看到 [!UICONTROL Profile Merge Rules] 示例及其含义，以及解决的使用 [!UICONTROL Profile Merge Rules] 案例。*
+   *在此视频中，您将看 [!UICONTROL Profile Merge Rules] 到示例及其含义，以及解决的使 [!UICONTROL Profile Merge Rules] 用案例。*
 
 * **[创建和配置[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
