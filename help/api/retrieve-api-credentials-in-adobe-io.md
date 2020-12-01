@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 在AdobeI/O中检索API凭据
+# 在Adobe I/O检索API凭据
 
 您无需联系Adobe咨询或客户服务部门获取使用REST API的凭据，只需在浏览器中转到Adobe.io并检索或注册您自己的凭据。
 
