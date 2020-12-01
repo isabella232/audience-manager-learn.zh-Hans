@@ -17,43 +17,43 @@ ht-degree: 0%
 ---
 
 
-# 在向AAM发送数据时使用SPA页面上的最佳实践 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# 在向AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}发送数据时，使用SPA页面上的最佳实践
 
-在此文档中，我们将介绍从(SPA)发送数据到Adobe Audience Manager(AAM)时您应遵循并 [!UICONTROL Single Page Applications] 注意的几种最佳实践。 本文档重点介绍使 [!UICONTROL Experience Platform Launch]用，这是推荐的实现方法。
+在此文档中，我们将介绍从[!UICONTROL Single Page Applications](SPA)发送数据至Adobe Audience Manager(AAM)时您应遵循并注意的几种最佳实践。 本文档重点介绍使用[!UICONTROL Experience Platform Launch]，这是推荐的实现方法。
 
 ## 初始注释
 
-* 以下项目将假定您正在使用在 [!DNL Platform Launch] 您的网站上实施。 如果您不使用，则仍会存 [!DNL Platform Launch]在考虑因素，但您需要将其调整为您的实现方法。
+* 以下项目将假定您正在使用[!DNL Platform Launch]在您的站点上实施。 如果您不使用[!DNL Platform Launch]，则考虑事项仍然存在，但您需要将其调整为您的实现方法。
 * 所有SPA都不同，因此您可能需要调整以下一些项目以最好地满足您的需求，但我们希望与您分享一些最佳实践；将数据从SPA页面发送到Audience Manager时需要考虑的事情。
 
-## 在Experience Platform Launch中与SPA和AAM协作的简单示意图 {#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
+## 在Experience Platform Launch{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}中使用SPA和AAM的简单示意图
 
-![aam in的spa [!DNL launch]](assets/spa_for_aam_in_launch.png)
+![aam in的spa  [!DNL launch]](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->如上所述，这是一个简化的图表，说明在Adobe Audience Manager实施(不包括Adobe Analytics)中如何使用SPA页面 [!DNL Platform Launch]。 正如您所看到的，这是相当直接的，最重要的决定是如何将视图变化（或行动）传达给 [!DNL Platform Launch]。
+>如上所述，这是一个简化的示意图，说明在Adobe Audience Manager实施(没有Adobe Analytics)中使用[!DNL Platform Launch]处理SPA页面的方式。 正如您所看到的，这是相当直接的，最重要的决定是如何将视图变化（或操作）传达给[!DNL Platform Launch]。
 
-## 从SPA [!DNL Launch] 页面触发 {#triggering-launch-from-the-spa-page}
+## 从SPA页面{#triggering-launch-from-the-spa-page}触发[!DNL Launch]
 
-在中触发规则(并因此将数据发 [!DNL Platform Launch] 送到Audience Manager)的两种更常用方法是：
+在[!DNL Platform Launch]中触发规则(并因此将数据发送到Audience Manager)的两种更常用方法是：
 
-* 设置JavaScript自定义事件(请参 [阅此处](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) (带有Adobe Analytics)
-* 使用 [!UICONTROL Direct Call Rule]
+* 设置JavaScript自定义事件(请参见示例[HERE](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)(使用Adobe Analytics)
+* 使用[!UICONTROL Direct Call Rule]
 
-在此Audience Manager示例中，我们将使用 [!UICONTROL Direct Call rule] 中 [!DNL Launch] 触发进入Audience Manager的点击。 正如您将在下几节中看到的，通过将值设 [!UICONTROL Data Layer] 置为新值，这将变得非常有用，因此可以通过 [!UICONTROL Data Element] 中的 [!DNL Platform Launch]。
+在此Audience Manager示例中，我们将使用[!DNL Launch]中的[!UICONTROL Direct Call rule]触发进入Audience Manager的点击。 正如您在后面几节中所看到的，通过将[!UICONTROL Data Layer]设置为新值，这样，[!DNL Platform Launch]中的[!UICONTROL Data Element]可以拾取该值，这真的变得很有用。
 
-## 演示页 {#demo-page}
+## 演示页{#demo-page}
 
-我们创建了一个小的演示页面，演示如何更改中的值 [!DNL data layer] 并将其发送到AAM，就像您在SPA页面上所做的那样。 此功能可建模，以进行更复杂的更改。 您可以在此处找到此演示 [页面](https://aam.enablementadobe.com/SPA-Launch.html)。
+我们创建了一个小的演示页，其中演示了如何更改[!DNL data layer]中的值并将它发送到AAM，就像您在SPA页上所做的那样。 此功能可建模，以进行更复杂的更改。 您可以找到此演示页[HERE](https://aam.enablementadobe.com/SPA-Launch.html)。
 
 ## 设置 [!DNL data layer]{#setting-the-data-layer}
 
-如前所述，当新内容加载到页面上或某人在网站上执行操作时， [!DNL data layer] 需要在页面头中动态设置，然后 [!DNL Launch] 才会调用并运行 [!UICONTROL rules]，以 [!DNL Platform Launch] 便 [!DNL data layer] 从中选取新值并将其推入Audience Manager。
+如前所述，当新内容加载到页面上或有人在网站上执行操作时，[!DNL data layer]需要在页面的标题中动态设置， BEFORE [!DNL Launch]将被调用并运行[!UICONTROL rules]，这样[!DNL Platform Launch]可以从[!DNL data layer]中选取新值并将其推入Audience Manager。
 
 如果转到上面列出的演示站点并查看页面源，您将看到：
 
-* 在 [!DNL data layer] 呼叫之前，位于页面的标题中 [!DNL Platform Launch]
-* 模拟SPA链接中的JavaScript会更 [!UICONTROL Data Layer]改，然 [!DNL Platform Launch] 后调用(_satellite.track()调用)。 如果您使用的是JavaScript自定义事件而不是 [!UICONTROL Direct Call Rule]此，则课程是一样的。 先更改 [!DNL data layer]，然后拔打电话 [!DNL Launch]。
+* 在调用[!DNL Platform Launch]之前，[!DNL data layer]位于页面头中
+* 模拟SPA链接中的JavaScript更改[!UICONTROL Data Layer]，然后调用[!DNL Platform Launch](_satellite.track()调用)。 如果您使用的是JavaScript自定义事件而不是此[!UICONTROL Direct Call Rule]，则本课是相同的。 首先更改[!DNL data layer]，然后调用[!DNL Launch]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
