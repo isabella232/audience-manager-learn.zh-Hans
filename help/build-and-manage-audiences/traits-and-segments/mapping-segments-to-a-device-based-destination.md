@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 将区段映射到基于设备的目标
 
-要将受众区段发出给DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频将段映射到基于设备的目标，也称为服 _务器到服务器目标_ 。
+要将受众区段发出给DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频将段引导到基于设备的目标，也称为&#x200B;_服务器到服务器_&#x200B;目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
