@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 增强功能 [!UICONTROL Profile Merge Rule] 概述
+# [!UICONTROL Profile Merge Rule]增强功能概述
 
-此视频介绍了2019年10 [!UICONTROL Profile Merge Rules]月发布的增强功能。
+此视频介绍了2019年10月发布的对[!UICONTROL Profile Merge Rules]的增强。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)
