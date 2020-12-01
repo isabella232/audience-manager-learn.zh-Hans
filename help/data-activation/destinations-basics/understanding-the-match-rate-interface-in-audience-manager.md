@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # 了解Audience Manager中的匹配率界面
 
-此视频将引导您浏览 [!UICONTROL destination] 界面，显示并解释与匹配率和相关的数字 [!DNL addressable audiences]。
+此视频将引导您浏览[!UICONTROL destination]接口，显示并解释与匹配率和[!DNL addressable audiences]相关的数字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
