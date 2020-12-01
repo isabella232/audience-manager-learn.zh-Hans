@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 了解哈希PII数据获取 [!UICONTROL People-Based Destinations]
+# 了解[!UICONTROL People-Based Destinations]的哈希PII数据摄取
 
-此视频将介绍在准备将PII收录到Audience Manager中时需要考虑的事项 [!UICONTROL People-Based Destinations]。
+此视频将介绍在准备将PII收录到[!UICONTROL People-Based Destinations]Audience Manager时需要考虑的事项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
