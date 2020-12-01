@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 创建和使用简单 [!UICONTROL Profile Merge Rules]
+# 创建和使用简单[!UICONTROL Profile Merge Rules]
 
 了解用户档案合并规则以及如何将它们分配给区段。 了解默认的“当前设备”用户档案，以及何时可以／应当使用它。
 
