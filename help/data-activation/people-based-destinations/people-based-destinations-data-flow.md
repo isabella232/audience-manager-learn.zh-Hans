@@ -19,6 +19,6 @@ ht-degree: 5%
 
 # [!UICONTROL People-Based Destinations] 数据流动
 
-此视频概述并 [!UICONTROL People-Based Destinations] 显示整个过程的数据流。
+此视频概述[!UICONTROL People-Based Destinations]并显示该过程的数据流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
