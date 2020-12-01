@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 配置 [!UICONTROL Profile Merge Rules] 对象 [!UICONTROL People-Based Destinations]
+# 为[!UICONTROL People-Based Destinations]配置[!UICONTROL Profile Merge Rules]
 
-在此视频中，了解如何设置要 [!UICONTROL Profile Merge Rule] 使用的 [!UICONTROL People-Based Destinations]选项，包括何时使用全新的跨设备选项。
+在此视频中，了解如何设置[!UICONTROL Profile Merge Rule]以用于[!UICONTROL People-Based Destinations]，包括何时使用全新的跨设备选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
