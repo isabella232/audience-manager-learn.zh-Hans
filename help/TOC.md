@@ -16,44 +16,44 @@ ht-degree: 5%
 # Audience Manager 教程{#tutorials}
 
 + [概述](overview.md)
-+ Audience Manager简介 {#intro-to-audience-manager}
++ Audience Manager介绍{#intro-to-audience-manager}
    + [DMP如何改变您的业务](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager- DMP概述](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager用例](intro-to-audience-manager/audience-manager-use-cases.md)
    + [了解基本术语和概念](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [理解Audience Manager中的数据流](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Audience Manager中的身份介绍](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + 价值实现 {#value-realization}
+   + 实现值{#value-realization}
       + [在客户抑制用例中衡量ROI](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ 设置和管理 {#setup-and-admin}
++ 设置和管理员{#setup-and-admin}
    + 数据源 {#data-sources}
       + [为分析数据创建数据源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
-   + 数据治理和隐私 {#data-governance-and-privacy}
+   + 数据治理和隐私{#data-governance-and-privacy}
       + [全局设备ID验证](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0支持](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [IP模糊化（按国家／地区）](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
-   + 使用和计费 {#usage-and-billing}
+   + 使用和计费{#usage-and-billing}
       + [活动使用情况的监控和报告](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
-+ Web实施 {#web-implementation}
-   + DIL(Data Integration Library) {#dil}
++ Web实现{#web-implementation}
+   + DIL语(Data Integration Library){#dil}
       + [更新至DIL版本8.0（或更高版本）](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
-   + SSF（服务器端转发） {#ssf}
+   + SSF（服务器端转发）{#ssf}
       + [在Launch网站中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [将站点的AAM实施从客户端DIL迁移到服务器端转发](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [从跟踪服务器迁移到报告包级别的服务器端转发](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [使用标签管理器实现Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [如何识别您的合作伙伴ID或子域](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [在SPA页面上使用最佳实践](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ 移动实施 {#mobile-implementation}
++ 移动实施{#mobile-implementation}
    + [在iOS Swift应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [在iOS Objective-C应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
    + [在Android应用程序中实施](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
 + Audience Marketplace {#audience-marketplace}
-   + 购买数据 {#buying-data}
+   + 购买数据{#buying-data}
       + [报告第2方和第3方Audience Marketplace在细分层的数据使用](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [将数据使用量批量上传到Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [用过滤器和Recommendations在Audience Marketplace中选择第三方数据](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ 构建和管理受众 {#build-and-manage-audiences}
++ 构建和管理受众{#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [利用信号仪表板快速视图最大可用信号](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [使用Data Explorer搜索已使用和未使用的键／值对](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -61,7 +61,7 @@ ht-degree: 5%
       + [使用Data Explorer创建追溯特征和细分](build-and-manage-audiences/data-explorer/using-data-explorer-to-create-retroactive-traits-and-segments.md)
       + [使用Data Explorer验证已载入数据的特征创建](build-and-manage-audiences/data-explorer/using-data-explorer-to-validate-trait-creation-for-your-onboarded-data.md)
       + [用Data Explorer处理来自Adobe Analytics的信号](build-and-manage-audiences/data-explorer/using-data-explorer-to-work-with-signals-coming-from-adobe-analytics.md)
-   + 特征和区段 {#traits-and-segments}
+   + 特征和区段{#traits-and-segments}
       + [从分析数据创建规划特征](build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.md)
       + [创建特征分类](build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.md)
       + [创建基于规则的特征](build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.md)
@@ -86,13 +86,13 @@ ht-degree: 5%
       + [了解细分图中的数字](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [客户提示——特征和细分最佳实践](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + 算法模型 {#algorithmic-models}
-      + [理解 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [配置和报告 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [理解  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [配置和报告  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [创建第一方相似模型](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [排除算法（相似）模型中的特征](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [使用算法（相似）模型提高ROAS](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [使用相似模型扩展第一方数据中的已售库存](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + 用户档案合并 {#profile-merge}
+   + 用户档案合并{#profile-merge}
       + [配置文件合并规则](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [用户档案合并规则概述](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [用户档案合并规则示例和用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -106,8 +106,8 @@ ht-degree: 5%
       + [解释受众身份报告](build-and-manage-audiences/profile-merge/interpret-audience-identity-reporting.md)
       + [理解Audience Manager中的跨设备指标](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [客户提示——充分利用用户档案合并规则](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
-+ 数据激活 {#data-activation}
-   + 目标基础知识 {#destinations-basics}
++ 数据激活{#data-activation}
+   + 目标基础知识{#destinations-basics}
       + [了解Audience Manager目标类型](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [了解匹配率](data-activation/destinations-basics/understanding-match-rates.md)
       + [了解匹配率界面](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
@@ -129,8 +129,8 @@ ht-degree: 5%
 + 报告 {#reports}
    + [将常规报表与特征和区段结合使用](reports/using-general-reports-with-traits-and-segments.md)
    + [将趋势报表与特征和区段结合使用](reports/using-trended-reports-with-traits-and-segments.md)
-+ 其他集成 {#other-integrations}
-   + 与Ad Cloud集成 {#integrating-with-ad-cloud}
++ 其他集成{#other-integrations}
+   + 与Ad Cloud集成{#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud与Adobe Audience Manager一体化](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [在AdobeI/O中检索API凭据](api/retrieve-api-credentials-in-adobe-io.md)
+   + [在Adobe I/O检索API凭据](api/retrieve-api-credentials-in-adobe-io.md)
