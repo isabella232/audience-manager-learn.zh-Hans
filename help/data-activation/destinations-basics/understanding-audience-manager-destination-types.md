@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# 了解Audience Manager [!UICONTROL Destination] 类型
+# 了解Audience Manager[!UICONTROL Destination]类型
 
-这段视频将带您浏览Adobe Audience Manager的不 [!UICONTROL destinations] 同类型，并举出您何时使用每种类型。
+此视频将带您浏览Adobe Audience Manager的不同类型[!UICONTROL destinations]，并举例说明每种类型的使用时间。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以在此处下载一列表服务器到服 [!UICONTROL destination] 务器合 [作伙伴](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)。
+您可以下载服务器到服务器[!UICONTROL destination]合作伙伴[的列表HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)。
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)。
