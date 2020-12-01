@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] 在 [!DNL Segment Builder]
+# [!DNL Trait Recommendation] 在  [!DNL Segment Builder]
 
-在此视频中，您将看到如何在中使用 [!DNL trait recommendations] 更新的 [!DNL segment builder]内容，这些内容是Audience Marketplace建议。 这将让您进一步了解 [!DNL third party] 可扩展您的触及范围的数据 [!UICONTROL segments]。
+在此视频中，您将看到如何使用[!DNL segment builder]中更新的[!DNL trait recommendations]，它们是Audience Marketplace建议。 这将让您进一步了解[!DNL third party]数据，这些数据可以扩展[!UICONTROL segments]的范围。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)。
