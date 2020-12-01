@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# 使 [!DNL setCustomerIDs()] 用收录和哈希PII作为声明的ID
+# 使用[!DNL setCustomerIDs()]将Ingest和Hash PII作为声明的ID
 
-在此视频中，您将了解为何以及如何使用Experience CloudID服务的方 `setCustomerIDs()` 法来收集和散列电子邮件地址，以及将其用作声明的ID。 这不仅会将CRM ID和电子邮件地址绑定在一起，还会将它们同步到Adobe Audience ManagerUUID，即匿名设备ID。 这些散列电子邮件地址随后可以发送到 [!UICONTROL People-Based Destinations]。
+在此视频中，您将了解为何以及如何使用Experience CloudID服务的`setCustomerIDs()`方法来收集和散列电子邮件地址，以及将其用作声明的ID。 这不仅会将CRM ID和电子邮件地址绑定在一起，还会将它们同步到Adobe Audience ManagerUUID，即匿名设备ID。 然后，这些散列化的电子邮件地址可以发送到[!UICONTROL People-Based Destinations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/id-service/using/reference/hashing-support.html)。
