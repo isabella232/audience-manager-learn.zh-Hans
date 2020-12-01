@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# 保存搜索以 [!DNL Data Explorer] 便重新使用 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# 在[!DNL Data Explorer]中保存搜索以方便重新使用{#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-在此视频中，您将学习如何配置搜索 [!DNL Data Explorer]，运行它，然后保存它以备以后重新使用。 您还可以将保存的搜索放在仪表板上，这样当您进入应用程序时，该搜索会立即 [!UICONTROL Signals] 可用。
+在此视频中，您将学习如何在[!DNL Data Explorer]中配置搜索，运行它，然后保存它以备以后重新使用。 您还可以将保存的搜索放在仪表板上，以便进入[!UICONTROL Signals]应用程序时可立即使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-有关详细信 [!DNL Data Explorer]息，请访问 [文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+有关[!DNL Data Explorer]的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
