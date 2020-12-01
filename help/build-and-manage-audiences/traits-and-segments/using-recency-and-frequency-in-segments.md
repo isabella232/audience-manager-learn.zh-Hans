@@ -18,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# 在细 [!UICONTROL Recency] 分中 [!UICONTROL Frequency] 使用
+# 在区段中使用[!UICONTROL Recency]和[!UICONTROL Frequency]
 
-使 [!UICONTROL Recency] 用 [!UICONTROL Frequency] 并为区段参数指定访客在特定时间段内达到某一特征的限度。 非常适合内容关联和频率限制用例以及其他用例。
+使用[!UICONTROL Recency]和[!UICONTROL Frequency]为区段参数指定访客在特定时间段内对特征的限定次数。 非常适合内容关联和频率限制用例以及其他用例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)
