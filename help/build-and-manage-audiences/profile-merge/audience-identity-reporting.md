@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] 报表
 
-[!DNL Audience Identity] 报告使客户能够按个人／家庭对身份 [!UICONTROL trait] 的定 [!UICONTROL segment] 义报告总人口。 观看此视频，了解它如何在Audience Manager报告中显示。
+[!DNL Audience Identity] 报告使客户能够按个人／家庭对身份 [!UICONTROL trait] 的 [!UICONTROL segment] 定义报告总人口。观看此视频，了解它如何在Audience Manager报告中显示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
