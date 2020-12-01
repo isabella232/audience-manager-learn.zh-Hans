@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] -视频和Tutorials
 
-通过 [!UICONTROL Profile Merge Rules] 您可以控制用于目标的数据集， [!UICONTROL segmentation] 并且可以跨多个设备准确地对人进行。
+通过[!UICONTROL Profile Merge Rules]，您可以控制用于[!UICONTROL segmentation]的数据集，并可以跨多个设备准确目标人。
 
-本节包含以下视频 [!UICONTROL Profile Merge Rules]:
+本节包含[!UICONTROL Profile Merge Rules]的以下视频：
 
 * [用户档案合并规则概述](overview-of-profile-merge-rules.md)
 * [用户档案合并规则示例和用例](profile-merge-rule-examples-and-use-cases.md)
@@ -34,4 +34,4 @@ ht-degree: 0%
 * [解释受众身份报告](interpret-audience-identity-reporting.md)
 * [理解Audience Manager中的跨设备指标](understanding-cross-device-metrics-in-audience-manager.md)
 
-这些视频可以与文档结合使 [用](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+这些视频可以与[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用
