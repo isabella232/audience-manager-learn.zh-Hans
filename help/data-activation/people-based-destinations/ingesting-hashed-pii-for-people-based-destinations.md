@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 摄取哈希PII [!UICONTROL People-Based Destinations]
+# 为[!UICONTROL People-Based Destinations]摄取哈希PII
 
-在此视频中，了解如何设置基于文件的ID同步格式，以便将您的客户ID(CRM ID)与哈希电子邮件地址挂接在一起。 这样，您就可以向Adobe发送散列电子邮件 [!UICONTROL People-Based Destinations]地址， [!DNL Facebook]如
+在此视频中，了解如何设置基于文件的ID同步格式，以便将您的客户ID(CRM ID)与哈希电子邮件地址挂接在一起。 这将允许您向[!UICONTROL People-Based Destinations]发送散列化电子邮件地址，如[!DNL Facebook]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
