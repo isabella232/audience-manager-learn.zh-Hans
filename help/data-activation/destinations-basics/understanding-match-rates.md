@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
