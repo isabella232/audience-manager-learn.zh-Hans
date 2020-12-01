@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/aam-overview.html)。
