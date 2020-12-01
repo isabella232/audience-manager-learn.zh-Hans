@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 创建区段 [!UICONTROL People-Based Destinations]
+# 为[!UICONTROL People-Based Destinations]创建区段
 
-此视频将引导您逐步创建 [!UICONTROL segment] 要用于的Audience Manager [!UICONTROL People-Based Destinations]。
+此视频将引导您逐步创建[!UICONTROL segment]Audience Manager，以用于[!UICONTROL People-Based Destinations]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
