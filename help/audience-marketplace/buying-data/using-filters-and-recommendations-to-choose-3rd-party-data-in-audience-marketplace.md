@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# 使用过滤器和Recommendations [!UICONTROL Third Party] 在 [!UICONTROL Audience Marketplace]
+# 使用过滤器和Recommendations在[!UICONTROL Audience Marketplace]中选择[!UICONTROL Third Party]数据
 
-此视频将演练中的过滤器和推荐选项， [!UICONTROL Audience Marketplace] 帮助您根据需要选择 [!UICONTROL third party] 正确的数据提供者。
+此视频将演练[!UICONTROL Audience Marketplace]中的过滤器和推荐选项，帮助您根据需要选择合适的[!UICONTROL third party]数据提供者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
