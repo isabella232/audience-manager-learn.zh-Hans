@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Adobe Advertising Cloud与Adobe Audience Manager一体化 {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Adobe Advertising Cloud与Adobe Audience Manager一体化{#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
-了解Adobe Audience Manager与Adobe的集成如何 [!DNL Adobe Ad Cloud] 工作。 还可获取匹配率和Cookie [!UICONTROL third party] 同步的答案。
+了解Adobe Audience Manager与[!DNL Adobe Ad Cloud]之间的集成如何工作。 还可获取有关匹配率和[!UICONTROL third party] cookie-synching的答案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
