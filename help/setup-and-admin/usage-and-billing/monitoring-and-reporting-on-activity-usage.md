@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # 活动使用情况的监控和报告
 
-在此视频中，我们将演练如何使用， [!DNL Activity Usage Report]包括显示和下载选项。
+在此视频中，我们将介绍如何使用[!DNL Activity Usage Report]，包括显示和下载选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-有关详细信息，请访问 [文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)。
+有关详细信息，请访问[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)。
