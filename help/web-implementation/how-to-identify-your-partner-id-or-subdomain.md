@@ -17,17 +17,17 @@ ht-degree: 0%
 ---
 
 
-# 如何识别Audience Manager子域 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
+# 如何识别Audience Manager子域{#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-实施某些Experience Cloud功能时，您需要了解您的 `Subdomain` 是什么(有时也称为您的 `client ID` 或 `Partner ID`Audience Manager)。 在此视频中，我们将向您展示在Audience ManagerUI中可以获取此信息的两个位置。
+实施某些Experience Cloud功能时，您需要了解Audience Manager`Subdomain`是什么（有时也称为`client ID`或`Partner ID`）。 在此视频中，我们将向您展示在Audience ManagerUI中可以获取此信息的两个位置。
 
-## 放弃结局…… {#giving-away-the-ending}
+## 放弃结尾…… {#giving-away-the-ending}
 
-如果您希望跳入并在不观看此简短视频的情况下找到它，您可以在UI `Partner Subdomain` 的两个位置找到您的：
+如果您只是跳入并查找它，而不观看此简短的视频，您可以在UI的两个位置找到`Partner Subdomain`:
 
-1. 如果已创建，请 [!UICONTROL rule-based] 单 [!UICONTROL trait]击 **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] 在该文 [!UICONTROL trait] 件夹列表 [!UICONTROL traits] 中的旁边，URL将在URL中包含您的子域。
-1. 如果进入> **[!UICONTROL Tools]** 界 **[!UICONTROL Tags]** 面并单 **[!UICONTROL Get code]** 击容器，子域将位于Akamai行的末尾
+1. 如果已创建[!UICONTROL rule-based] [!UICONTROL trait]，请单击&#x200B;**[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] 位于该文 [!UICONTROL trait] 件夹列表 [!UICONTROL traits] 中的旁边，URL将在URL中包含您的子域。
+1. 如果进入&#x200B;**[!UICONTROL Tools]** > **[!UICONTROL Tags]**&#x200B;接口并单击&#x200B;**[!UICONTROL Get code]**&#x200B;容器，则子域将位于Akamai行的末尾
 
 如果您无法通过这些快速参考快速找到该视频，则视频将是一个短暂的任务。 :)
 
