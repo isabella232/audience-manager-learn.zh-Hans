@@ -18,11 +18,11 @@ ht-degree: 31%
 ---
 
 
-# 通过以下方式增强 [!UICONTROL Segments] AAM [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# 使用[!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}增强AAM [!UICONTROL Segments]
 
-在构 [!DNL Trait Recommendations]建或编辑内容时，您会收 [!UICONTROL segment] 到 [!DNL Segment Builder]有关您可以包括的其 [!UICONTROL traits] 他建议，这些建议与规则中 [!UICONTROL traits] 的相 [!UICONTROL segment] 似。
+对于[!DNL Trait Recommendations]，当您在[!DNL Segment Builder]中构建或编辑[!UICONTROL segment]时，您会收到有关您可以包括的附加[!UICONTROL traits]的建议，这与[!UICONTROL segment]规则中的[!UICONTROL traits]类似。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] 同时处理 [!UICONTROL first party] 和 [!UICONTROL third party] 数据，这样您就可以加入其他推荐 [!UICONTROL traits] 内容并增加目标受众。\
-有关此功能的详细信息，请访问 [文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。
+[!DNL Trait Recommendations] 同时处理 [!UICONTROL first party] 和 [!UICONTROL third party] 数据，以便添加其他推荐 [!UICONTROL traits] 内容并增加目标受众。\
+有关此功能的详细信息，请访问[文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。
