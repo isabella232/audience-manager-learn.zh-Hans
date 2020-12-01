@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 概述 [!UICONTROL Profile Merge Rules]
+# [!UICONTROL Profile Merge Rules]概述
 
-了解客 [!UICONTROL Profile Merge Rules] 户的价值、工作方式以及对营销人员的价值。
+了解[!UICONTROL Profile Merge Rules]是什么，它们的工作方式及其对营销人员的价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
