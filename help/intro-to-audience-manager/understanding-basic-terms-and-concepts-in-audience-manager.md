@@ -1,6 +1,7 @@
 ---
 title: 理解Audience Manager中的基本术语和概念
 description: 在此视频中，我们将介绍一些基本术语和概念，以帮助您开始使用 Audience Manager，包括信号、特征、细分等。
+landing-page-description: Learn basic terms and concepts that will get you started in Audience Manager, including signals, traits, segments, and more.
 feature: overview
 topics: null
 audience: all
@@ -10,7 +11,7 @@ team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
 translation-type: tm+mt
-source-git-commit: c257df634f156a7067683749fbe178081bce7e75
+source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 77%
