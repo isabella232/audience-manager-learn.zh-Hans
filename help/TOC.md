@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
+source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '733'
 ht-degree: 5%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 5%
 + 设置和管理员{#setup-and-admin}
    + 数据源 {#data-sources}
       + [为分析数据创建数据源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+   + 用户管理 {#user-management}
+      + [使用基于角色的访问控制设置权限](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 数据治理和隐私{#data-governance-and-privacy}
       + [全局设备ID验证](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0支持](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
