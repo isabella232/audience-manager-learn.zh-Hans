@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
+source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '773'
 ht-degree: 5%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 5%
       + [使用生存时间(TTL)设置配置特征过期](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [使用代码视图创建和编辑特征](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [批量管理(BAAAM)简介](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
+      + [使用BAAAM批量创建和管理特征](build-and-manage-audiences/traits-and-segments/creating-and-managing-traits-in-bulk-with-baaam.md)
       + [创建区段的基础知识](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
       + [创建区段分类](build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.md)
       + [实用细分定义与创建](build-and-manage-audiences/traits-and-segments/practical-segment-definition-and-creation.md)
