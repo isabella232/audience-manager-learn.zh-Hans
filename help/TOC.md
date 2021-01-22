@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 5%
+source-wordcount: '781'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,7 @@ ht-degree: 5%
       + [区段生成器中的特征推荐增强功能](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [在段中使用近期和频率](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [在构建区段时使用代码视图](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [将区段从Adobe Analytics导入Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [构建细分以抑制向客户投放广告](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [将Audience Manager段映射到目标](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [将区段映射到基于设备的目标](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
