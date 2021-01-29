@@ -7,9 +7,10 @@ audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25169.jpg
 kt: 1762
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 使用[!DNL Data Explorer]创建追溯[!UICONTROL Traits]和[!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-此视频演示如何创建追溯[!UICONTROL traits]，即从创建[!UICONTROL trait]之前将数据回填到&lt;a2/>的[!UICONTROL traits]。 这是您的[!UICONTROL trait]创作中的重大突破！
+此视频演示如何创建追溯[!UICONTROL traits]，即从创建[!UICONTROL trait]之前将数据回填到的[!UICONTROL traits]。 这是您的[!UICONTROL trait]创作中的重大突破！
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
