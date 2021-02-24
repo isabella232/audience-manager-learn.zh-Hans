@@ -1,17 +1,18 @@
 ---
-title: 用户档案合并规则增强如何影响细分、激活和报告
-description: 了解用户档案合并规则增强如何影响Audience ManagerUI中的总特征和区段总量
-feature: profile merge
+title: 用户档案合并规则增强对细分、激活和报告的影响
+description: 了解用户档案合并规则增强对Audience ManagerUI中总特征和区段总体的影响
+feature: 用户档案合并
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28972.jpg
 kt: 3693
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -19,6 +20,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule]增强对[!UICONTROL Segmentation]、激活和报告的影响
 
-了解[!UICONTROL Profile Merge Rule]增强将如何影响Audience ManagerUI中的总[!UICONTROL Trait]和[!UICONTROL Segment]人口。
+了解[!UICONTROL Profile Merge Rule]增强功能将如何影响Audience Manager UI中的总[!UICONTROL Trait]和[!UICONTROL Segment]人口。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)
