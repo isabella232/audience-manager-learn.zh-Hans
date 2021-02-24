@@ -1,17 +1,18 @@
 ---
 title: 使用过滤器和Recommendations在Audience Marketplace中选择第三方数据
 description: 此视频将演练Audience Marketplace中的过滤器和推荐选项，帮助您根据需要选择合适的第三方数据提供商。
-feature: audience marketplace
+feature: 受众市场
 topics: null
 audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 29370.jpg
 kt: 3938
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 使用过滤器和Recommendations在[!UICONTROL Audience Marketplace]中选择[!UICONTROL Third Party]数据
 
-此视频将演练[!UICONTROL Audience Marketplace]中的过滤器和推荐选项，帮助您根据需要选择合适的[!UICONTROL third party]数据提供者。
+此视频将浏览[!UICONTROL Audience Marketplace]中的过滤器和推荐选项，帮助您根据需要选择合适的[!UICONTROL third party]数据提供者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
