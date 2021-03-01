@@ -1,7 +1,7 @@
 ---
-title: Audience Manager中的身份介绍
+title: 身份介绍在Audience Manager
 description: 在此视频中，您将了解 Adobe Audience Manager 如何管理身份，包括内部档案和档案合并以及 ID 与合作伙伴的同步。
-landing-page-description: Learn how Audience Manager manages identity, including internal profiles and profile merging as well as ID syncing with partners.
+landing-page-description: 了解 Audience Manager 如何管理身份，包括内部档案和档案合并以及 ID 与合作伙伴的同步。
 feature: id syncs
 topics: null
 audience: all
@@ -13,13 +13,13 @@ thumbnail: 34172.jpg
 translation-type: tm+mt
 source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 80%
+source-wordcount: '83'
+ht-degree: 83%
 
 ---
 
 
-# Audience Manager中的身份介绍
+# 身份介绍在Audience Manager
 
 在此视频中，您将了解 Adobe Audience Manager 如何管理身份，包括内部档案和档案合并以及 ID 与合作伙伴的同步。
 
