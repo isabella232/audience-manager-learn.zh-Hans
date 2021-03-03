@@ -3,16 +3,17 @@ title: 在Audience Manager中使用算法（相似）模型来增加ROAS
 description: Audience Manager相似建模的真正强大之处在于您寻求针对来自第2方和第3方数据源的全新高质量用户群扩展基准受众。 在本教程中，了解从此数据创建模型的步骤。
 feature: 算法模型
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
