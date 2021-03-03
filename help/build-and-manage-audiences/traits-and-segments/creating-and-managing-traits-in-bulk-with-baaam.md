@@ -1,18 +1,19 @@
 ---
 title: 使用BAAAM批量创建和管理特征
-description: 在创建、编辑或删除特征时，使用UI逐个执行这些操作会效率低下且耗时。 在此视频中，了解如何使用BAAM(Audience Manager的批量管理工具)批量创建、编辑和删除特征，使用简单的Microsoft电子表格作为与REST API的接口。
-feature: Traits
+description: 在创建、编辑或删除特征时，使用UI逐个完成这些操作可能效率低下且耗时。 在此视频中，了解如何使用BAAAM(Audience Manager的批量管理工具)批量创建、编辑和删除特征，使用简单的Microsoft电子表格作为与REST API的接口。
+feature: 特征
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330749.jpg
 kt: 6621
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: ee0b90995975402ccb9b63c67fd893b276abb92b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # 使用BAAAM批量创建和管理特征
 
-在创建、编辑或删除特征时，使用UI逐个执行这些操作会效率低下且耗时。 在此视频中，了解如何使用BAAM(Audience Manager的批量管理工具)批量创建、编辑和删除特征，使用简单的Microsoft电子表格作为与REST API的接口。
+在创建、编辑或删除特征时，使用UI逐个完成这些操作可能效率低下且耗时。 在此视频中，了解如何使用BAAAM(Audience Manager的批量管理工具)批量创建、编辑和删除特征，使用简单的Microsoft电子表格作为与REST API的接口。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
