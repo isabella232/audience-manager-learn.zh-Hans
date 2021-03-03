@@ -3,16 +3,18 @@ title: 了解Audience Manager用户实时CDP中的特点
 description: 当您从Audience Manager转向实时客户数据平台时，了解概念的差异会很有帮助。 此视频解决了Audience Manager中的特征和实时CDP中的等效内容。
 feature: 平台集成
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
+topic: 集成
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: 286e47e5c32f0fb90fb00a39248022a4ca9d9b7a
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
