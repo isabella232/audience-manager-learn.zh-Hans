@@ -1,18 +1,19 @@
 ---
 title: 报告第2方和第3方Audience Marketplace在细分层的使用
 description: 此视频在报告UI的“应付款”部分中显示了Audience Marketplace数据使用的新方法。 除了现有的源级报告流程之外，现在还可以在细分级别提交每月展示次数，这消除了成本归因的离线计算需求。
-feature: 受众市场
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
