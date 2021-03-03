@@ -3,17 +3,18 @@ title: 在Audience Manager中配置和报告[!UICONTROL Predictive Audiences]
 description: 在此视频中，我们将演练Audience Manager接口中的[!UICONTROL Predictive Audiences]配置。 我们还将看到显示模型结果的报告。
 feature: 算法模型
 topics: null
-audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
+role: 管理员
+level: 中间
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 3%
 
 ---
 
