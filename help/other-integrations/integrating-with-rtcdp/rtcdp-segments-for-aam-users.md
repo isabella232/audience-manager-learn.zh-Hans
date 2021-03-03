@@ -3,16 +3,18 @@ title: 了解针对Audience Manager用户的实时CDP中的细分
 description: 当您从Audience Manager转向实时客户数据平台时，了解概念的差异会很有帮助。 此视频查看了Audience Manager和实时CDP之间在细分和细分创建方面的差异。
 feature: 平台集成
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
+topic: 集成
+role: 业务从业者
+level: 中间
 translation-type: tm+mt
-source-git-commit: 4f6c2ac49e0b05438e040e73963f7ebb5b02fcc0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '198'
 ht-degree: 1%
 
 ---
