@@ -1,31 +1,32 @@
 ---
-title: 使用标签管理器实现Audience Manager
+title: 使用标签管理器实施Audience Manager
 description: 在此视频中，您将学习使用标签管理解决方案时实施Adobe Audience Manager的基础知识。
-feature: implementation basics
+feature: 实施基础
 topics: null
-audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
+role: “开发人员、数据工程师”
+level: 中间
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 
-# 使用标签管理器实现Audience Manager
+# 使用标签管理器实施Audience Manager
 
 在此视频中，您将学习使用标签管理解决方案时实施Adobe Audience Manager的基础知识。
 
 突出显示了以下用例：
 
-* 在使用Adobe Experience Platform Launch时通过Adobe Analytics实施
-* 不使用Adobe Analytics时通过Adobe Experience Platform Launch实施
-* 在使用Adobe Analytics时，通过非Adobe标签管理器实施
+* 同时使用Adobe Experience Platform Launch时通过Adobe Analytics实施
+* 不使用Adobe Experience Platform Launch时通过Adobe Analytics实施
+* 在使用Adobe Analytics时通过非Adobe标签管理器实施
 * 不使用Adobe Analytics时，通过非Adobe标签管理器实施
 
 >[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
