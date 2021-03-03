@@ -1,25 +1,26 @@
 ---
-title: 在AdobeIO中检索API凭据
-description: 您无需联系Adobe咨询或客户服务部门获取使用REST API的凭据，只需在浏览器中转到Adobe.io并检索或注册您自己的凭据。
-feature: api
+title: 在Adobe IO中检索API凭据
+description: 您只需转到浏览器中的Adobe.io并检索或注册您自己的凭据，而无需联系Adobe咨询或客户关怀部门获取使用REST API的凭据。
+feature: API
 topics: null
-audience: developer
 activity: develop
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 37889.jpg
 kt: 5971
+role: 开发人员
+level: 富有经验
 translation-type: tm+mt
-source-git-commit: 75748e00781a6563af5e9e4312c45d66ec6105a0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
 
-# 在Adobe I/O检索API凭据
+# 在Adobe I/O中检索API凭据
 
-您无需联系Adobe咨询或客户服务部门获取使用REST API的凭据，只需在浏览器中转到Adobe.io并检索或注册您自己的凭据。
+您只需转到浏览器中的Adobe.io并检索或注册您自己的凭据，而无需联系Adobe咨询或客户关怀部门获取使用REST API的凭据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)
