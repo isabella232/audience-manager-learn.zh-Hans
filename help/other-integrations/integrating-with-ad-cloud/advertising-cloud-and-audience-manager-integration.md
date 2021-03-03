@@ -1,19 +1,21 @@
 ---
 title: Adobe Advertising Cloud和Adobe Audience Manager集成
 description: 了解Adobe Audience Manager与Adobe Ad Cloud之间的集成如何工作。 还可获得有关匹配率和第三方Cookie同步的答案。
-feature: 与ad cloud集成
+feature: Advertising Cloud集成
 topics: null
-audience: all
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
+topic: 集成
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
