@@ -1,25 +1,26 @@
 ---
 title: 创建基于规则的特征
-description: 了解如何在Audience ManagerUI中使用特征生成器创建基于规则的特征，从而将实时活动捕获到Audience Manager用户档案。
-feature: traits
+description: 了解如何在Audience Manager UI中使用特征生成器创建基于规则的特征，从而允许您将实时活动捕获到Audience Manager用户档案。
+feature: 特征
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34749.jpg
 kt: 5290
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 1%
 
 ---
 
 
 # 创建基于规则的特征
 
-了解如何使用Audience ManagerUI中的[!UICONTROL Trait Builder]创建基于规则的特征，从而将实时活动捕获到Audience Manager用户档案。
+了解如何使用Audience Manager UI中的[!UICONTROL Trait Builder]创建基于规则的特征，从而将实时活动捕获到Audience Manager用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
