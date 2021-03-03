@@ -1,18 +1,19 @@
 ---
 title: 将数据使用量批量上传到Audience Marketplace
 description: '在报告Audience Marketplace中的第2方和第3方数据使用情况时，您可能有足够的条目，以便您不想手动完成。 在此视频中，您将学习如何使用数据使用报告批量上传工具，以便您可以轻松报告数据使用情况，即使您有许多要更新的项目。 '
-feature: 受众市场
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
