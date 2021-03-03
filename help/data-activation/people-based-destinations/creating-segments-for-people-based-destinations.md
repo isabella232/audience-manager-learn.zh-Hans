@@ -1,18 +1,19 @@
 ---
-title: 为Adobe Audience Manager的以人为本的目的地创建细分
-description: 此视频将引导您逐步创建Audience Manager中用于基于人的目标的区段。
-feature: people-based destinations
+title: 在Adobe Audience Manager中为基于人员的目标创建细分
+description: 此视频将指导您逐步创建Audience Manager中用于基于人的目标的区段。
+feature: '"以人为本"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
