@@ -1,17 +1,18 @@
 ---
 title: DMP如何改变您的业务
-description: 数据管理平台是当前科技界的热门话题，但是，它们是什么？更重要的是，它们如何帮助您作为营销人员实现您的目标？ 在本课程中，我们将解释DMP是什么，并展示一些真实案例研究，这些案例研究使客户在投资上获得了惊人的回报，从更高效的媒体购买到显着提高的转化率。
-feature: overview
+description: 数据管理平台目前是科技界的热门话题，但是，它们有什么作用，更重要的是，它们如何帮助您实现您的目标？ 在本课程中，我们将解释DMP是什么，并展示一些真实案例研究，其中客户在投资上获得了惊人回报，从更高效的媒体购买到显着提高的转化率。
+feature: 概述
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 kt: 4025
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,8 +20,8 @@ ht-degree: 0%
 
 # DMP如何改变您的业务
 
-[!DNL Data Management Platforms] 现在是否在谈论科技界，但它们是什么？更重要的是，它们如何帮助您作为营销人员实现您的目标？
+[!DNL Data Management Platforms] 现在谈论的是科技界吗？但是，他们是什么？更重要的是，在营销人员实现您的目标时，他们如何帮助您？
 
-在本课程中，我们将解释DMP是什么，并展示一些真实案例研究，这些案例研究使客户在投资上获得了惊人的回报，从更高效的媒体购买到显着提高的转化率。
+在本课程中，我们将解释DMP是什么，并展示一些真实案例研究，其中客户在投资上获得了惊人回报，从更高效的媒体购买到显着提高的转化率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
