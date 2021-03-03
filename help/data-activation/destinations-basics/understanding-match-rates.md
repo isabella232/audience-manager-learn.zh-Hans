@@ -1,26 +1,27 @@
 ---
 title: 了解匹配率
-description: 此视频可帮助您了解Adobe Audience Manager的匹配率、匹配率、匹配率以及计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率较低。
-feature: match rates
+description: 此视频可帮助您了解Adobe Audience Manager中的匹配率、匹配率的大小以及计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率低。
+feature: 匹配率
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
 
 # 了解匹配率
 
-此视频可帮助您了解Adobe Audience Manager的匹配率、匹配率、匹配率以及计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率较低。
+此视频可帮助您了解Adobe Audience Manager中的匹配率、匹配率的大小以及计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率低。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
