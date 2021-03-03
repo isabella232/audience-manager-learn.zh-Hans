@@ -1,25 +1,26 @@
 ---
-title: Audience Manager中按国家／地区划分的IP模糊化
-description: Audience Manager在UI中提供自助服务功能，使客户能够在全球范围内或按国家／地区启用IP模糊化。 此视频将引导您完成设置。
-feature: data governance & privacy
+title: IP模糊处理（按国家/地区）在Audience Manager
+description: Audience Manager在UI中提供自助服务功能，使客户能够在全球或按国家/地区打开IP模糊处理。 此视频将引导您完成设置。
+feature: “数据治理和隐私”
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 
-# 在Audience Manager{#ip-obfuscation-by-country-in-audience-manager}中按国家／地区划分的IP模糊化
+# 在Audience Manager{#ip-obfuscation-by-country-in-audience-manager}中按国家/地区进行IP模糊处理
 
-Audience Manager在UI中提供自助服务功能，使客户能够在全球范围内或按国家／地区启用IP模糊化。 此视频将引导您完成设置。
+Audience Manager在UI中提供自助服务功能，使客户能够在全球或按国家/地区打开IP模糊处理。 此视频将引导您完成设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
