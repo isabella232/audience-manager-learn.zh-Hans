@@ -3,17 +3,18 @@ title: 排除算法（相似）模型中的特征
 description: '在此视频中，您将了解从算法（相似）模型中排除特定（或一组）特征的方式和原因。 '
 feature: 算法模型
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
 
