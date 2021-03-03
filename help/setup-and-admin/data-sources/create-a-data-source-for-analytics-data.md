@@ -4,16 +4,17 @@ description: 在此视频中，我们将演练在 AAM 中创建数据源的步�
 landing-page-description: 了解如何为来自分析解决方案（如 Adobe Analytics）的实时数据创建数据源。请在为分析数据创建特征之前执行该操作。
 feature: 数据源
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
