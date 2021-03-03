@@ -3,16 +3,17 @@ title: 解释受众身份报告
 description: 受众身份报告使客户能够按个人/家庭身份定义报告特征或区段的总人口。 观看此视频，了解其在Audience Manager报表中的显示方式。
 feature: 用户档案合并
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 中间
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
