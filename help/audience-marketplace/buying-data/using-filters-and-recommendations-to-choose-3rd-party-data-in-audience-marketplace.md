@@ -1,19 +1,20 @@
 ---
 title: 使用过滤器和Recommendations在Audience Marketplace中选择第三方数据
 description: 此视频将演练Audience Marketplace中的过滤器和推荐选项，帮助您根据需要选择合适的第三方数据提供商。
-feature: 受众市场
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
+level: 初学者
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
