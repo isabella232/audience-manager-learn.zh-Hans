@@ -1,18 +1,19 @@
 ---
 title: 获取基于文件的数据的步骤
-description: 此视频将引导您完成将离线数据载入Audience Manager时需要考虑的几个步骤，包括数据文件的文件名要求。
-feature: onboarding offline data
+description: 此视频将指导您完成将离线数据载入Audience Manager时需要考虑的几个步骤，包括数据文件的文件名要求。
+feature: 入门脱机数据
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # 获取基于文件的数据的步骤
 
-此视频将引导您完成将离线数据载入Audience Manager时需要考虑的几个步骤，包括数据文件的文件名要求。
+此视频将指导您完成将离线数据载入Audience Manager时需要考虑的几个步骤，包括数据文件的文件名要求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
