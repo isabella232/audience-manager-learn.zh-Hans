@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: f46f94124aeb9cec80573dec28dfd42400eb98e4
+source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '866'
 ht-degree: 4%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 4%
       + [使用Adobe Audience Manager数据连接器收录数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [了解实时CDP中的第一方数据摄取](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [了解实时CDP中的Web数据摄取](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
+      + [了解实时CDP中的模式和XDM](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [了解实时CDP的特点](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [了解实时CDP中的细分](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
    + 与Ad Cloud{#integrating-with-ad-cloud}集成
