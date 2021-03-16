@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 4%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 4%
    + [身份介绍在Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + 实现值{#value-realization}
       + [在客户抑制用例中衡量ROI](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ 行业新闻与趋势{#industry}
+   + [数据管理的未来与不断变化的环境](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [负责任客户数据管理的10个考虑事项](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [品牌与消费者](industry/brands-vs-consumers.md)
 + 设置和管理{#setup-and-admin}
    + 数据源 {#data-sources}
       + [为分析数据创建数据源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
