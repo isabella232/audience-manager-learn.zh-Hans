@@ -3,15 +3,15 @@ title: 了解针对Audience Manager用户的实时CDP中的数据治理
 description: 此视频将指导Audience Manager用户了解实时客户数据平台中的数据管理功能，并将它与Audience Manager中提供的功能进行比较。 它讨论了数据使用和标签强制(DULE)框架以及在平台中可以应用该框架的位置。
 feature: 平台集成
 topic: 集成
-role: 业务从业者
+role: 业务从业者，架构师，管理员，领导者
 level: 中间
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
