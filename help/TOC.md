@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '915'
 ht-degree: 4%
 
 ---
@@ -156,6 +156,7 @@ ht-degree: 4%
       + [了解实时CDP的特点](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [了解实时CDP中的信号](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [了解实时CDP中的细分](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [了解实时CDP中的目标](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [了解实时CDP中的访问控制](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [了解实时CDP中的数据治理](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + 与Ad Cloud{#integrating-with-ad-cloud}集成
