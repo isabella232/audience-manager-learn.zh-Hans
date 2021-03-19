@@ -2,19 +2,16 @@
 title: 了解面向Audience Manager用户的实时CDP中的第一方数据摄取
 description: 此视频讨论了使用Adobe Audience Manager的用户在实时客户数据平台(Real-time CDP)中的第一方离线数据摄取。 我们查看了两个产品之间在数据摄取方面的一些主要差异，并说明了在将进程移动到实时CDP之前，Audience Manager Data Connector如何用作停止间隙。
 feature: 平台集成
-topics: null
-activity: understand
+topic: 集成
+role: 业务从业者，架构师，管理员，领导者
+level: 中间
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331276.jpg
 kt: 7128
-topic: 集成
-role: 业务从业者
-level: 中间
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 1%
 
 ---
