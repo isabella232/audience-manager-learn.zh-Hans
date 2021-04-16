@@ -2,22 +2,21 @@
 title: IAB TCF 2.0在Audience Manager中支持
 description: Adobe为您提供了通过选择加入功能以及IAB透明度和同意框架2.0(TCF 2.0)支持的Audience Manager插件管理和传达用户隐私选择的方法。 本文与文档一起使用，帮助您了解IAB TCF的Audience Manager插件，以及它如何与Adobe的Opt-in对象和您的同意管理提供商(CMP)一起使用。
 feature: “数据治理和隐私”
-topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
-role: “开发人员、数据工程师、架构师”
-level: 富有经验
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
-
 
 # IAB TCF 2.0在Audience Manager{#iab-tcf-support-in-audience-manager}中支持
 
