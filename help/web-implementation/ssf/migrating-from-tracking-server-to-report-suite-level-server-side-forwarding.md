@@ -1,23 +1,23 @@
 ---
 title: 从跟踪服务器迁移到报表包级别的服务器端转发
 description: 本文和视频将向您介绍如何在报表包级别而不是在跟踪服务器级别启用将Analytics数据的服务器端转发到Audience Manager。
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics 集成
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: “开发人员、数据工程师”
-level: 中间
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # 从[!UICONTROL Tracking Server]迁移到[!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
