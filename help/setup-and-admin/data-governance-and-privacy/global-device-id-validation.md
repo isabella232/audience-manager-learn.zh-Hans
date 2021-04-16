@@ -1,22 +1,22 @@
 ---
 title: 全局设备ID验证
 description: 设备广告标识符（即iDFA、GAID、Roku ID）具有必须满足的格式化标准，才能在数字广告生态系统中使用。 现在，客户和合作伙伴可以以任何格式将ID上传到我们的全球数据源，而无需通知该ID是否格式正确。 此功能将对发送到全局数据源的设备ID进行验证，以获得正确的格式，并在ID格式不正确时提供错误消息。 我们将支持iDFA、Google Advertising和Roku ID在启动时的验证。
-feature: “数据治理和隐私”
+feature: 数据治理和隐私
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: “开发人员、数据工程师、架构师”
-level: 富有经验
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # 全局设备ID验证{#global-device-id-validation}
 
