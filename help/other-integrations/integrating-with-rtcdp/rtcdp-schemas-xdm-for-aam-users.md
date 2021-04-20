@@ -1,10 +1,10 @@
 ---
 title: 了解模式和XDM(针对Audience Manager用户的实时CDP)
 description: 当您从Audience Manager转向实时客户数据平台（实时CDP）时，您将会遇到一些新概念和做法。 模式和XDM属于这一类别。 此视频介绍了这些概念。
-feature: 平台集成
-topic: 集成
-role: 业务从业者，架构师，管理员，领导者
-level: 中间
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

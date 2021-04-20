@@ -1,14 +1,14 @@
 ---
 title: 如何识别您的Audience Manager合作伙伴ID或子域
 description: 在实施某些Experience Cloud功能时，您需要了解您的Audience Manager“合作伙伴ID”是什么（有时也称为“客户ID”或“子域”）。 在此视频中，我们将向您介绍在Audience Manager UI中可以获得此ID的两个位置。
-feature: 实施基础
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: “开发人员、数据工程师”
-level: 中间
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

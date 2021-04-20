@@ -1,15 +1,15 @@
 ---
 title: 客户提示 — 充分利用用户档案合并规则
 description: Accordant的多解决方案顾问Varun Kalra就选择和使用用户档案合并规则(PMR)提供了一些提示。
-feature: 用户档案合并
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

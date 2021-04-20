@@ -1,14 +1,14 @@
 ---
 title: IP模糊处理（按国家/地区）在Audience Manager
 description: Audience Manager在UI中提供自助服务功能，使客户能够在全球或按国家/地区打开IP模糊处理。 此视频将引导您完成设置。
-feature: “数据治理和隐私”
+feature: "Data Governance & Privacy"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

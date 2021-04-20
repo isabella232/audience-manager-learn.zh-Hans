@@ -1,10 +1,10 @@
 ---
 title: 了解Audience Manager用户实时CDP中的信号
 description: 此视频适用于迁移到实时Audience Manager平台（实时CDP）的Audience Manager用户，并讨论您在中用于构建特征的信号（键值对）在平台中的使用方式。
-feature: 平台集成
-topic: 集成
-role: 业务从业者，架构师，管理员，领导者
-level: 中间
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305

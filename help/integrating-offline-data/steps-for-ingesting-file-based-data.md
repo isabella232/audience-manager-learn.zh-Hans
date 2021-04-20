@@ -1,15 +1,15 @@
 ---
 title: 获取基于文件的数据的步骤
 description: 此视频将指导您完成将离线数据载入Audience Manager时需要考虑的几个步骤，包括数据文件的文件名要求。
-feature: 入门脱机数据
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

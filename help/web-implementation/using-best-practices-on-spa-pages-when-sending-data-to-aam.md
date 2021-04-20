@@ -1,15 +1,15 @@
 ---
 title: 向AAM发送数据时在SPA页面上使用最佳实践
 description: 在此文档中，我们将介绍从单页应用程序(SPA)向Adobe Audience Manager(AAM)发送数据时您应遵循并注意的几种最佳实践。 本文档将重点介绍使用Launch by Adobe，这是推荐的实现方法。
-feature: 实施基础
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: “开发人员、数据工程师”
-level: 富有经验
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 创建区段的基础知识
 description: 浏览UI中的字段，在Audience Manager中创建区段。
-feature: 区段
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

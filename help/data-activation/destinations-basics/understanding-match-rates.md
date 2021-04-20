@@ -1,15 +1,15 @@
 ---
 title: 了解匹配率
 description: 此视频可帮助您了解Adobe Audience Manager中的匹配率、匹配率的大小以及计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率低。
-feature: 匹配率
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

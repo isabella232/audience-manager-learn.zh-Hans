@@ -1,15 +1,15 @@
 ---
 title: 用户档案合并规则示例和用例
 description: 在此视频中，您将看到用户档案合并规则的示例及其含义，以及用户档案合并规则所解决的使用案例。
-feature: 用户档案合并
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

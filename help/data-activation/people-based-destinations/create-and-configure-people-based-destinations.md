@@ -1,15 +1,15 @@
 ---
 title: 创建和配置基于人员的目标
 description: 此视频首先向您提供一些有关创建基于人员的目标的先决条件的信息，然后还向您展示如何配置集成帐户（指向合作伙伴的链接，例如Facebook）。 然后，它会引导您了解目标本身的产品内设置。
-feature: '"以人为本"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

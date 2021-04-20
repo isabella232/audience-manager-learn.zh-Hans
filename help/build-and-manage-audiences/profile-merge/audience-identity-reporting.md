@@ -1,7 +1,7 @@
 ---
 title: 受众身份报告
 description: 受众身份报告使客户能够按个人/家庭身份定义报告特征或区段的总人口。 观看此视频，了解其在Audience Manager报表中的显示方式。
-feature: 用户档案合并
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

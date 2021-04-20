@@ -1,15 +1,15 @@
 ---
 title: 了解Audience Manager中的匹配率界面
 description: 此视频将指导您浏览目标界面，显示并解释与匹配率和可寻址受众相关的数字。
-feature: 匹配率
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

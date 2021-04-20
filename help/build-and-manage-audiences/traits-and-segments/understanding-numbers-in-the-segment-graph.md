@@ -1,15 +1,15 @@
 ---
 title: 了解区段图中的数字
 description: 了解区段信息屏幕图形中显示的数字。
-feature: 区段
+feature: Segments
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38041.jpg
 kt: 5936
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

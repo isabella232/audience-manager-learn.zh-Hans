@@ -1,13 +1,13 @@
 ---
 title: Analytics视频和Tutorials
 description: Adobe Analytics 的视频和教程集合。
-feature: 概述
+feature: Overview
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

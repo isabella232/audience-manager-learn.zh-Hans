@@ -2,13 +2,13 @@
 title: 将站点的AAM实施从客户端DIL迁移到服务器端转发
 description: 如果您同时拥有Adobe Audience Manager(AAM)和Adobe Analytics，并且您当前正在使用“DIL”(Data Integration Library)代码将点击从页面发送到AAM，并且还从页面将点击从页面发送到Adobe Analytics，则本教程适用于您。 由于您有这两款解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您可以遵循打开“服务器端转发(SSF)”的最佳实践，这使Analytics数据收集服务器能够将站点分析数据实时转发到Audience Manager，而不是让客户端代码从页面向AAM发送额外的点击。 本教程将引导您完成从旧的“客户端DIL”实现切换到较新的“服务器端转发”方法的步骤。
 product: audience manager
-feature: Adobe Analytics 集成
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

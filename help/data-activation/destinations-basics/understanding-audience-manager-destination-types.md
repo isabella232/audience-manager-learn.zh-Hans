@@ -1,15 +1,15 @@
 ---
 title: 了解Audience Manager目标类型
 description: 此视频将带您了解Adobe Audience Manager中不同类型的目标，并举例说明您何时使用每个目标。
-feature: 目标基础
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

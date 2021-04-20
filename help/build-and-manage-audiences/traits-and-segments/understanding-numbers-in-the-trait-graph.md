@@ -1,15 +1,15 @@
 ---
 title: 了解特征图中的数字
 description: 获取一些提示，了解在特征信息屏幕中所报告的特征数。
-feature: 特征
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

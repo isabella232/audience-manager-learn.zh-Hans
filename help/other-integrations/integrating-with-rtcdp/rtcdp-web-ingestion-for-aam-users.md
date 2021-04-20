@@ -1,10 +1,10 @@
 ---
 title: 了解针对Audience Manager用户的实时CDP中的Web数据摄取
 description: 此视频向Audience Manager用户展示了将网站数据引入实时Audience Manager数据平台（实时CDP）的概念，并包括对Data Connector的适合位置以及数据如何直接从网站通过Web SDK移动到实时CDP的高级接触。
-feature: 平台集成
-topic: 集成
-role: 业务从业者，架构师，管理员，领导者
-level: 中间
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

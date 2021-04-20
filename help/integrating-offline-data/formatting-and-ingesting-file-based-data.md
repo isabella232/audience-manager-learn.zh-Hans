@@ -1,15 +1,15 @@
 ---
 title: 格式化和摄取基于文件的数据
 description: 在将您的第一方引入Audience Manager以更好地了解和目标您的客户时，数据有某些格式要求。 此视频介绍了一些主要选项，并向您显示了如何获取更多信息。
-feature: 入门脱机数据
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

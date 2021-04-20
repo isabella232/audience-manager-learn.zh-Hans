@@ -1,10 +1,10 @@
 ---
 title: 了解Audience Manager用户实时CDP中的特点
 description: 当您从Audience Manager转向实时客户数据平台时，了解概念的差异会很有帮助。 此视频解决了Audience Manager中的特征和实时CDP中的等效内容。
-feature: 平台集成
-topic: 集成
-role: 业务从业者，架构师，管理员，领导者
-level: 中间
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201

@@ -1,15 +1,15 @@
 ---
 title: 使用Audience Optimization报告了解媒体性能
 description: 了解如何使用Audience Optimization报表来改进活动，了解在哪里投资营销资金以及在哪里停止投资。 还了解如何确定最佳频率上限并在这些报告中找到其他重要功能。
-feature: Audience Optimization 报表
+feature: Audience Optimization Reports
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
 kt: 6838
-role: 业务从业者
-level: 中间
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

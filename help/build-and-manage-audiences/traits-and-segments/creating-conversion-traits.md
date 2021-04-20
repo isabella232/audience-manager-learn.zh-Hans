@@ -1,15 +1,15 @@
 ---
 title: 在Audience Manager中创建转换特征
 description: 您的某些特征基于您网站上的转化率。 在此视频中，了解如何将其指定为此类，并了解一个非常重要的提示/错误。
-feature: 特征
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

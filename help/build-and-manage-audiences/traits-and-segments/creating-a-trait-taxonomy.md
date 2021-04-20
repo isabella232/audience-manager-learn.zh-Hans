@@ -1,15 +1,15 @@
 ---
 title: 创建特征分类
 description: 了解有关创建在Audience Manager中保留您的特征的文件夹结构的提示。
-feature: 特征
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40266.jpg
 kt: 6216
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

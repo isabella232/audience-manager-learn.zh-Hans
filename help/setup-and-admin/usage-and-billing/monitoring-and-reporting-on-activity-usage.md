@@ -1,15 +1,15 @@
 ---
 title: 监控和报告活动使用情况
 description: 在此视频中，我们将介绍如何使用“活动使用情况报告”，包括显示和下载选项。
-feature: 使用和计费
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: 管理
-role: “开发人员、数据工程师、管理员”
-level: 初学者
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

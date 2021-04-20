@@ -1,15 +1,15 @@
 ---
 title: 使用相似模型扩展第一方数据中的已售库存
 description: 在本教程中，我们将介绍设置和使用相似模型时应采取的步骤，以便您能够创建新的相似受众，并将它们作为转化细分的扩展进行销售。
-feature: 算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

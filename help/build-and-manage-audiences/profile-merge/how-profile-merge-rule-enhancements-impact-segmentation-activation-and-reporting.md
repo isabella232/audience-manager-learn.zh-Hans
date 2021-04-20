@@ -1,15 +1,15 @@
 ---
 title: 用户档案合并规则增强对细分、激活和报告的影响
 description: 了解用户档案合并规则增强对Audience ManagerUI中总特征和区段总体的影响
-feature: 用户档案合并
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 中间
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

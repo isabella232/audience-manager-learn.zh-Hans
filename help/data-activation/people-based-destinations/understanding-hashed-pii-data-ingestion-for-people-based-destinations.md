@@ -1,15 +1,15 @@
 ---
 title: 了解基于人员的目标的哈希PII数据摄取
 description: 此视频将介绍在准备将PII收录到基于人员的目标Audience Manager时需要考虑的事项。
-feature: '"以人为本"'
+feature: "People-based Destinations"
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
-role: “业务从业者、开发人员、数据工程师、架构师、数据架构师、管理员、领导者”
-level: 初学者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

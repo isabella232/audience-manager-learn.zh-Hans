@@ -1,15 +1,15 @@
 ---
 title: 了解和配置基于人员的LinkedIn目标
 description: 此视频将指导您了解创建LinkedIn的基于人员的目标的概念和步骤。 它以有关基于人员的目标的其他视频和文档为基础。
-feature: '"以人为本"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

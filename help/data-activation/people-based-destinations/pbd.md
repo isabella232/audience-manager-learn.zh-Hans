@@ -1,14 +1,14 @@
 ---
 title: 基于人员的目标视频和Tutorials
 description: 本节包含有关基于人员的目标主题的视频和教程。
-feature: '"以人为本"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: 管理员
-level: 初学者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

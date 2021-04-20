@@ -1,15 +1,15 @@
 ---
 title: 客户提示 — 特征和细分最佳实践
 description: Ally Financial高级营销专家Matt Vittorioso就管理特征和细分提供了技巧。
-feature: 区段
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
