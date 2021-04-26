@@ -2,14 +2,14 @@
 title: 身份介绍在Audience Manager
 description: 在此视频中，您将了解 Adobe Audience Manager 如何管理身份，包括内部档案和档案合并以及 ID 与合作伙伴的同步。
 landing-page-description: 了解 Audience Manager 如何管理身份，包括内部档案和档案合并以及 ID 与合作伙伴的同步。
-feature: ID Syncs
+feature: ID同步
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 translation-type: tm+mt
