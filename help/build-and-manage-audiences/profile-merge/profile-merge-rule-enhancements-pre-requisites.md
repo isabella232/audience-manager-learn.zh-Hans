@@ -1,23 +1,22 @@
 ---
-title: 用户档案合并规则增强 — 先决条件
-description: 概述如何为发布“用户档案合并规则增强”做出最佳准备。
-feature: Profile Merge
+title: 配置文件合并规则增强 — 先决条件
+description: 概述如何为配置文件合并规则增强功能的发布做好最佳准备。
+feature: 配置文件合并
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28971.jpg
 kt: 3692
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f455c256-30a0-4a4c-8617-2542dbe05a6b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge Rule] 增强 — 先决条件
 
