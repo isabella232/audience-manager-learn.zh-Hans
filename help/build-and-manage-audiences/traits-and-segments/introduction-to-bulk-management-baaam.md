@@ -1,6 +1,6 @@
 ---
 title: 批量管理(BAAAM)简介
-description: 了解Audience Manager批量管理工具，通常称为“BAAAM”。 了解如何进行身份验证，以便您能够使用BAAM工作表通过REST API创建、编辑和删除特征和区段。
+description: 了解Audience Manager批量管理工具，通常称为“BAAAM”。 了解如何进行身份验证，以便您能够使用BAAAM工作表通过REST API创建、编辑和删除特征和区段。
 feature: BAAAM
 topics: null
 activity: use
@@ -8,19 +8,18 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 1%
 
 ---
 
-
 # 批量管理(BAAAM)简介
 
-了解Audience Manager [!UICONTROL Bulk Management]工具，通常称为“BAAAM”。 了解如何进行身份验证，以便您能够使用BAAM工作表通过REST API创建、编辑和删除特征和区段。
+了解Audience Manager[!UICONTROL Bulk Management]工具，通常称为“BAAAM”。 了解如何进行身份验证，以便您能够使用BAAAM工作表通过REST API创建、编辑和删除特征和区段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
