@@ -1,26 +1,25 @@
 ---
-title: 使用具有特征和区段的常规报表
-description: 在此视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数字。
-feature: "General & Trend Reports"
+title: 将常规报表与特征和区段结合使用
+description: 在此视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数量。
+feature: “一般和趋势报表”
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
+# 将常规报表与特征和区段结合使用
 
-# 使用具有特征和区段的常规报表
-
-在此视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数字。
+在此视频中，了解如何使用Audience Manager中的常规报表获取特征和区段的数量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
