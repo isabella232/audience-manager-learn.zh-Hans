@@ -1,26 +1,25 @@
 ---
-title: 在构建区段时使用代码视图
-description: 了解如何使用代码视图定义区段，从而允许您创建复杂的特征组合，包括使用最近和频率。
-feature: Segments
+title: 生成区段时使用代码视图
+description: 了解如何使用代码视图来定义区段，从而允许您创建复杂的特征组合，包括使用回访间隔和频度。
+feature: 区段
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: fcdc60a1-7a85-4cf1-bc65-ffd26e15131c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
+# 生成区段时使用代码视图
 
-# 在构建区段时使用代码视图
-
-了解如何使用代码视图定义区段，从而允许您创建复杂的特征组合，包括使用最近和频率。
+了解如何使用代码视图来定义区段，从而允许您创建复杂的特征组合，包括使用回访间隔和频度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
