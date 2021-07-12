@@ -1,26 +1,25 @@
 ---
 title: 了解特征图中的数字
-description: 获取一些提示，了解在特征信息屏幕中所报告的特征数。
-feature: Traits
+description: 获取一些有关了解特征信息屏幕中所报告特征数量的提示。
+feature: 特征
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 2%
 
 ---
 
-
 # 了解特征图中的数字
 
-获取一些提示，了解在特征信息屏幕中所报告的特征数。
+获取一些有关了解特征信息屏幕中所报告特征数量的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
