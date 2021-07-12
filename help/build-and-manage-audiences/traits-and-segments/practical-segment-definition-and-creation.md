@@ -1,26 +1,25 @@
 ---
-title: 实用细分定义与创建
-description: 此视频会指导您定义区段，然后根据需要创建的特征/信号细分区段。
-feature: Segments
+title: 实用的区段定义和创建
+description: 此视频将指导您完成定义区段，然后根据要创建的特征/信号对区段进行划分的过程。
+feature: 区段
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f85b49b0-0919-44c6-8a53-1ffda3dd071c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
+# 实用的区段定义和创建
 
-# 实用细分定义与创建
-
-此视频会指导您定义区段，然后根据需要创建的特征/信号细分区段。
+此视频将指导您完成定义区段，然后根据要创建的特征/信号对区段进行划分的过程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
