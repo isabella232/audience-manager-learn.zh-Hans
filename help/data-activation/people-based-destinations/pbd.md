@@ -10,9 +10,9 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ ht-degree: 0%
 * [创建和配置基于人员的目标](create-and-configure-people-based-destinations.md)
 * [了解和配置LinkedIn基于人员的目标](understanding-and-configuring-the-linkedin-pbd.md)
 
-这些视频可与[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)结合使用。
+这些视频可与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)结合使用。

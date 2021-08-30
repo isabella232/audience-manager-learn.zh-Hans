@@ -1,7 +1,7 @@
 ---
 title: 了解Audience Manager目标类型
 description: 此视频将指导您逐步了解Adobe Audience Manager中不同类型的目标，并举例说明何时使用每个目标。
-feature: 目标基础知识
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
@@ -11,9 +11,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 您可以下载服务器到服务器[!UICONTROL destination]合作伙伴[HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx)的列表。
 
-有关更多信息，请访问[文档](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。
