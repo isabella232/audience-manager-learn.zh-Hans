@@ -1,7 +1,7 @@
 ---
 title: 基于人员的目标视频和Tutorials
 description: 本节包含有关基于人员的目标主题的视频和教程。
-feature: “基于人员的目标”
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] 视频和Tutorials
 
-[!UICONTROL People-Based Destinations] 允许您对在线和离线数据应用分段，以根据经过哈希处理的标识符（如电子邮件地址或电话号码）创建受众区段。然后，您可以将这些区段发送到社交平台，如[!DNL Facebook]或[!DNL LinkedIn]，以便定位受众。
+[!UICONTROL People-Based Destinations] 允许您对在线和离线数据应用分段，以根据经过哈希处理的标识符（如电子邮件地址）创建受众区段。然后，您可以将这些区段发送到社交平台，如[!DNL Facebook]或[!DNL LinkedIn]，以便定位受众。
 
 本节包含有关[!UICONTROL People-Based Destinations]主题的视频和教程。 在您完成设置[!UICONTROL People-Based Destinations]的流程/过程时，它们会按照此顺序被有意列出：
 
