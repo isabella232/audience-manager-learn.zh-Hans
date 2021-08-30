@@ -1,7 +1,7 @@
 ---
 title: 区段生成器中的特征推荐增强功能
 description: 在此视频中，您将在区段生成器中了解如何使用更新的特征推荐，即Audience Marketplace推荐。 这将让您对可扩展区段范围的第三方数据有更深入的了解。
-feature: 区段
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-有关更多信息，请访问[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)。
+有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html)。

@@ -1,7 +1,7 @@
 ---
 title: 配置文件合并视频和Tutorials
 description: 本节包含有关配置文件合并功能（如配置文件合并规则）的视频和教程。
-feature: 配置文件合并
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 0%
 * [解释受众身份报表](interpret-audience-identity-reporting.md)
 * [了解跨设备量度Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-这些视频可与[文档](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用
+这些视频可与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用

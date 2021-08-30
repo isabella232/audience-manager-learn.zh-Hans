@@ -2,7 +2,7 @@
 title: 从跟踪服务器迁移到报表包级别的服务器端转发
 description: 本文和视频将向您展示如何在报表包级别而不是在跟踪服务器级别启用Analytics数据的服务器端转发以Audience Manager。
 product: audience manager
-feature: Adobe Analytics 集成
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Report Suite]-级别 [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-从[!UICONTROL tracking server]转发移动到[!UICONTROL report suite]转发的最大好处之一是您现在可以使用“Audience Analytics”，即将Audience Manager[!UICONTROL segments]转发回Adobe Analytics以进行详细的[!UICONTROL segment]分析。 如果您仍处于[!UICONTROL tracking server]转发状态，而未处于[!UICONTROL report suite]转发状态，则不支持此功能。 有关Audience Analytics的更多信息，请参阅[文档](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/)。
+从[!UICONTROL tracking server]转发移动到[!UICONTROL report suite]转发的最大好处之一是您现在可以使用“Audience Analytics”，即将Audience Manager[!UICONTROL segments]转发回Adobe Analytics以进行详细的[!UICONTROL segment]分析。 如果您仍处于[!UICONTROL tracking server]转发状态，而未处于[!UICONTROL report suite]转发状态，则不支持此功能。 有关Audience Analytics的更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

@@ -1,7 +1,7 @@
 ---
 title: 在Audience Manager中使用算法（相似人群拓展）模型来增加ROAS
 description: Audience Manager相似人群拓展建模的真正强大功能是，当您寻求针对来自第二方和第三方数据源的一组全新优质用户，扩展基线受众。 在本教程中，了解根据此数据创建模型的步骤。
-feature: 算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在以上视频中，我显示的示例假定您具有Adobe Analytics。显然，情况可能并非如此。 如果您拥有Google Analytics(GA)，我们有一个模块，您可以使用该模块将数据发送到AAM（请参阅[文档](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)）；如果您网站上的转化活动通过GA发送到AAM，则可以从中创建转化[!UICONTROL trait]。 如果您有其他分析解决方案（或者没有分析解决方案），您仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)）。 然后，根据在网站上执行转化活动时发送的数据创建转化[!UICONTROL trait]。
+**注意：** 在以上视频中，我显示的示例假定您具有Adobe Analytics。显然，情况可能并非如此。 如果您拥有Google Analytics(GA)，我们有一个模块，您可以使用该模块将数据发送到AAM（请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）；如果您网站上的转化活动通过GA发送到AAM，则可以从中创建转化[!UICONTROL trait]。 如果您有其他分析解决方案（或者没有分析解决方案），您仍可以通过我们的DIL代码和`submit`函数等将数据发送到AAM。 （请参阅[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)）。 然后，根据在网站上执行转化活动时发送的数据创建转化[!UICONTROL trait]。
 
 ## 从[!UICONTROL Second Party]或[!UICONTROL Third Party]数据创建相似人群[!UICONTROL Model] {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

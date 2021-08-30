@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ IAB TC字符串的另一个部分是包含数百个供应商的长列表，以�
 
 为了获得批准(即，为了将IAB目的转换为选择加入对AAM进行“是”投票)，必须征得最终用户的同意，才能批准上述目的1和10。 如果其中任一项未获批准，或供应商未获批准，AAM将不执行像素触发或设置Cookie。 另外，很多客户只是选择为最终用户提供“全部或全部”UI，这当然会允许或禁止使用Audience Manager(和其他Experience Cloud解决方案)。
 
-[文档](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html)中有一些关于适用于IAB TCF的Audience Manager插件流如何同时应用于发布者和广告商用例的重要信息。
+[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)中有一些关于适用于IAB TCF的Audience Manager插件流如何同时应用于发布者和广告商用例的重要信息。
 
 ## IAB:向下游发送同意 {#iab-sending-consent-downstream}
 
