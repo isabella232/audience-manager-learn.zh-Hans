@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的视频和教程集合。
 breadcrumb-title: Audience Manager 教程
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 4%
    + 值实现{#value-realization}
       + [衡量客户抑制用例中的ROI](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 行业新闻和趋势{#industry}
-   + [数据管理的未来与不断变化的环境](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [负责任的客户数据管理的10项注意事项](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [品牌与消费者的两种认知](industry/brands-vs-consumers.md)
+   + [数据管理的未来与不断变化的环境](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [负责任的客户数据管理的10项注意事项](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [品牌与消费者的两种认知](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [打造您的卓越受众中心](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [使用客户用户档案构建更好的体验](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + 设置和管理{#setup-and-admin}
    + 数据源 {#data-sources}
       + [为Analytics数据创建数据源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
