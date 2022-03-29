@@ -1,5 +1,5 @@
 ---
-title: 使用过滤器和Recommendations在Audience Marketplace中选择第三方数据
+title: 使用过滤器和推荐在Audience Marketplace中选择第三方数据
 description: 此视频将逐步介绍Audience Marketplace中的过滤器和推荐选项，以帮助您根据需要选择合适的第三方数据提供商。
 feature: Audience Marketplace
 topics: null
@@ -11,17 +11,17 @@ kt: 3938
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: b59c82a0-4dd5-44d7-8309-aded26dd494e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# 使用过滤器和Recommendations选择[!UICONTROL Audience Marketplace]中的[!UICONTROL Third Party]数据
+# 使用过滤器和推荐在 [!UICONTROL Audience Marketplace]
 
-此视频将逐步介绍[!UICONTROL Audience Marketplace]中的过滤器和推荐选项，以帮助您根据需要选择正确的[!UICONTROL third party]数据提供程序。
+此视频将介绍 [!UICONTROL Audience Marketplace] 以帮助您根据需要选择正确的第三方数据提供商。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-有关更多信息，请访问[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)。
+有关更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).

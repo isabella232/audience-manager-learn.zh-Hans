@@ -1,7 +1,7 @@
 ---
-title: 在AAM中创建第一方相似人群拓展模型
+title: 创建第一方相似人群拓展模型
 description: 在此视频中，您将学习如何创建第一方相似人群拓展模型，以便您能够找到更多自己的类似于转换器的访客。
-feature: 算法模型
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,16 +11,16 @@ kt: 1805
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c38ab8f8-ec0f-44ac-b72f-479356c9950e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 在AAM中创建[!UICONTROL First Party]相似人群拓展[!UICONTROL Model] {#creating-a-first-party-look-alike-model-in-aam}
+# 在Audience Manager中创建第一方相似人群拓展模型 {#creating-a-first-party-look-alike-model-in-aam}
 
-在此视频中，您将学习如何创建[!UICONTROL first party]相似人群[!UICONTROL model]，以便您能够找到更多自己的访客，这些访客看起来更像您的转换器。
+在此视频中，您将学习如何创建第一方相似人群拓展模型，以便您能够找到更多自己的类似于转化器的访客。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 

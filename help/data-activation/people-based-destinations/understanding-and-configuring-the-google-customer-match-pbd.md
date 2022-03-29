@@ -1,7 +1,7 @@
 ---
 title: 了解和配置Google客户匹配基于人员的目标
-description: 此视频将指导您逐步了解基于客户匹配人员的Google目标的详细信息和用例，包括有关如何创建区段并将其映射到目标的演练。 它还显示受众在Google Ad Console中的登录情况。
-feature: “基于人员的目标”
+description: 此视频将指导您逐步了解基于Google客户匹配人员的目标的详细信息和用例，包括有关创建区段并将其映射到目标的演练。 此外，还显示了受众在Google广告控制台中的登录情况。
+feature: People-based Destinations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6042
 role: User
 level: Beginner
 exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # 了解和配置Google客户匹配基于人员的目标
 
-此视频将指导您逐步了解基于客户匹配人员的Google目标的详细信息和用例，包括如何逐步创建区段并将其映射到目标。 它还显示受众在Google Ad Console中的登录情况。
+此视频将指导您逐步了解基于Google客户匹配人员的目标的详细信息和用例，包括如何逐步创建区段并将其映射到目标。 此外，还显示了受众在Google广告控制台中的登录情况。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

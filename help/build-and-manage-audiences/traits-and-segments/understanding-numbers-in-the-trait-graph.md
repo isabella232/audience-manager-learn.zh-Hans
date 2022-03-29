@@ -1,7 +1,7 @@
 ---
 title: 了解特征图中的数字
 description: 获取一些有关了解特征信息屏幕中所报告特征数量的提示。
-feature: 特征
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6494
 role: User
 level: Beginner
 exl-id: 8e1a2410-6ed6-4bab-bc8c-3a15d903e119
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 2%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 

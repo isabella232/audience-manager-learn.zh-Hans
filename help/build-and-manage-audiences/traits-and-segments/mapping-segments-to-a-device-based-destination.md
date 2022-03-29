@@ -1,7 +1,7 @@
 ---
 title: 将区段映射到基于设备的目标
-description: 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频将区段逐步映射到基于设备的目标，也称为“服务器到服务器”目标。
-feature: 区段
+description: 了解如何将区段映射到基于设备的目标，也称为_server-to-server_ destination。 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5805
 role: User
 level: Beginner
 exl-id: f732377e-64cf-4d3f-8755-51925ea60924
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # 将区段映射到基于设备的目标
 
-要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频将区段逐步映射到基于设备的目标，也称为&#x200B;_服务器到服务器_&#x200B;目标。
+要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 此视频将区段逐步映射到基于设备的目标，也称为 _服务器到服务器_ 目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

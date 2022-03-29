@@ -1,6 +1,6 @@
 ---
 title: 受众身份报告
-description: 受众身份报告使客户能够按个人/家庭身份定义报告特征或区段的总人口。 观看此视频，了解其在Audience Manager报表中的显示方式。
+description: 了解受众身份报告。 此类Audience Manager报表允许您按个人或家庭身份定义报告特征或区段的总人口。
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] 报表
+# 受众身份报告
 
-[!DNL Audience Identity] 报告使客户能够报告或按个人/家 [!UICONTROL trait] 庭 [!UICONTROL segment] 对身份的定义。观看此视频，了解其在Audience Manager报表中的显示方式。
+通过受众身份报表，客户能够按个人/家庭身份定义报告特征或区段的总人口。 请观看此视频，以了解如何在Audience Manager报表中显示该内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

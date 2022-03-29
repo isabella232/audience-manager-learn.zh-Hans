@@ -1,7 +1,7 @@
 ---
-title: 了解跨设备量度Audience Manager
-description: 在此视频中，我们讨论了设备配置文件和跨设备配置文件之间的差异，并显示了UI中的数字与这些不同配置文件类型匹配的位置。
-feature: 配置文件合并
+title: 了解Audience Manager中的跨设备量度
+description: 了解设备配置文件和跨设备配置文件之间的差异，以及界面中的数字与这些不同的配置文件类型相匹配的位置。
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 4876
 role: Admin
 level: Intermediate
 exl-id: 1075c33c-e230-456d-9ec7-70d8ad65f44b
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 了解跨设备量度Audience Manager
 
-在此视频中，我们讨论了设备配置文件和跨设备配置文件之间的差异，并显示了UI中的数字与这些不同配置文件类型匹配的位置。
+在此视频中，您将了解设备配置文件和跨设备配置文件之间的差异，以及界面中的数字与这些不同的配置文件类型相匹配的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

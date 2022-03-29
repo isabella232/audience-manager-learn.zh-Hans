@@ -1,6 +1,6 @@
 ---
-title: 配置文件合并视频和Tutorials
-description: 本节包含有关配置文件合并功能（如配置文件合并规则）的视频和教程。
+title: 配置文件合并视频和教程
+description: 查看有关配置文件合并功能（包括配置文件合并规则）的视频和教程。 控制用于分段的数据集，并跨多个设备准确定位人员。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -10,28 +10,26 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge]  — 视频和Tutorials
+# [!UICONTROL Profile Merge]  — 视频和教程
 
-通过[!UICONTROL Profile Merge Rules]，您可以控制用于[!UICONTROL segmentation]的数据集，并且可以跨多个设备准确地定位人员。
-
-本节包含[!UICONTROL Profile Merge Rules]的以下视频：
+查看有关配置文件合并功能（包括配置文件合并规则）的视频和教程。 控制用于分段的数据集，并跨多个设备准确定位人员。
 
 * [配置文件合并规则概述](overview-of-profile-merge-rules.md)
 * [配置文件合并规则示例和用例](profile-merge-rule-examples-and-use-cases.md)
 * [配置文件合并规则增强功能概述](overview-of-profile-merge-rule-enhancements.md)
 * [创建和使用简单的配置文件合并规则](creating-and-using-simple-profile-merge-rules.md)
 * [使用配置文件合并规则在身份验证状态下进行个性化](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [为设备扩展和扩大访问范围使用配置文件合并规则](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [将配置文件合并规则用于设备扩展并扩大访问范围](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
 * [配置文件合并规则增强 — 先决条件](profile-merge-rule-enhancements-pre-requisites.md)
 * [配置文件合并规则增强对分段、激活和报表有何影响](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
 * [解释受众身份报表](interpret-audience-identity-reporting.md)
 * [了解跨设备量度Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-这些视频可与[文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)结合使用
+这些视频可与 [配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

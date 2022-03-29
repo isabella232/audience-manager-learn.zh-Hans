@@ -1,7 +1,7 @@
 ---
 title: 将Audience Manager区段映射到目标
 description: 了解Audience Manager中不同类型的目标以及将区段映射到每个目标类型的详细信息。
-feature: 区段
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6056
 role: User
 level: Beginner
 exl-id: d633d87e-10fc-43f7-9089-70acc6f6894e
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 1%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 

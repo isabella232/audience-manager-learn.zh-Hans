@@ -1,7 +1,7 @@
 ---
-title: 创建特征时选择数据源
+title: 在创建特征时选择数据源
 description: 创建特征时需要填写的重要字段之一是数据源字段。 获取有关为基于规则的特征和已载入的特征选择正确数据源的提示。
-feature: 特征
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 6442
 role: User
 level: Beginner
 exl-id: 357385b1-8900-4b7c-aa75-de25cf008a33
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
-# 创建特征时选择数据源
+# 在创建特征时选择数据源
 
-创建特征时需要填写的重要字段之一是数据源字段。 获取有关为基于规则的特征和已载入的特征选择正确数据源的提示。
+创建特征时需要填写的重要字段之一是 [!UICONTROL Data Source] 字段。 获取有关为基于规则的特征和已载入的特征选择正确数据源的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
