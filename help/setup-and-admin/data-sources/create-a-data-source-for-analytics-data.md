@@ -1,7 +1,7 @@
 ---
 title: 为Analytics数据创建数据源
-description: 了解如何为来自分析解决方案(如Adobe Analytics)的实时数据创建数据源。 请在为分析数据创建特征之前执行该操作。
-landing-page-description: 了解如何为来自分析解决方案(如Adobe Analytics)的实时数据创建数据源。 请在为分析数据创建特征之前执行该操作。
+description: 了解如何为来自 Adobe Analytics 等分析解决方案的实时数据创建数据源。在为分析数据创建特征之前执行此操作。
+landing-page-description: 了解如何为来自 Adobe Analytics 等分析解决方案的实时数据创建数据源。在为分析数据创建特征之前执行此操作。
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -11,7 +11,7 @@ exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 27%
+ht-degree: 60%
 
 ---
 
