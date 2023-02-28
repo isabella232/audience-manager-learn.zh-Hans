@@ -55,7 +55,7 @@ ht-degree: 3%
 + 集成离线数据 {#integrating-offline-data}
    + [设置和摄取基于文件的数据](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [获取基于文件的数据的步骤](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobile实施 {#mobile-implementation}
++ 移动设备实施 {#mobile-implementation}
    + [在iOS Swift应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [在iOS Objective-C应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [在Android应用程序中实施](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
@@ -163,4 +163,4 @@ ht-degree: 3%
    + 与Ad Cloud集成 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud和Adobe Audience Manager集成](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [在Adobe开发人员中检索API凭据](api/retrieve-api-credentials-in-adobe-io.md)
+   + [在Adobe Developer中检索API凭据](api/retrieve-api-credentials-in-adobe-io.md)
