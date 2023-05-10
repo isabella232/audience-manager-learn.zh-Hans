@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -24,6 +24,7 @@ ht-degree: 0%
 * 按主题和子主题浏览 **左侧导航**
 * 使用 **搜索** 字段
 
+<div id="whats-new-section">
 ## 新增功能
 
 * **[概述 [!UICONTROL Profile Merge Rules] （视频）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ ht-degree: 0%
 * **[创建和配置基于人员的目标](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *了解如何设置 [!DNL People-Based Destination] 在Audience ManagerUI中*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工挑选
 
@@ -44,11 +55,11 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="“在Mobile iOS Swift应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_swift.png" />
+      <img alt="“在移动设备iOS Swift应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>在Mobile iOS应用程序中实施Experience Cloud</strong>
+    <strong>在移动设备iOS应用程序中实施Experience Cloud</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ ht-degree: 0%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="“在Mobile Android应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_android.png" />
+      <img alt="“在移动设备Android应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>在Mobile中实施Experience Cloud [!DNL Android] 应用程序</strong>
+    <strong>在移动设备中实施Experience Cloud [!DNL Android] 应用程序</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ ht-degree: 0%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="“在Mobile Objective-C应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_objective_c.png" />
+      <img alt="“在Mobile Objective-C应用程序中实施Experience Cloud”教程的缩略图图像" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>在Mobile Objective-C应用程序中实施Experience Cloud</strong>
+    <strong>在Objective-C移动设备应用程序中实施Experience Cloud</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+</div>
