@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 7%
 
 ---
 
@@ -54,42 +54,40 @@ ht-degree: 0%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="“在移动设备iOS Swift应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans">
+      <img alt="“使用Web SDK实施Adobe Experience Cloud教程”教程的缩略图" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>在移动设备iOS应用程序中实施Experience Cloud</strong>
-    </a>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans"><strong>“利用 Web SDK 实施 Adobe Experience Cloud”教程</strong></a>
     </div>
     <p>
-    <em>对于希望了解如何在iOS Swift应用程序中实施Adobe Experience Cloud解决方案的移动设备应用程序开发人员而言，这是他们的最佳起点</em>
+    <em>了解如何使用Adobe Experience Platform Web SDK实施Experience Cloud应用程序。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="“在移动设备Android应用程序中实施Experience Cloud”教程的缩略图" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="“了解实时CDP中的区段”教程的缩略图图像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>在移动设备中实施Experience Cloud [!DNL Android] 应用程序</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>了解Real-time CDP中面向Audience Manager用户的区段</strong>
     </a>
     </div>
     <p>
-    <em>对于希望了解如何在Android应用程序中实施Adobe Experience Cloud解决方案的移动设备应用程序开发人员而言，这是他们的最佳起点</em>
+    <em>此视频介绍了Audience Manager与实时CDP在区段创建和区段创建方面的差异。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="“在Mobile Objective-C应用程序中实施Experience Cloud”教程的缩略图图像" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="“在Audience Manager中配置和报告预测受众”教程的缩略图图像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>在Objective-C移动设备应用程序中实施Experience Cloud</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>在Audience Manager中配置和报告预测受众</strong>
     </a>
     </div>
     <p>
-    <em>对于希望了解如何在Objective-C应用程序中实施Adobe Experience Cloud解决方案的移动设备应用程序开发人员而言，这是他们的最佳起点</em>
+    <em>在此视频中，我们将介绍Audience Manager界面中的预测受众配置。</em>
     <p>
   </td>
 </tr>
