@@ -1,6 +1,6 @@
 ---
-title: 了解适用于基于人员的目标的经过哈希处理的PII数据摄取
-description: 此视频将介绍在您准备好将PII摄取到Audience Manager以用于基于人员的目标时需要考虑的事项。
+title: 瞭解以人物為基礎的目的地的雜湊PII資料擷取
+description: 本影片將介紹當您準備好將PII擷取至以人物為基礎的目的地的Audience Manager時，需要考慮的事項。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 了解适用于基于人员的目标的经过哈希处理的PII数据摄取
+# 瞭解以人物為基礎的目的地的雜湊PII資料擷取
 
-此视频将介绍在您准备好将PII摄取到Audience Manager以用于基于人员的目标时需要考虑的事项。
+本影片將介紹當您準備好將PII擷取至以人物為基礎的目的地的Audience Manager時，需要考慮的事項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

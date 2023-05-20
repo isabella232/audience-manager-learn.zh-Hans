@@ -1,6 +1,6 @@
 ---
-title: 了解匹配率
-description: 了解Adobe Audience Manager中的匹配率、匹配率的含义及其计算方式。 另请了解最佳实践，以及哪些因素可能导致匹配率较低。
+title: 瞭解匹配率
+description: 瞭解Adobe Audience Manager中的匹配率、匹配率是什麼以及如何計算。 也瞭解最佳實務，以及導致低匹配率的因素。
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 了解匹配率
+# 瞭解匹配率
 
-此视频可帮助您了解Adobe Audience Manager中的匹配率、匹配率的大小以及其计算方式。 您还将学习一些最佳实践，以及哪些因素会导致匹配率较低。
+此影片可協助您瞭解Adobe Audience Manager中的匹配率、匹配率是什麼，以及如何計算。 您也會瞭解一些最佳實務，以及可能導致低匹配率的因素。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-有关更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).

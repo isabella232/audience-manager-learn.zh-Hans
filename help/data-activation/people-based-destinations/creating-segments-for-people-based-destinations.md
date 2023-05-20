@@ -1,6 +1,6 @@
 ---
-title: 为基于人员的目标创建区段
-description: 此视频将指导您在Audience Manager中创建用于基于人员的目标的区段。
+title: 為以人物為基礎的目的地建立區段
+description: 此影片會逐步帶您建立Audience Manager區段，以用於以人物為基礎的目的地。
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 为基于人员的目标创建区段
+# 為以人物為基礎的目的地建立區段
 
-此视频将指导您在Audience Manager中创建用于基于人员的目标的区段。
+此影片會逐步帶您建立Audience Manager區段，以用於以人物為基礎的目的地。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

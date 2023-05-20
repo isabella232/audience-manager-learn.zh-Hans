@@ -1,6 +1,6 @@
 ---
-title: 创建区段分类
-description: 在Audience Manager中创建区段时，将它们存储在基于文件夹的结构或“分类”中。 了解有关创建和管理区段分类的一些提示。
+title: 建立區段分類法
+description: 當您在Audience Manager中建立區段時，會將區段儲存在資料夾型結構或「分類法」中。 瞭解建立和管理區段分類法的幾個秘訣。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建区段分类
+# 建立區段分類法
 
-在Audience Manager中创建区段时，将它们存储在基于文件夹的结构或“分类”中。 了解有关创建和管理区段分类的一些提示。
+當您在Audience Manager中建立區段時，會將區段儲存在資料夾型結構或「分類法」中。 瞭解建立和管理區段分類法的幾個秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)

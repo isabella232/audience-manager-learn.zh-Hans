@@ -14,23 +14,23 @@ ht-degree: 1%
 ---
 
 
-# 供内部使用的元数据
+# 供內部使用的中繼資料
 
-metadata.md文件包含存储库级别的元数据，这些元数据会传递到存储库中的用户指南TOC.md文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
+metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中變更。
 
-| 元数据 | 功能 |
+| 中繼資料 | 作用 |
 |--- |--- |
-| solution-title | 在文章标题中用作链接 |
-| solution-hub-url | 打开helpx中心页面 |
-| solution-icon | 在解决方案标题旁边显示解决方案图标。 尚未实施 |
-| getting-started-url | helpx快速入门页面的链接 |
-| tutorials-url | 视频教程（helpx教程或KT教程）的链接 |
-| mini-toc-levels | 确定在右边栏中显示的标题级别数。 默认为 2 |
-| git-repo | 指定供内部使用的主控存储库的位置 |
+| solution-title | 在文章標題中作為連結使用 |
+| solution-hub-url | 開啟helpx中樞頁面 |
+| solution-icon | 在解決方案標題旁邊顯示解決方案圖示。 尚未實作 |
+| getting-started-url | helpx快速入門頁面的連結 |
+| tutorials-url | 教學課程影片（helpx或KT教學課程其中之一）的連結 |
+| mini-toc-levels | 決定顯示在右側欄中的標題層數。 默认为 2 |
+| git-repo | 指定內部使用的主要存放庫位置 |
 
-在TOC.md文件中
+在TOC.md檔案中
 
-| 元数据 | 功能 |
+| 中繼資料 | 作用 |
 |--- |--- |
-| user-guide-title | 在文章标题中用作链接 |
-| user-guide-url | 打开helpx中心页面 |
+| 使用手冊標題 | 在文章標題中作為連結使用 |
+| 使用手冊url | 開啟helpx中樞頁面 |

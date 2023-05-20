@@ -1,6 +1,6 @@
 ---
-title: 了解Audience Manager中的跨设备量度
-description: 了解设备配置文件和跨设备配置文件之间的差异，以及界面中的数字与这些不同的配置文件类型相匹配的位置。
+title: 瞭解Audience Manager中的跨裝置量度
+description: 瞭解裝置設定檔和跨裝置設定檔之間的差異，以及介面中的數字與這些不同設定檔型別相符的位置。
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 了解跨设备量度Audience Manager
+# 瞭解Audience Manager中的跨裝置量度
 
-在此视频中，您将了解设备配置文件和跨设备配置文件之间的差异，以及界面中的数字与这些不同的配置文件类型相匹配的位置。
+在本影片中，您將瞭解裝置設定檔和跨裝置設定檔之間的差異，以及介面中的數字與這些不同設定檔型別相符的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

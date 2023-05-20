@@ -1,6 +1,6 @@
 ---
-title: 在创建特征时选择数据源
-description: 创建特征时需要填写的重要字段之一是数据源字段。 获取有关为基于规则的特征和已载入的特征选择正确数据源的提示。
+title: 建立特徵時選擇資料來源
+description: 建立特徵時需要填寫的重要欄位之一是「資料來源」欄位。 取得秘訣，為規則型和已上線特徵選擇正確的資料來源。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 在创建特征时选择数据源
+# 建立特徵時選擇資料來源
 
-创建特征时需要填写的重要字段之一是 [!UICONTROL Data Source] 字段。 获取有关为基于规则的特征和已载入的特征选择正确数据源的提示。
+建立特徵時需要填寫的重要欄位之一是 [!UICONTROL Data Source] 欄位。 取得秘訣，為規則型和已上線特徵選擇正確的資料來源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

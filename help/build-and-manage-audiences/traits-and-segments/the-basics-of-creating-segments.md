@@ -1,6 +1,6 @@
 ---
-title: 创建区段的基础知识
-description: 浏览UI中的字段以在Audience Manager中创建区段。
+title: 建立區段的基本概念
+description: 瀏覽UI中的欄位，在Audience Manager中建立區段。
 feature: Segments
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 创建区段的基础知识
+# 建立區段的基本概念
 
-浏览UI中的字段以在Audience Manager中创建区段。
+瀏覽UI中的欄位，在Audience Manager中建立區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-有关区段的更多信息，请参阅 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+如需區段的詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).

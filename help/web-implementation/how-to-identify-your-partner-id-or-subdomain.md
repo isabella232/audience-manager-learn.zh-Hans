@@ -1,6 +1,6 @@
 ---
-title: 如何识别合作伙伴ID或子域
-description: 了解在实施某些Experience Cloud功能时如何识别合作伙伴ID或子域，以及有关在Audience ManagerUI中可获取此ID的两个位置。
+title: 如何識別您的合作夥伴ID或子網域
+description: 瞭解如何在實作某些Experience Cloud功能時識別您的合作夥伴ID或子網域，以及可在Audience ManagerUI中取得此ID的約兩個位置。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,22 +17,22 @@ ht-degree: 0%
 
 ---
 
-# 如何识别Audience Manager子域 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
+# 如何識別您的Audience Manager子網域 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-在实施某些Experience Cloud功能时，您需要知道Audience Manager `Subdomain` 是(有时也称为 `client ID` 或 `Partner ID`)。 在此视频中，我们将向您展示在Audience ManagerUI中可获取此信息的两个位置。
+實作某些Experience Cloud功能時，您需要知道您的Audience Manager `Subdomain` 是(有時也稱為 `client ID` 或 `Partner ID`)。 在本影片中，我們將說明您可以在Audience ManagerUI中取得此資訊的兩個位置。
 
-## 放弃结局…… {#giving-away-the-ending}
+## 正在放棄結局…… {#giving-away-the-ending}
 
-如果您只想跳进来，在不观看这个短视频的情况下找到它，您可以找到 `Partner Subdomain` 在UI中的两个位置：
+如果您只想在不觀看這段短片的情況下直接跳進去尋找它，您可以找到 `Partner Subdomain` 在UI中的兩個位置：
 
-1. 如果您已经创建 [!UICONTROL rule-based] 特征，单击 **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] 位于该文件夹特征列表中特征旁边，且URL将在URL中包含您的子域。
-1. 如果您进入 **[!UICONTROL Tools]** > **[!UICONTROL Tags]** 界面，单击 **[!UICONTROL Get code]** 对于容器，子域位于Akamai行的末尾
+1. 如果您已建立 [!UICONTROL rule-based] 特徵，按一下 **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] 位於該資料夾中特徵清單的特徵旁，且URL會將您的子網域包含在URL中。
+1. 如果您前往 **[!UICONTROL Tools]** > **[!UICONTROL Tags]** 介面並按一下 **[!UICONTROL Get code]** 對於您的容器，子網域會靠近Akamai行的結尾
 
-如果您无法通过这些快速引用快速找到该视频，则该视频需要很短的时间。 :)
+如果您無法透過這些快速參考快速找到它，則影片為簡短承諾。 ：)
 
 >[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >
->为Adobe Experience Cloud的每个客户分配了一个数字ID，这通常称为“PID”或合作伙伴ID。 这不是本文和视频中我们讨论的ID。 相反，“合作伙伴子域”（有时称为合作伙伴ID）通常是客户端名称的版本，并且是将数据发送到的服务器的子域。 例如，如果您的公司是“Bob&#39;s Knobs”（当然，哈哈），则您的合作伙伴子域可能是“bobsknobs”，而“PID”则更像“12345”。 您通常不需要知道PID，但子域对于了解这一点很重要，因此您可以配置Audience Manager实施。
+>系統會為Adobe Experience Cloud的每個客戶指派一個數值ID，這通常稱為「PID」或合作夥伴ID。 這不是我們在這篇文章和影片中談論的ID。 「合作夥伴子網域」（有時稱為「合作夥伴ID」）通常是使用者端名稱的版本，且是資料傳送至的伺服器子網域。 例如，如果您的公司是「Bob&#39;s Knobs」（所有東西都是門把手，當然，哈哈），那麼您的合作夥伴子網域很可能是「bobsknobs」，而「PID」可能更像「12345」。 您通常不需要知道您的PID，但您的子網域非常重要，因此您可以設定Audience Manager實施。

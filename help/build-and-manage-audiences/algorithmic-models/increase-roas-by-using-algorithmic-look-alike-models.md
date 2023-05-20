@@ -1,6 +1,6 @@
 ---
-title: 使用算法（相似人群拓展）模型来增加ROAS
-description: Audience Manager相似人群拓展建模的真正强大功能是，当您寻求针对来自第二方和第三方数据源的一组全新优质用户，扩展基线受众。 在本教程中，了解根据此数据创建模型的步骤。
+title: 使用演演算法（相似）模型增加ROAS
+description: 當您尋求針對來自第二方和第三方資料來源的高品質、全新使用者集擴展您的基線對象時，Audience Manager相似建模的真正力量就來了。 在本教學課程中，瞭解根據此資料建立模型的步驟。
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,48 +18,48 @@ ht-degree: 0%
 
 ---
 
-# 在Audience Manager中使用算法（相似人群拓展）模型来增加ROAS {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
+# 在Audience Manager中使用演演算法（相似）模型來增加ROAS {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
-Audience Manager的“相似人物”的真正力量 [!UICONTROL Modeling] 当您寻求根据来自第二方和第三方数据源的全新优质用户集来扩展基准受众时，即会出现这种情况。 在本教程中，了解从此数据创建模型所需的步骤。
+Audience Manager相似人群的真正力量 [!UICONTROL Modeling] 當您尋求根據來自第二方和第三方資料來源的全新高品質使用者集來擴展基準受眾時。 在本教學課程中，瞭解從此資料建立模型所需的步驟。
 
-## 从Audience Marketplace启用第二方或第三方数据流 {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
+## 啟用來自Audience Marketplace的第二方或第三方資料串流 {#enable-2nd-or-3rd-party-data-streams-from-the-audience-marketplace}
 
-要在相似人群拓展模型中使用第二方和第三方数据，我们首先必须在您的Audience Manager界面中启用此数据。 Adobe拥有大量可供您选择的第二方和第三方数据提供商。 这些配置文件可在AAM的自助式界面中通过Audience Marketplace提供。 导航到Audience Marketplace并浏览各种可能性。 以下视频将向您展示如何执行此操作，包括如何启用免费的“购买前尝试”流，以便您能够锁定对贵组织最有用的数据，然后再承诺使用数据提供商的定价。
+為了在相似模型中使用第二方和第三方資料，我們首先必須將此資料啟用至您的Audience Manager介面。 Adobe有大量第二方和第三方資料提供者可供您選擇。 這些可透過Audience Marketplace在AAM的自助式介面中提供。 導覽至Audience Marketplace並瀏覽各種可能性。 以下影片將說明如何執行此操作，包括如何啟用免費的「購買前試用」資料流，以便在您認可資料提供者的定價之前，鎖定對您的組織最有用的資料。
 
-此外，为了帮助您研究和确定要使用哪个数据提供商，一个非常棒的资源是 [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
+此外，為了協助您研究並決定要使用哪個資料提供者，一個絕佳的資源是 [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
 
-## 识别或创建理想的用户（转化）特征或区段 {#identify-create-an-ideal-user-conversion-trait-or-segment}
+## 識別或建立理想的使用者（轉換）特徵或區段 {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
-您想要在您的网站上让人们执行哪些操作？ 什么是转化事件？ 当然，此问题有许多不同的答案，具体取决于您的网站类型/垂直和组织目标。 无论如何，在AAM中，通常为满足这些条件的访客创建特征。
+您想讓訪客在您的網站上執行什麼動作？ 什麼是轉換事件？ 當然，根據您的網站型別/垂直和您的組織目標，此問題有許多不同的答案。 無論如何，在AAM中，為符合這些條件的訪客建立特徵是很常見的。
 
-在以下视频中，我将向您展示如何创建转化特征，在您完成本教程并创建相似人群拓展模型时，您希望该转化特征就绪。
+在下方影片中，我會說明如何建立轉換特徵，當您繼續完成本教學課程並建立相似模型時，就會想要具備此特徵。
 
-此外，在使用Adobe Analytics事件创建特征时，还需要牢记一个重大问题，以便收集到的用户不会多于该特征中应收集的用户数。 请观看以下视频，了解大展示。 :)
+此外，使用Adobe Analytics事件建立特徵時，請牢記以下主要需知，以免將超過應有數量的使用者收集進特徵中。 觀看以下影片以瞭解重大揭露。 ：)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 在以上视频中，我显示的示例假定您具有Adobe Analytics。 显然，情况可能并非如此。 如果您拥有Google Analytics(GA)，我们有一个模块，您可以使用该模块将数据发送到AAM(请参阅 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html))，并且如果您网站上的转化活动通过GA发送到AAM，则可以从中创建转化特征。 如果您有其他分析解决方案（或者没有分析解决方案），您仍可以通过我们的DIL代码和 `submit` 函数等 (请参阅 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html))。 然后，根据在网站上执行转化活动时发送的数据创建转化特征。
+**注意：** 在上述影片中，我顯示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您有Google Analytics(GA)，我們有一個模組，可用來將資料傳送至AAM (請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html))，而如果您網站上的轉換活動是在GA前傳送至AAM，則您可以從中建立轉換特徵。 AAM如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL代碼和 `submit` 函式等 (請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html))。 然後，根據網站上執行轉換活動時傳送的資料建立轉換特徵。
 
-## 从第二方或第三方数据创建相似人群拓展模型 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
+## 從第二方或第三方資料建立相似模型 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
-完成上述步骤后，我们现在可以创建算法（相似人群拓展）模型。 在建立模型时，我们将使用转化特征作为基本特征（要复制的关键访客），并且我们将使用已启用的第三方数据流作为要从中提取的人员池。
+完成上述步驟後，我們現在已準備好建立演演算法（相似）模型。 在設定模型時，我們會使用轉換特徵作為基本特徵（我們要複製的關鍵訪客），並使用已啟用的協力廠商資料流作為我們要提取的人員集區。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
 
-## 重要的最佳实践 {#an-important-best-practice}
+## 重要的最佳實務 {#an-important-best-practice}
 
-在Audience Manager中创建算法模型时，显然我们希望模型尽可能有效。 由于模型考虑的是基本特征/区段成员所包含的所有特征，因此如果所有人员都位于特征/区段中，则对模型无益。 因此，如果您具有任何超级通用特征（例如，访问您网站的每个人，或从您收到任何广告的每个人，等等），请确保它们所属的数据源未包含在模型的数据源中。 在本文的用例中，您不太可能会这样做，因为我们将重点放在查看第三方数据以获取我们的新外观，但无论如何都值得一提，并且适用于您的所有算法模型。
+在Audience Manager中建立演演算法模型時，我們顯然希望模型儘可能有效。 由於模型會考慮基本特徵/區段成員屬於的所有特徵，因此如果所有人員都位於特徵/區段中，對模型沒有幫助。 因此，如果您有任何超級一般特徵（就像造訪您網站的人，或收到您任何廣告的人等），請確保其所屬的資料來源不會包含在您模型中的資料來源中。 就本文的使用案例而言，您不太可能這麼做，因為我們專注於檢視第三方資料以瞭解我們的新相似外觀，但無論如何，這值得一提，並適用於您的所有演演算法模型。
 
 ## 创建 [!UICONTROL Algorithmic Trait] {#creating-an-algorithmic-trait}
 
-接下来，我们需要创建  [!UICONTROL Algorithmic Trait]，以便使用模型的结果。 如果不创建特征，模型将毫无用处。 因此，在模型运行后，请务必进入特征对话框并创建 [!UICONTROL Algorithmic Trait]. 以下视频将演示该视频并显示一些提示。
+接下來，我們需要建立  [!UICONTROL Algorithmic Trait]，以便可以使用模型的結果。 如果不建立特徵，模型就毫無用處。 因此，在模型執行後，請務必進入特徵對話方塊並建立 [!UICONTROL Algorithmic Trait]. 以下影片會逐步解說，並顯示一些秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
 
-## 根据模型数据创建区段，并将其发送到DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
+## 從模型資料建立區段並傳送至DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 
-创建 [!UICONTROL Algorithmic Trait]，则可以创建一个新区段以将其放入，以便激活数据(您无法激活某个特征，而是使用 [!UICONTROL Algorithmic Trait] ，以便激活（使用）区段。
+建立 [!UICONTROL Algorithmic Trait]，您可以建立新區段來放置它，這樣您就可以啟用資料(您無法啟用特徵，而是要使用建立新的單一特徵區段 [!UICONTROL Algorithmic Trait] 以啟動（使用）區段)。
 
-根据此算法特征创建区段后，您将拥有一群潜在客户，这些客户看起来就像您网站上已转换的用户。 现在，您可以在Audience Manager中将此区段映射到任何DSP目标。 您将能够将营销目标定位到那些外观相似的访客，这些访客在您的网站上转化的可能性比普通公众更大，从而提高广告支出回报。
+一旦您根據此演演算法特徵建立區段後，就會有一批潛在客戶，看起來就像是網站上已轉換的人。 現在，您可以在Audience Manager中將此區段對應至您的任何DSP目的地。 您將能夠將您的行銷目標鎖定於看起來類似的人，這些人更有可能在您的網站上轉化，而不是平常的大眾，從而提高您的廣告投資報酬率。

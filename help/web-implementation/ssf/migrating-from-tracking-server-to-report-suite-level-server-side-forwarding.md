@@ -1,6 +1,6 @@
 ---
-title: 从跟踪服务器迁移到报表包级别的服务器端转发
-description: 了解如何启用Adobe Analytics数据的服务器端转发以在报表包级别而不是在跟踪服务器级别Audience Manager。
+title: 從追蹤伺服器移轉至報表套裝層級的伺服器端轉送
+description: 瞭解如何啟用Adobe Analytics資料的伺服器端轉送，以便在報表套裝層級Audience Manager，而非追蹤伺服器層級。
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -18,34 +18,34 @@ ht-degree: 0%
 
 ---
 
-# 从跟踪服务器迁移到报表包级别的服务器端转发 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
+# 從追蹤伺服器移轉至報表套裝層級的伺服器端轉送 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-本文和视频将向您展示如何启用的服务器端转发 [!DNL Analytics] 要Audience Manager的数据 [!UICONTROL report suite] 级别，而不是 [!UICONTROL tracking server] 级别。
+本文和影片將說明如何啟用伺服器端轉送 [!DNL Analytics] 要在中Audience Manager的資料 [!UICONTROL report suite] 層級而非 [!UICONTROL tracking server] 層級。
 
 ## 简介 {#introduction}
 
-如果您拥有Adobe Audience Manager和Adobe Analytics，则可以实施 [!DNL Analytics] Audience Manager。 这意味着，不是您的页面发送两次点击(一个 [!DNL Analytics] 和一个Audience Manager)，则会将点击发送到 [!DNL Analytics]和 [!DNL Analytics] 会将该数据转发到Audience Manager。
+如果您有Adobe Audience Manager和Adobe Analytics，您可以實作的 [!DNL Analytics] 要Audience Manager的資料。 這表示，您的頁面不會傳送兩個點選(一個到 [!DNL Analytics] 和1個以Audience Manager)，則可將點選傳送至 [!DNL Analytics]、和 [!DNL Analytics] 會將資料轉送至Audience Manager。
 
-如果您已经启动并运行该功能，并且在2017年10月之前已启用/实施该功能，则您的服务器端转发可能基于 [!UICONTROL Tracking Server]，必须由Adobe客户关怀或Adobe咨询部门启用。 自2017年10月起，您现在可以自行配置服务器端转发，并在报表包级别（每个报表包的转发）执行此操作。 这有很大的好处，讨论如下。
+如果您已啟動並執行此專案，且已在2017年10月前啟用/實作此專案，則您的伺服器端轉送可能會根據 [!UICONTROL Tracking Server]，此專案必須由Adobe客戶服務或Adobe諮詢啟用。 自2017年10月起，您現在可以自行設定伺服器端轉送，並在報表套裝層級進行（每個報表套裝的轉送）。 這有許多優點，如下所述。
 
-## [!UICONTROL Tracking server] 转发 {#tracking-server-forwarding}
+## [!UICONTROL Tracking server] 轉送 {#tracking-server-forwarding}
 
-您的 [!UICONTROL tracking server] 是您发送 [!DNL Analytics] 数据，以及写入图像请求和cookie的域。 它应在DTM中设置，或 [!DNL Experience Platform Launch]，或 [!DNL AppMeasurement.js] 文件，且通常如下所示，您的网站或企业名称将替换为“mysite”：
+您的 [!UICONTROL tracking server] 是您傳送至的位置 [!DNL Analytics] 資料，以及寫入影像要求和Cookie的網域。 應在DTM中設定或 [!DNL Experience Platform Launch]，或中的 [!DNL AppMeasurement.js] 檔案，通常看起來像這樣，您的網站或企業名稱會取代「mysite」：
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-如果将服务器端转发设置为在 [!UICONTROL tracking server] 级别，发送到此的任何点击 [!UICONTROL tracking server] (如果Experience CloudID服务也处于启用状态)将转发到Audience Manager。 必须由Adobe客户关怀或Adobe咨询团队来启用此功能。 在您切换到 [!UICONTROL report suite] 转发，如下所述。
+如果伺服器端轉送設定為在以下位置轉送： [!UICONTROL tracking server] 層級，任何傳送至此的點選 [!UICONTROL tracking server] (如果Experience CloudID服務也啟用)將轉送到Audience Manager。 必須由Adobe客戶服務或Adobe諮詢啟用此功能。 在您切換至後，他們也可以將其停用 [!UICONTROL report suite] 轉送，如下所述。
 
-如果您不确定 [!DNL tracking server forwarding] ，请联系Adobe客户关怀或Adobe咨询，并告知您。
+如果您不確定如果 [!DNL tracking server forwarding] 已為您啟用，請聯絡Adobe客戶服務或Adobe諮詢，他們應該能夠通知您。
 
-## [!UICONTROL Report-suite] — 级别的服务器端转发 {#report-suite-level-server-side-forwarding}
+## [!UICONTROL Report-suite] — 層級伺服器端轉送 {#report-suite-level-server-side-forwarding}
 
-迁移到 [!UICONTROL report suite] 转发 [!UICONTROL tracking server] 转发是指您现在能够使用“Audience Analytics”，即转发Audience Manager [!UICONTROL segments] 返回Adobe Analytics以进行详细的区段分析。 如果您仍在运行，则不支持此功能 [!UICONTROL tracking server] 转发和不转发 [!UICONTROL report suite] 转发。 请参阅 [文档](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+遷移至以下網站的最大優點之一： [!UICONTROL report suite] 轉寄來源 [!UICONTROL tracking server] 轉送是指您現在可以使用「Audience Analytics」，也就是轉送Audience Manager的功能 [!UICONTROL segments] 返回Adobe Analytics以取得詳細的區段分析。 如果您仍在，則不支援這項絕佳功能 [!UICONTROL tracking server] 轉送而非 [!UICONTROL report suite] 轉送。 請參閱中有關Audience Analytics的詳細資訊 [檔案](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
 ## 重要提示 {#additional-resources}
 
-如上面的视频所述，在您拥有 [!UICONTROL report suites] 如果您希望转发到Audience Manager，则应联系Adobe客户关怀或Adobe咨询部门，并让他们禁用 [!UICONTROL tracking server] 转发。 你这样做不是紧急事，因为你有了这两个 [!UICONTROL tracking server] 转发和转发 [!UICONTROL report suite] 转发不会导致重复点击。 但是，最佳做法是仅在 [!UICONTROL report suite] 转发开启。
+如上述影片所述，一旦您擁有 [!UICONTROL report suites] 若設為「轉寄」而您希望轉寄至「Audience Manager」，則您應聯絡Adobe客戶服務或Adobe諮詢，要求他們停用 [!UICONTROL tracking server] 轉送。 您這麼做並非緊急，因為兩者皆有 [!UICONTROL tracking server] 轉送和 [!UICONTROL report suite] 轉送不會產生重複的點選。 不過，最佳實務是只要 [!UICONTROL report suite] 啟用轉送。
 
-如果你离开 [!UICONTROL tracking server] 转发开启，不仅会转发数据 [!UICONTROL report suites] 您不希望转发，但将来，在您（以及您公司的所有人）忘记 [!UICONTROL tracking server] 转发已开启，您可能认为数据不是针对特定 [!UICONTROL report suite]. 这是因为报表包级别未开启该功能，但仍会转发数据，因为 [!UICONTROL tracking server]. 然后，您将浪费时间和金钱来弄明白转发的原因，并为您意想不到的AAM服务器调用付费。 所以，最好禁用 [!UICONTROL tracking server] 在您拥有 [!UICONTROL report suites] 为您的业务需求提供合理的解决方案。
+如果您離開 [!UICONTROL tracking server] 轉送功能開啟，不僅可以從以下來源轉送資料 [!UICONTROL report suites] 您不想轉寄，但在未來，在您（以及您公司的每個人）忘記了這點之後 [!UICONTROL tracking server] 轉送功能已開啟，您可能會認為資料未轉送特定的 [!UICONTROL report suite]. 這是因為並未在報表套裝層級開啟此功能，但資料仍會因為 [!UICONTROL tracking server]. 然後，您將會浪費時間和金錢來找出轉送的原因，並支付您未預期的AAM伺服器呼叫。 因此，最好是停用 [!UICONTROL tracking server] 一旦您擁有所有 [!UICONTROL report suites] 根據您的業務需求，積極推進這項工作。

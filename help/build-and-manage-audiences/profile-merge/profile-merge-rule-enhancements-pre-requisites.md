@@ -1,6 +1,6 @@
 ---
-title: 配置文件合并规则增强 — 先决条件
-description: 概述如何为配置文件合并规则增强功能的发布做好最佳准备。
+title: 設定檔合併規則增強功能 — 先決條件
+description: 概述如何以最佳方式準備發行「設定檔合併規則增強功能」。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] 增强功能 — 先决条件
+# [!UICONTROL Profile Merge Rule] 增強功能 — 必要條件
 
-概述如何为 [!UICONTROL Profile Merge Rule] 增强功能。
+如何為發行做好最佳準備的概述 [!UICONTROL Profile Merge Rule] 增強功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

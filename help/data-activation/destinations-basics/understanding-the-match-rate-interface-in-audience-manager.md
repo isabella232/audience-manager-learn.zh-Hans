@@ -1,6 +1,6 @@
 ---
-title: 了解匹配率界面
-description: 了解目标界面，显示并解释与匹配率和可寻址受众关联的数字。
+title: 瞭解符合率介面
+description: 瞭解目的地介面，顯示和說明與匹配率和可定址對象相關的數字。
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 了解Audience Manager中的匹配率界面
+# 瞭解Audience Manager中的符合率介面
 
-此视频将引导您浏览 [!UICONTROL Destination] 界面，显示并解释与匹配率和可寻址受众关联的数字。
+本影片將逐步帶您瞭解 [!UICONTROL Destination] 介面，顯示和說明與匹配率和可定址對象相關的數字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-有关更多信息，请访问 [可寻址受众](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) 在产品文档中。
+如需詳細資訊，請造訪 [可定址對象](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) 在產品檔案中。

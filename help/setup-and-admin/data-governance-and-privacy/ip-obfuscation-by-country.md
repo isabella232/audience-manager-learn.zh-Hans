@@ -1,6 +1,6 @@
 ---
-title: 按国家/地区划分的IP模糊处理
-description: 了解IP模糊处理（按国家/地区）在Audience Manager中的相关信息。 此应用程序在UI中提供自助服务功能，使客户能够在全球或按国家/地区开启IP模糊处理。 此视频将指导您完成设置。
+title: 依國家/地區的IP模糊化
+description: 瞭解Audience Manager中依國家/地區劃分的IP模糊化功能。 此應用程式提供UI中的自助服務功能，讓客戶可以在全球或依國家/地區開啟IP模糊化功能。 本影片將逐步說明設定。
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# 按国家/地区划分的IP模糊处理Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# Audience Manager中依國家/地區的IP模糊化 {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager在UI中提供自助服务功能，使客户能够在全球或按国家/地区开启IP模糊处理。 此视频将指导您完成设置。
+Audience Manager提供UI中的自助服務功能，讓客戶可以在全球或依國家/地區開啟IP模糊化功能。 本影片將逐步說明設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-有关此功能的更多信息，请访问 [文档](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+如需有關此功能的詳細資訊，請造訪 [檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).

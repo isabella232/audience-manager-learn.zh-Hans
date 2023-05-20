@@ -1,6 +1,6 @@
 ---
-title: 客户提示 — 充分利用用户档案合并规则
-description: Accordant的多解决方案顾问Varun Kalra在选择和使用用户档案合并规则(PMR)方面给予了相关提示。
+title: 客戶秘訣 — 充分運用設定檔合併規則
+description: Accordant的多重解決方案顧問Varun Kalra提供有關選擇和使用設定檔合併規則(PMR)的秘訣。
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# 客户提示 — 充分利用用户档案合并规则
+# 客戶秘訣 — 充分運用設定檔合併規則
 
-**瓦伦卡拉**，多解决方案顾问(位于 **协调者**，提供了有关选择和使用用户档案合并规则(PMR)的提示。
+**瓦倫·卡拉**，多解決方案顧問： **一致**，提供選擇和使用設定檔合併規則(PMR)的秘訣。
 
-Varun Kalra是一位多解决方案顾问，在位于悉尼的Adobe解决方案合作伙伴Accordant中工作。 Varun主要负责Audience Manager、Adobe Analytics和AEP项目，这些项目涉及数据发现、实施、支持和启用。 提示包括以下主题：
+Varun Kalra是多解決方案顧問，在雪梨的Adobe解決方案合作夥伴 — Accordant工作。 Varun主要負責Audience Manager、Adobe Analytics和AEP專案，其中涉及資料探索、實施、支援和啟用。 提示包括以下主題：
 
-* 确定PMR配置的促销活动目标
-* 深入了解定位用例
-* 各种PMR设置的用例
+* 識別PMR設定的行銷活動目標
+* 深入瞭解鎖定目標使用案例
+* 各種PMR設定的使用案例
 
-[阅读Varun在Experience League社区中的提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[閱讀Experience League社群中的Varun秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

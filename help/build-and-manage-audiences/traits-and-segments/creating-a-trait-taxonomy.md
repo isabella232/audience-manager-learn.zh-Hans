@@ -1,6 +1,6 @@
 ---
-title: 创建特征分类
-description: 了解有关创建在Audience Manager中包含您特征的文件夹结构的提示。
+title: 建立特徵分類法
+description: 瞭解建立資料夾結構以儲存您特徵的Audience Manager秘訣。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建特征分类
+# 建立特徵分類法
 
-了解有关创建在Audience Manager中包含您特征的文件夹结构的提示。
+瞭解建立資料夾結構以儲存您特徵的Audience Manager秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

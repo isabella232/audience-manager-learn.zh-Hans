@@ -1,6 +1,6 @@
 ---
-title: 创建基于规则的特征
-description: 了解如何在Audience ManagerUI中使用特征生成器创建基于规则的特征，从而允许您将实时活动捕获到Audience Manager配置文件中。
+title: 建立規則型特徵
+description: 瞭解如何在Audience ManagerUI中使用特徵產生器建立規則型特徵，讓您將即時活動擷取到Audience Manager設定檔中。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建基于规则的特征
+# 建立規則型特徵
 
-了解如何使用 [!UICONTROL Trait Builder] 在Audience ManagerUI中创建基于规则的特征，从而将实时活动捕获到Audience Manager配置文件中。
+瞭解如何使用 [!UICONTROL Trait Builder] 在Audience ManagerUI中建立規則型特徵，好讓您將即時活動擷取到Audience Manager設定檔中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

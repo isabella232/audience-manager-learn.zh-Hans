@@ -1,6 +1,6 @@
 ---
-title: 创建跨设备数据源以进行身份验证
-description: 了解如何创建跨设备数据源以进行身份验证。 了解如何将第一方CRM数据引入Audience Manager，以更好地定位客户，并在Platform标记中设置setCustomerIDs()方法进行登录。
+title: 建立跨裝置資料來源以進行驗證
+description: 瞭解如何建立用於驗證的跨裝置資料來源。 瞭解如何將您的第一方CRM資料引進Audience Manager，以更妥善鎖定客戶，並在Platform標籤中設定setCustomerIDs()方法以進行登入。
 feature: Data Sources
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 创建跨设备数据源并进行身份验证
+# 建立跨裝置資料來源及驗證
 
-当您希望将第一方CRM数据引入Audience Manager以更好地定位客户时，您需要首先创建一个跨设备数据源以存储CRM ID和数据。 这将向您展示如何执行此操作，并设置 `setCustomerIDs()` 方法(在登录的Experience Platform标记中)。
+如果您想要將第一方CRM資料帶入Audience Manager，以更妥善鎖定客戶，首先需要建立跨裝置資料來源來儲存CRM ID和資料。 以下說明該怎麼做，以及如何設定 `setCustomerIDs()` 登入的Experience Platform標籤中的方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

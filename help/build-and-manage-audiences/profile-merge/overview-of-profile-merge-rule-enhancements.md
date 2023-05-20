@@ -1,6 +1,6 @@
 ---
-title: 配置文件合并规则增强功能概述
-description: 此视频介绍了2019年10月发布的配置文件合并规则增强功能。
+title: 設定檔合併規則增強功能概述
+description: 此影片說明2019年10月發行的「設定檔合併規則」增強功能。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 概述 [!UICONTROL Profile Merge Rule] 增强功能
+# 概述 [!UICONTROL Profile Merge Rule] 增強功能
 
-以下视频介绍了 [!UICONTROL Profile Merge Rules]，于2019年10月发布。
+此影片說明的增強功能 [!UICONTROL Profile Merge Rules]，於2019年10月發行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

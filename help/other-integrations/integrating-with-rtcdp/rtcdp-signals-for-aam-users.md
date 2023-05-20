@@ -1,8 +1,8 @@
 ---
-title: 了解Real-time CDP中的信号，面向Audience Manager用户
-description: 此视频适用于迁移到实时Audience Manager数据平台（实时CDP）的客户，并讨论了在Audience Manager中用于构建特征的信号（键值对）如何在Platform中使用。
-feature: 平台集成
-topic: 集成
+title: 瞭解適用於Audience Manager使用者的Real-time CDP中的訊號
+description: 本影片適用於移至Real-time Customer Data Platform (Real-time CDP)的Audience Manager使用者，影片中會討論您在Audience Manager中建立特徵所使用的訊號（機碼值組）如何用於Platform。
+feature: Platform Integration
+topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
@@ -11,20 +11,20 @@ kt: 7305
 exl-id: 96f841c9-d185-4b0b-b0de-e4ea708b518c
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---
 
-# 了解Real-time CDP中的信号，面向Audience Manager用户
+# 瞭解適用於Audience Manager使用者的Real-time CDP中的訊號
 
-此视频适用于迁移到实时Audience Manager数据平台（实时CDP）的客户，并讨论了在Audience Manager中用于构建特征的信号（键值对）如何在Platform中使用。
+本影片適用於移至Real-time Customer Data Platform (Real-time CDP)的Audience Manager使用者，影片中會討論您在Audience Manager中建立特徵所使用的訊號（機碼值組）如何用於Platform。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是可帮助您了解实时客户数据平台的现有视频和资源。 请随时浏览有关这些视频和教程的其他视频和教程，以进一步了解Platform。
+以下是可幫助您瞭解Real-time Customer Data Platform的現有影片和資源。 歡迎探索相關影片和教學課程，深入瞭解Platform。
 
-* [了解Real-time CDP中面向Audience Manager用户的特征](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [了解Real-time CDP中面向Audience Manager用户的区段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [瞭解適用於Audience Manager使用者的Real-time CDP中的特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
+* [瞭解適用於Audience Manager使用者的Real-time CDP中的區段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)

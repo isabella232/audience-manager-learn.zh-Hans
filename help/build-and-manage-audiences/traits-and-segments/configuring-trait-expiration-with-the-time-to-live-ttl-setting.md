@@ -1,6 +1,6 @@
 ---
-title: 使用配置特征过期 [!UICONTROL Time-to-Live] (TTL)
-description: '了解如何查找和设置 [!UICONTROL Time to Live] (TTL)Audience Manager。 在创建特征时使用此设置，该设置可设置如果用户未在指定时间段内重新获得资格，则特征中的成员资格将过期。 '
+title: 使用設定特徵到期時間 [!UICONTROL Time-to-Live] (TTL)
+description: 瞭解如何尋找和設定 [!UICONTROL Time to Live] (TTL)的Audience Manager。 建立特徵時，請使用此設定；如果使用者未在指定時間內重新符合資格，此設定會設定特徵中成員資格的到期日。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用配置特征过期 [!UICONTROL Time-to-Live] (TTL)
+# 使用設定特徵到期時間 [!UICONTROL Time-to-Live] (TTL)
 
-创建特征时的设置之一是 [!UICONTROL Time to Live] (TTL)设置，如果您未在指定的时间段内重新获得资格，则该特征中的成员资格将过期。 此视频演示了如何查看和设置此功能。
+建立特徵時的其中一個設定是 [!UICONTROL Time to Live] (TTL)設定，如果您未在指定時間內重新符合資格，此設定即是特徵成員資格的到期日。 本影片說明如何檢視及設定此功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

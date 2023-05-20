@@ -1,7 +1,7 @@
 ---
-title: 衡量客户抑制用例中的ROI
-description: 省下的一分钱是赚的，对吗？ 了解如何使用几个公式来确定如何通过抑制向现有客户发送广告来节省促销活动成本。
-feature: 概述
+title: 在抑制客戶使用案例中測量ROI
+description: 省下的一分錢就是賺到的一分錢，對嗎？ 瞭解如何使用幾個公式，藉由抑制向現有客戶傳送廣告，判斷促銷活動可節省的成本。
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: 62d995d7-e216-4df9-b19d-d8e4a4f34b3a
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
-# 衡量客户抑制用例中的ROI
+# 在抑制客戶使用案例中測量ROI
 
-省下的一分钱是赚的，对吗？ 了解如何使用几个公式来确定如何通过抑制向现有客户发送广告来节省促销活动成本。
+省下的一分錢就是賺到的一分錢，對嗎？ 瞭解如何使用幾個公式，藉由抑制向現有客戶傳送廣告，判斷促銷活動可節省的成本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)

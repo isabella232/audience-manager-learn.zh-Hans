@@ -1,6 +1,6 @@
 ---
-title: 将网站的Audience Manager实施从客户端DIL迁移到服务器端转发
-description: 了解如何将网站的Audience Manager(AAM)实施从客户端DIL迁移到服务器端转发。 如果您同时具有AAM和Adobe Analytics，并且您使用DIL(Data Integration Library)代码将点击量从页面发送到AAM，并且您还将点击量从页面发送到Adobe Analytics，则本教程将适用。
+title: 將網站的Audience Manager實作從使用者端DIL移轉至伺服器端轉送
+description: 瞭解如何將網站的Audience Manager(AAM)實作從使用者端DIL移轉至伺服器端轉送。 如果您同時擁有AAM和Adobe Analytics，且使用DIL(Data Integration Library)代碼將點選從頁面傳送至AAM，也已將點選從頁面傳送至Adobe Analytics，則本教學課程適用。
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -18,188 +18,188 @@ ht-degree: 0%
 
 ---
 
-# 将网站的Audience Manager实施从客户端DIL迁移到服务器端转发 {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
+# 將網站的Audience Manager實作從使用者端DIL移轉至伺服器端轉送 {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-如果您同时具有Adobe Audience Manager(AAM)和Adobe Analytics，并且当前正在使用DIL([!DNL Data Integration Library])代码，并且还会将点击从页面发送到Adobe Analytics。 由于您有这两个解决方案，并且它们都是Adobe Experience Cloud的一部分，因此您有机会遵循启用服务器端转发的最佳实践，该实践支持 [!DNL Analytics] 数据收集服务器可将网站分析数据实时转发到Audience Manager，而无需让客户端代码将页面中的其他点击发送到AAM。 本教程将指导您完成以下步骤：从旧的客户端DIL实施切换到较新的服务器端转发方法。
+如果您同時擁有Adobe Audience Manager (AAM)和Adobe Analytics AAM，而且您目前正在使用DIL([!DNL Data Integration Library])程式碼，以及從頁面傳送點選至Adobe Analytics。 由於您同時擁有這兩個解決方案，而且它們都是Adobe Experience Cloud的一部分，因此您有機會遵循開啟伺服器端轉送的最佳做法，此做法可啟用 [!DNL Analytics] 資料收集伺服器可將網站分析資料即時轉送至Audience Manager，而非讓使用者端程式碼從頁面傳送其他點選至AAM。 本教學課程將逐步帶您瞭解從舊版使用者端DIL實作切換至新版伺服器端轉送方法的步驟。
 
-## 客户端(DIL)与服务器端 {#client-side-dil-vs-server-side}
+## 使用者端(DIL)與伺服器端 {#client-side-dil-vs-server-side}
 
-比较这两种将Adobe Analytics数据导入AAM的方法并进行对比时，首先可能有助于显示下图中的差异：
+比較和比較這兩種將Adobe Analytics資料匯入AAM的方法時，先將下列影像的差異視覺化可能有所幫助：
 
-![客户端到服务器端](assets/client-side_vs_server-side_aam_implementation.png)
+![使用者端對伺服器端](assets/client-side_vs_server-side_aam_implementation.png)
 
-### 客户端DIL实施 {#client-side-dil-implementation}
+### 使用者端DIL實作 {#client-side-dil-implementation}
 
-如果使用此方法将Adobe Analytics数据导入AAM，则会有来自网页的两个点击：一个 [!DNL Analytics]，并转到AAM(在复制了 [!DNL Analytics] 网页上的数据。 [!UICONTROL Segments] 会从AAM返回到页面，以便用于个性化等。 这被视为旧版实施，不再建议这样做。
+如果您使用此方法將Adobe Analytics資料匯入AAM，會有兩個點選來自您的網頁：一個將前往 [!DNL Analytics]，且其中一個會前往AAM (在複製 [!DNL Analytics] 網頁上的資料。 [!UICONTROL Segments] 會從AAM傳回至頁面，並用於個人化等。 這將視為舊版實作，不再建議使用。
 
-除了没有遵循最佳实践外，使用此方法的缺点还包括：
+除了這並非遵循最佳實務之外，使用此方法的缺點包括：
 
-* 来自页面的两次点击，而不是仅一次点击
-* 实时将AAM受众共享到时需要服务器端转发 [!DNL Analytics]，因此客户端实施不允许使用此功能（将来可能还会使用其他功能）
+* 來自頁面的兩個點選，而非只有一個
+* 需要伺服器端轉送才能即時將AAM對象分享到 [!DNL Analytics]，因此使用者端實施不允許此功能（以及未來可能的其他功能）
 
-建议您转到AAM实施的服务器端转发方法。
+建議您改用AAM實作的伺服器端轉送方法。
 
-### 服务器端转发实施 {#server-side-forwarding-implementation}
+### 伺服器端轉送實作 {#server-side-forwarding-implementation}
 
-如上图所示，点击从网页到Adobe Analytics。 [!DNL Analytics] 然后，将数据实时转发到AAM，并对访客进行评估， [!UICONTROL segments]，就像点击是直接从页面进行一样。
+如上圖所示，點選來自指向Adobe Analytics的網頁。 [!DNL Analytics] 然後將該資料即時轉送至AAM，並評估訪客的AAM特徵和 [!UICONTROL segments]，就像點選直接來自頁面一樣。
 
-[!UICONTROL Segments] 在同一实时点击时返回到 [!DNL Analytics]，它会将响应转发到网页以进行个性化，等等。
+[!UICONTROL Segments] 在相同即時點選上傳回至 [!DNL Analytics]，會將回應轉送至網頁以進行個人化等。
 
-移动到服务器端转发没有时间下限。 Adobe强烈建议同时具有Audience Manager和 [!DNL Analytics] 使用此实施方法。
+改用伺服器端轉送並無時間上的考量。 Adobe強烈建議同時擁有Audience Manager和 [!DNL Analytics] 使用此實作方法。
 
-## 您有两项主要任务 {#you-have-two-main-tasks}
+## 您有兩個主要任務 {#you-have-two-main-tasks}
 
-这页上有很多信息，当然，这都很重要。 但是， **总之，你需要做两件主要的事**:
+本頁有不少資訊，當然也很重要。 不過， **所有要點歸結為您需要做的兩項主要工作**：
 
-1. 将您的代码从客户端DIL代码更改为服务器端转发代码
-1. 在 [!DNL Analytics] [!DNL Admin Console] 开始实际转发数据(根据 [!UICONTROL report suite])
+1. 將您的程式碼從使用者端DIL程式碼變更為伺服器端轉送程式碼
+1. 將切換器翻轉 [!DNL Analytics] [!DNL Admin Console] 開始實際轉送資料(根據 [!UICONTROL report suite])
 
-如果您跳过其中任一任务，则服务器端转发将无法正常工作。 此文档中已添加步骤和其他数据，以帮助您为设置正确执行这两个步骤。
+如果您略過其中一項工作，伺服器端轉送將無法正常運作。 本檔案新增了步驟和其他資料，可幫助您正確執行這兩個步驟以進行設定。
 
-## 实施选项 {#implementation-options}
+## 實作選項 {#implementation-options}
 
-从客户端转发到服务器端转发时，您将完成的任务之一是将代码更改为新的服务器端转发代码。 可使用以下选项之一完成此操作：
+當您從使用者端轉送移至伺服器端轉送時，其中一個工作是將程式碼變更為新的伺服器端轉送程式碼。 使用下列其中一個選項完成此操作：
 
-* Adobe Experience Platform标记 — Adobe针对Web属性的推荐实施选项。 您会看到，这是一项简单的任务，因为Platform标记已经为您完成了所有辛苦的工作。
-* 在页面上 — 您还可以将新的SSF代码直接放置到 `doPlugins` 函数 `appMeasurement.js` 文件，如果您（尚）未使用LaunchAdobe
-* 其他标签管理器 — 可以像处理上一个（在页面上）选项一样处理这些标签，因为您仍会将SSF代码放置在 `doPlugins`，其他标签管理器存储 [!DNL AppMeasurement] 代码
+* Adobe Experience Platform標籤 — Adobe建議的Web屬性實作選項。 您會發現這是一項輕鬆的工作，因為Platform標籤已為您完成所有艱難的工作。
+* 在頁面上 — 您也可以將新的SSF程式碼直接放入 `doPlugins` 函式於 `appMeasurement.js` 檔案(如果尚未使用Adobe啟動)
+* 其他標籤管理員 — 這些標籤管理員的處理方式與上一個（在頁面上）選項相同，因為您仍會將SSF程式碼放入 `doPlugins`，其他標籤管理員要儲存的位置 [!DNL AppMeasurement] 程式碼
 
-下面的每个内容 _更新代码_ 中。
+我們將在以下各節中檢視 _更新程式碼_ 區段。
 
-## 实施步骤 {#implementation-steps}
+## 實作步驟 {#implementation-steps}
 
-以下步骤描述了实施。
+下列步驟說明實作。
 
-### 步骤0:先决条件：Experience CloudID服务(ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
+### 步驟0：先決條件：Experience CloudID服務(ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
 
-移动到服务器端转发的主要先决条件是实施Experience CloudID服务。 如果您使用Experience Platform Launch，这非常容易完成，在这种情况下，您只需安装ECID扩展，然后它就会完成其余的操作。
+移至伺服器端轉送的主要先決條件為實作Experience CloudID服務。 如果您使用Experience Platform Launch，最輕鬆的方式是完成此步驟，在此情況下，您只需安裝ECID擴充功能，其他功能便可順利完成。
 
-如果您使用的是非AdobeTMS，或者根本没有TMS，请实施ECID以运行 **之前** 任何其他Adobe解决方案。 请参阅 [ECID文档](https://experienceleague.adobe.com/docs/id-service/using/home.html) 以了解更多详细信息。 其他唯一先决条件是与代码版本有关，因此，由于您只需在以下步骤中应用代码的最新版本，因此您将可以正常使用。
+如果您使用非AdobeTMS或完全沒有TMS，請實作ECID以執行 **早於** 任何其他Adobe解決方案。 請參閱 [ECID檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html) 以取得更多詳細資料。 唯一的其他先決條件與程式碼版本有關，因此只要在下列步驟中套用程式碼的最新版本，就不會有問題。
 
 >[!NOTE]
 >
->请在实施之前阅读此完整文档。 以下“时间”部分包含有关 *when* 您应实施每个内容，包括ECID（如果尚未实施）。
+>實作前請先詳閱整份檔案。 以下的「計時」部分包含有關以下專案的重要資訊 *時間* 您應該實作每個片段，包括ECID （如果尚未實作）。
 
-### 步骤1:从DIL代码中记录当前使用的选项 {#step-record-currently-used-options-from-dil-code}
+### 步驟1：從DIL程式碼記錄目前使用的選項 {#step-record-currently-used-options-from-dil-code}
 
-在您准备好从客户端DIL代码移动到服务器端转发时，第一步是识别您对DIL代码执行的所有操作，包括自定义设置和发送到AAM的数据。 需要注意和考虑的事项包括：
+當您準備好從使用者端DIL程式碼移至伺服器端轉送時，第一步是識別您使用DIL程式碼執行的所有操作，包括自訂設定和傳送至AAM的資料。 注意事項和考量事項包括：
 
-* 正常 [!DNL Analytics] 变量，使用 `siteCatalyst.init` DIL模块 — 您无需担心此模块，因为其工作只是发送正常 [!DNL Analytics] 变量，并且这仅通过启用服务器端转发来实现。
-* 合作伙伴子域 — 在 `DIL.create` 函数，请记下 `partner` 参数。 这称为您的“合作伙伴子域”，有时也称为“合作伙伴ID”，在您放置新的服务器端转发代码时，将需要使用此ID。
-* [!DNL Visitor Service Namespace]  — 也称为“[!DNL Org ID]&quot;或&quot;[!DNL IMS Org ID]，”在设置新的服务器端转发代码时，您也将需要此代码。 记下来。
-* containerNSID、uuidCookie和其他高级选项 — 记下您使用的任何其他高级选项，以便您也可以在服务器端转发代码中设置它们。
-* 其他页面变量 — 如果其他变量从页面发送到AAM(除了常规 [!DNL Analytics] 变量（由siteCatalyst.init处理）时，您需要记下这些变量，以便它们可以通过服务器端转发发送(扰动程序警报：通过 [!DNL contextData] 变量)。
+* 一般 [!DNL Analytics] 變數，使用 `siteCatalyst.init` DIL模組 — 您無需擔心此模組，因為其工作僅是傳送正常訊息 [!DNL Analytics] 變數超過，且只需啟用伺服器端轉送即可完成。
+* 合作夥伴子網域 — 在 `DIL.create` 函式，記下 `partner` 引數。 這稱為您的「合作夥伴子網域」，有時也稱為「合作夥伴ID」，當您放置新的伺服器端轉送程式碼時，系統會用到它。
+* [!DNL Visitor Service Namespace]  — 也稱為您的&quot;[!DNL Org ID]「或」[!DNL IMS Org ID]，」當您設定新的伺服器端轉送程式碼時，也需要此專案。 記下它。
+* containerNSID、uuidCookie和其他進階選項 — 記下您正在使用的任何其他進階選項，以便在伺服器端轉送程式碼中設定它們。
+* 其他頁面變數 — 如果從頁面將其他變數傳送到AAM （除了正常變數以外） [!DNL Analytics] 由siteCatalyst.init處理的變數)，您需要記下這些變數，以便它們可以透過伺服器端轉送來傳送(破壞程式警報：透過 [!DNL contextData] 變數)。
 
-### 步骤2:更新代码 {#step-updating-the-code}
+### 步驟2：更新程式碼 {#step-updating-the-code}
 
-在 [实施选项](#implementation-options) （上面），提供了有关如何以及在何处实施服务器端转发的多个选项。 为了使此部分生效，我们需要将其划分为以下部分（其中两个部分合并）。 转到此部分最能描述您需求的方法。
+在 [實作選項](#implementation-options) （上文）針對您實作伺服器端轉送的方式和位置提供了多個選項。 為了讓此區段生效，我們需要將其分成這些區段（其中兩個區段合併）。 請移至本節最能描述您需求的方法。
 
-#### Adobe Experience Platform标记 {#launch-by-adobe}
+#### Adobe Experience Platform標籤 {#launch-by-adobe}
 
-请观看以下视频，了解如何在Experience Platform Launch中将实施选项从客户端DIL代码移动到服务器端转发。
+觀看以下影片，瞭解如何在Experience Platform Launch中將實作選項從使用者端DIL程式碼移動到伺服器端轉送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26310/?quality=12)
 
-#### “在页面上”或非Adobe标签管理器 {#on-the-page-or-non-adobe-tag-manager}
+#### 「在頁面上」或非Adobe標籤管理員 {#on-the-page-or-non-adobe-tag-manager}
 
-请观看以下视频，了解有关将实施选项从客户端DIL代码移至 [!DNL AppMeasurement] 代码，驻留在文件或非Adobe标签管理系统中。
+觀看以下影片，瞭解如何在中將實作選項從使用者端DIL程式碼移動到伺服器端轉送 [!DNL AppMeasurement] 代碼，位於檔案或非Adobe標籤管理系統中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26312/?quality=12)
 
-### 步骤3:启用转发(每个 [!UICONTROL Report Suite]) {#step-enabling-the-forwarding-per-report-suite}
+### 步驟3：啟用轉送(根據 [!UICONTROL Report Suite]) {#step-enabling-the-forwarding-per-report-suite}
 
-在本教程中，我们已花费所有时间将代码从客户端DIL代码切换到服务器端转发。 这没关系，因为那是比较困难的部分。 尽管您会看到此部分非常简单，但它与更新代码一样重要。 在此视频中，您将看到如何翻转开关，以启用数据从Analytics实际转发到Audience Manager。
+在本教學課程中，到目前為止，我們一直致力於將程式碼從使用者端DIL程式碼切換至伺服器端轉送。 沒關係，因為這是比較困難的部分。 雖然您會看到此區段非常簡單，但與更新程式碼一樣重要。 在本影片中，您將會瞭解如何切換開關，以實際將資料從Analytics轉送至Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**注意：** 如视频中所述，请记住，在Experience Cloud后端完全启用转发需要长达4小时的时间。
+**注意：** 如影片所述，請記住，在Experience Cloud後端完全實作轉送最多需要4小時。
 
-## 计时 {#timing}
+## 計時 {#timing}
 
-请注意，从客户端DIL转移到服务器端转发有两项主要任务：
+提醒您，從使用者端DIL移至伺服器端轉送有兩個主要工作：
 
-1. 更新代码
-1. 在 [!DNL Analytics] [!DNL Admin Console]
+1. 更新程式碼
+1. 將切換器翻轉到 [!DNL Analytics] [!DNL Admin Console]
 
-但问题是，你先做哪个？ 重要吗？ 好，抱歉，那是两个问题。 但答案……视情况而定，是的 *can* 重要。 这个怎么用含糊的？ 我们把它拆了。 但首先，如果您是拥有众多网站的大型组织，则还会出现一个额外的问题：我必须立刻做一切吗？ 那个比较容易。 不。 你可以一个接一个地做。
+但問題是，您首先要做什麼？ 這重要嗎？ 好的，抱歉，這是兩個問題。 但答案是……這要看情況，是的 *可以* 重要。 這表示不明確嗎？ 讓我們來加以劃分。 但首先，如果您是擁有許多網站的大型組織，可能會出現另一個問題：我是否必須一次完成所有工作？ 那個比較簡單。 不適用。 您可以逐一執行。
 
-### 再深一点 {#a-little-deeper-dive}
+### 再深入一點 {#a-little-deeper-dive}
 
-时间和顺序之所以重要是因为转发方式 _真的_ 工作情况，可归纳为以下几个技术事实：
+時間與順序之所以重要，是因為轉送方式 _確定_ 作品，可歸納為以下幾個技術事實：
 
-* 如果您实施了Experience CloudID服务(ECID)，并且在 [!DNL Analytics] [!DNL Admin Console] （“交换机”）已打开，数据将从 [!DNL Analytics] 到AAM，即使您尚未更新代码。
-* 如果您未实施ECID，则即使您已打开开关，并且具有服务器端转发代码，数据也不会转发。
-* 服务器端转发代码（无论是在Platform标记中还是页面上）可以真正处理响应，这是完成迁移所必需的。
-* 请记住，服务器端转发交换机由 [!UICONTROL report suite]，但代码由Platform标记中的属性处理，或由 [!DNL AppMeasurement] 文件。
+* 如果您已實作Experience CloudID服務(ECID)，而且將 [!DNL Analytics] [!DNL Admin Console] （「交換器」）已開啟，資料將會從 [!DNL Analytics] 至AAM，即使您尚未更新程式碼亦然。
+* 如果您尚未實作ECID，則即使您已開啟開關，且擁有伺服器端轉送程式碼，資料也不會轉送。
+* 伺服器端轉送程式碼（不論在Platform標籤中或頁面上）會真正處理回應，且是完成移轉的必要專案。
+* 請記住，伺服器端轉送交換器是由 [!UICONTROL report suite]，但程式碼是由Platform標籤中的屬性處理，或由 [!DNL AppMeasurement] 檔案（如果您未使用Platform標籤）。
 
-### 最佳实践 {#best-practices}
+### 最佳實務 {#best-practices}
 
-根据这些技术详细信息，以下是有关何时何地执行操作的建议：
+根據這些技術詳細資訊，以下是有關該做什麼和何時做什麼的建議：
 
-#### 如果您尚未实施ECID {#if-you-do-not-have-ecid-yet-implemented}
+#### 如果您尚未實作ECID {#if-you-do-not-have-ecid-yet-implemented}
 
-1. 将开关翻转 [!DNL Analytics] 每个 [!UICONTROL report suite] 用于服务器端转发的附加信息。
+1. 將切換器翻入 [!DNL Analytics] 針對每個 [!UICONTROL report suite] 您將啟用伺服器端轉送的許可權。
 
-   1. 由于您没有ECID，因此尚未启动转发。
+   1. 轉送尚未開始，因為您沒有ECID。
 
-1. 对于每个网站，将您的代码从客户端DIL更新为服务器端转发（这可能位于Platform标记中），或在页面上更新，如上面其他部分所述。
+1. 根據網站，將您的程式碼從使用者端DIL更新至伺服器端轉送（這可能在Platform標籤中）或頁面上，如上方另一節所述。
 
-   1. 转发现在会流量化（您添加了ECID），您还应会收到正确的JSON响应 [!DNL Analytics] 信标（有关更多详细信息，请参阅下面的验证和疑难解答部分）。
+   1. 轉送現在流程（因為您已新增ECID），且您也應收到適當的JSON回應至 [!DNL Analytics] 信標（如需詳細資訊，請參閱下方的「驗證和疑難排解」一節）。
 
-#### 如果您已实施ECID {#if-you-do-have-ecid-implemented}
+#### 如果您已實作ECID {#if-you-do-have-ecid-implemented}
 
-1. 准备并规划，以便您准备好将代码从DIL更新为PER服务器端转发 [!UICONTROL report suite] 服务器端转发所启用的附加内容(I):
+1. 準備並規劃，以便您準備好將程式碼從DIL更新至伺服器端轉送。 [!UICONTROL report suite] 您將為伺服器端轉送啟用的專案：
 
-   1. 将开关翻转 [!DNL Analytics] 启用服务器端转发。
+   1. 將切換器翻入 [!DNL Analytics] 以啟用伺服器端轉送。
 
-      1. 转发将启动，因为您已启用ECID。
-   1. 请尽快将您的代码从客户端DIL更新为单端转发（这可能位于Platform标记中或页面上，如上面其他部分所述）。
+      1. 因為您已啟用ECID，所以會開始轉送。
+   1. 請儘快將您的程式碼從使用者端DIL更新為單一端轉送（這可能在Platform標籤中或頁面上，如上方另一節所述）。
 
-      1. 您应会收到正确的JSON响应 [!DNL Analytics] 信标(请参阅 [验证和疑难解答](#validation-and-troubleshooting) 部分，以了解更多详细信息)。
+      1. 您應會收到適當的JSON回應，回應 [!DNL Analytics] 信標(請參閱 [驗證和疑難排解](#validation-and-troubleshooting) 區段以取得更多詳細資訊)。
 
-
->[!NOTE]
->
->务必要尽可能地将这两个步骤相互接近，因为在上面的步骤1和2之间，您将会有进入AAM的重复数据。 换言之，单端转发将开始从 [!DNL Analytics] 到AAM，并且由于DIL代码仍在页面上，因此还会有一个从页面直接进入AAM的点击，从而使数据翻倍。 一旦您将代码从DIL更新到服务器端转发，这种情况就会减轻。
 
 >[!NOTE]
 >
->如果您希望在数据方面存在细微差异，而不是在数据方面有少量重复，则可以切换上面步骤1和2的顺序。 将代码从DIL移动到服务器端转发会阻止数据流入AAM，直到您能够翻转交换机以打开 [!UICONTROL report suite]. 通常，客户宁可将数据稍微翻倍，也不会错过让访客了解特征和 [!UICONTROL segments].
+>請務必儘可能將這兩個步驟鄰近執行，因為在上面的步驟1和2之間，您會有進入AAM的重複資料。 換言之，單一端轉送已開始從傳送資料 [!DNL Analytics] 至AAM，而且由於DIL程式碼仍在頁面上，也會有直接從頁面進入AAM的點選，從而使資料翻倍。 一旦您將程式碼從DIL更新到伺服器端轉送，就會緩解此問題。
 
-#### 迁移时间(当您拥有多个网站和 [!UICONTROL report suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
+>[!NOTE]
+>
+>若您想讓資料有小差異，而不是資料有小重複，您可以切換上述步驟1和2的順序。 將程式碼從DIL移動到伺服器端轉送會停止資料流入AAM，直到您能夠翻轉開關以開啟的伺服器端轉送為止。 [!UICONTROL report suite]. 一般而言，客戶寧願將資料增加一倍，也不願錯過將訪客帶入特徵和 [!UICONTROL segments].
 
-本主题在前几节中作了简要介绍，主要战略可概括如下：
+#### 擁有許多網站時的移轉時間 [!UICONTROL report suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
 
-迁移一个站点/[!UICONTROL report suite] (或一组网站/[!UICONTROL report suites])。
+本主題在前幾節中會簡單介紹，主要策略可歸納如下：
 
-但是，基于一些可能的情况，这可能会有些棘手：
+移轉一個網站/[!UICONTROL report suite] (或網站群組/[!UICONTROL report suites])。
 
-* 您的网站包含多个不同的 [!UICONTROL report suites]
-* 您拥有 [!UICONTROL report suite] 包括多个网站(如 [!UICONTROL report suite])
-* 您可以使用一个Platform标记属性覆盖多个网站
-* 您有不同的开发团队，负责不同的站点
+不過，根據幾種可能的情況，這可能會有點棘手：
 
-因为这些东西，它会变得有点复杂。 我最能建议的是：
+* 您有一個包含數個相異專案的網站 [!UICONTROL report suites]
+* 您有 [!UICONTROL report suite] 包括數個網站(例如全域 [!UICONTROL report suite])
+* 您使用一個Platform標籤屬性來涵蓋多個網站
+* 您擁有不同網站的不同開發團隊
 
-* 请花些时间，根据上面所述制定迁移到服务器端转发的策略
-* 基于Platform标记中的单个属性(或 [!DNL AppMeasurement] 文件)通常映射到1个或2个不同的 [!UICONTROL report suites]，则您可能能够制定一个计划，逐个对这些不同的组运行，并更新企业到服务器端转发
-* 如果您与Adobe咨询团队合作，请与他们讨论您的迁移计划，以便他们在需要时获得帮助
+因為這些專案，可能會變得有點複雜。 我的最佳建議是：
 
-## 验证和疑难解答 {#validation-and-troubleshooting}
+* 請花點時間根據上述說明，制定移轉至伺服器端轉送的策略
+* 根據Platform標籤中的單一屬性(或單一 [!DNL AppMeasurement] 檔案)通常會對應至1或2個相異專案 [!UICONTROL report suites]，您應該能制定一個計畫，逐一處理這些不同的群組，將您的企業更新為伺服器端轉送
+* 如果您正在與Adobe顧問合作，請和他們討論您的移轉計畫，以便他們視需要提供協助
 
-验证服务器端转发是否已启动且正在运行的主要方法是，查看应用程序针对任意Adobe Analytics点击的响应。
+## 驗證和疑難排解 {#validation-and-troubleshooting}
 
-如果您没有对 [!DNL Analytics] Audience Manager时，对 [!DNL Analytics] 信标（除2x2像素以外）。 但是，如果您正在执行服务器端转发，则可以在 [!DNL Analytics] 请求和响应，以告知您 [!DNL Analytics] 与Audience Manager正确通信、转发点击并获取响应。
+驗證伺服器端轉送是否正常運作的主要方法是，檢視來自應用程式的任何Adobe Analytics點選回應。
+
+如果您沒有執行來自的資料伺服器端轉送 [!DNL Analytics] 若要Audience Manager，則不會有任何回應 [!DNL Analytics] 信標（除2x2畫素以外）。 不過，如果您正在執行伺服器端轉送，則您可在以下位置確認一些專案： [!DNL Analytics] 要求和回應，讓您知道 [!DNL Analytics] 與Audience Manager正確通訊、轉送點選及取得回應。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
 
 >[!WARNING]
 >
->请注意虚假的“成功”消息。 如果有响应，并且一切似乎都运行正常，请确保您具有 `stuff` 对象。 如果没有，您可能会看到一条消息，显示 `"status":"SUCCESS"`. 尽管这听起来很不可思议，但实际上却证明它没有正常运行。
+>請注意誤報的「Success」。 如果有回應，且一切似乎運作正常，請確定您擁有 `stuff` 回應中的物件。 若未這麼做，您可能會看到一則訊息，指出 `"status":"SUCCESS"`. 雖然聽起來不合理，但這實際上是運作「不」正常的證明。
 >
->如果您看到此消息，则表示您已在Platform标记或 [!DNL AppMeasurement]，但是 [!DNL Analytics] [!DNL Admin Console] 尚未完成。 在这种情况下，您需要验证是否已在 [!DNL Analytics] [!DNL Admin Console] , [!UICONTROL report suite]. 如果您已经执行了操作，但尚未满4小时，请耐心等待，因为在后端进行所有必要的更改可能需要那么长时间。
+>如果您看到這個訊息，表示您已完成Platform標籤中的程式碼更新，或者 [!DNL AppMeasurement]，但此檔案中的轉送 [!DNL Analytics] [!DNL Admin Console] 尚未完成。 在此情況下，您需要確認已在「 」中啟用伺服器端轉送 [!DNL Analytics] [!DNL Admin Console] 您的 [!UICONTROL report suite]. 如果您已啟用，但尚未滿4小時，請耐心等候，因為在後端進行所有必要的變更可能需要花很長的時間。
 
 
-![误报](assets/falsesuccess.png)
+![誤判成功](assets/falsesuccess.png)
 
-有关服务器端转发的更多信息，请参阅 [文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+如需伺服器端轉送的詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

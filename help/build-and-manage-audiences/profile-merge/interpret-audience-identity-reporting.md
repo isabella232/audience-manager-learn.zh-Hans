@@ -1,6 +1,6 @@
 ---
-title: 解释受众身份报表
-description: 通过受众身份报表，客户能够按个人/家庭身份定义报告特征或区段的总人口。 请观看此视频，以了解如何在Audience Manager报表中显示该内容。
+title: 解譯對象身分報告
+description: 受眾身分報表可讓客戶依身分的人員/家庭定義，報告某個特徵或區段的總母體。 觀看此影片以檢視Audience Manager報表中的呈現方式。
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 解释受众身份报告
+# 解讀對象身分報告
 
-通过受众身份报表，客户能够按个人/家庭身份定义报告特征或区段的总人口。 请观看此视频，以了解如何在Audience Manager报表中显示该内容。
+受眾身分報表可讓客戶依身分的人員/家庭定義，報告某個特徵或區段的總母體。 觀看此影片以檢視Audience Manager報表中的呈現方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
