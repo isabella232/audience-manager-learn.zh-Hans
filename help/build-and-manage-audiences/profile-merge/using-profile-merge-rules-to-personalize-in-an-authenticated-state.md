@@ -1,6 +1,6 @@
 ---
-title: 使用設定檔合併規則在驗證狀態下進行個人化
-description: 使用這些設定檔合併規則設定，為登入的客戶提供個人化體驗。
+title: 使用配置文件合并规则在验证状态下进行个性化
+description: 通过使用这些配置文件合并规则设置，为登录客户提供个性化体验。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Profile Merge Rules] 在驗證狀態下個人化
+# 使用 [!UICONTROL Profile Merge Rules] 在验证状态下进行个性化
 
-使用以下專案為登入的客戶提供個人化體驗 [!UICONTROL Profile Merge Rule] 設定。
+通过使用以下各项为登录的客户提供个性化体验 [!UICONTROL Profile Merge Rule] 设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

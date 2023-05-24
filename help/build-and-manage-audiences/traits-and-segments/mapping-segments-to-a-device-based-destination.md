@@ -1,6 +1,6 @@
 ---
-title: 將區段對應至以裝置為基礎的目的地
-description: 瞭解如何將區段對應至以裝置為基礎的目的地（也稱為_server-to-server_目的地）。 若要將受眾區段傳送至DSP或其他合作夥伴，您需要將區段對應至Audience Manager中的目的地。
+title: 将区段映射到基于设备的目标
+description: 了解如何将区段映射到基于设备的目标，也称为_server-to-server_目标。 要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 將區段對應至以裝置為基礎的目的地
+# 将区段映射到基于设备的目标
 
-若要將受眾區段傳送至DSP或其他合作夥伴，您需要將區段對應至Audience Manager中的目的地。 此影片逐步說明將區段對應至以裝置為基礎的目的地(也稱為 _伺服器對伺服器_ 目的地。
+要将受众区段发送到DSP或其他合作伙伴，您需要将该区段映射到Audience Manager中的目标。 本视频介绍如何将区段映射到基于设备的目标，也称为 _服务器到服务器_ 目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 瞭解區段圖表中的數字
-description: 瞭解區段資訊畫面圖形中顯示的數字。
+title: 了解“区段”图表中的数字
+description: 了解区段信息屏幕的图形中显示的数字。
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解區段圖表中的數字
+# 了解“区段”图表中的数字
 
-瞭解區段資訊畫面圖形中顯示的數字。
+了解区段信息屏幕的图形中显示的数字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

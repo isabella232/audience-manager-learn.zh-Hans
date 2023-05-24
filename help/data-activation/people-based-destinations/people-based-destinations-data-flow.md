@@ -1,6 +1,6 @@
 ---
-title: 以人物為基礎的目的地資料流程
-description: 此影片提供People-based Destinations的概觀，並展示整個程式的資料流程。
+title: 基于人员的目标数据流
+description: 此视频概述了基于人员的目标，并展示了整个过程中的数据流。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 以人物為基礎的目的地資料流程
+# 基于人员的目标数据流
 
-此影片提供People-based Destinations的概觀，並展示整個程式的資料流程。
+此视频概述了基于人员的目标，并展示了整个过程中的数据流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

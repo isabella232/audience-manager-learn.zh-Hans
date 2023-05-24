@@ -1,6 +1,6 @@
 ---
-title: 監控及報告活動使用情況
-description: 在本影片中，瞭解如何使用「活動使用量報表」，包括顯示和下載選項。
+title: 监控和报告活动使用情况
+description: 在本视频中，了解如何使用活动使用情况报表，包括显示和下载选项。
 feature: Usage and Billing
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 監控及報告活動使用情況
+# 监控和报告活动使用情况
 
-在本影片中，我們將逐步解說如何使用 [!UICONTROL Activity Usage Report]，包括顯示和下載選項。
+在本视频中，我们将介绍如何使用 [!UICONTROL Activity Usage Report]，包括显示和下载选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+欲知更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

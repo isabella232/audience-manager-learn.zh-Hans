@@ -1,6 +1,6 @@
 ---
-title: 使用Audience Optimization報告瞭解媒體效能
-description: 瞭解如何使用Audience Optimization報告改善您的行銷活動，瞭解應該在何處投入行銷資金以及在何處停止投資。 也學習如何決定最佳頻率限定，以及在這些報告中尋找其他寶藏。
+title: 使用Audience Optimization报告了解介质性能
+description: 了解如何使用Audience Optimization报告改进营销活动，了解在何处投入营销资金以及在何处停止投资。 还可了解如何确定最佳频率封顶并在这些报告中找到其他有用的内容。
 feature: Audience Optimization Reports
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 使用Audience Optimization報告瞭解媒體效能
+# 使用Audience Optimization报告了解介质性能
 
-瞭解如何使用Audience Optimization報告改善您的行銷活動，瞭解應該在何處投入行銷資金以及在何處停止投資。 也學習如何決定最佳頻率限定，以及在這些報告中尋找其他寶藏。
+了解如何使用Audience Optimization报告改进营销活动，了解在何处投入营销资金以及在何处停止投资。 还可了解如何确定最佳频率封顶并在这些报告中找到其他有用的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).
+欲知更多信息，请参见 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).

@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的第一方資料擷取
-description: 此影片說明第一方離線資料擷取至Real-time Customer Data Platform (Real-time CDP)，以供一直使用Adobe Audience Manager的使用者觀看。 我們檢視這兩種產品之間有關資料擷取的一些主要差異，並展示如何使用Audience Manager資料聯結器作為過渡，直到處理程式轉移到Real-time CDP為止。
+title: 帮助Audience Manager用户了解Real-time CDP中的第一方数据引入
+description: 此视频讨论第一方离线数据摄取到Real-time Customer Data Platform (Real-time CDP)中以供一直使用Adobe Audience Manager的用户使用。 我们查看了这两种产品在数据引入方面的一些主要差异，并展示了如何将Audience Manager数据连接器用作过渡，直到将流程转移到Real-time CDP。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的第一方資料擷取
+# 帮助Audience Manager用户了解Real-time CDP中的第一方数据引入
 
-此影片說明第一方離線資料擷取至Real-time Customer Data Platform (Real-time CDP)，以供一直使用Adobe Audience Manager的使用者觀看。 我們檢視這兩種產品之間有關資料擷取的一些主要差異，並展示如何使用Audience Manager資料聯結器作為過渡，直到處理程式轉移到Real-time CDP為止。
+此视频讨论第一方离线数据摄取到Real-time Customer Data Platform (Real-time CDP)中以供一直使用Adobe Audience Manager的用户使用。 我们查看了这两种产品在数据引入方面的一些主要差异，并展示了如何将Audience Manager数据连接器用作过渡，直到将流程转移到Real-time CDP。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
+以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
 
-* [使用Adobe Audience Manager資料聯結器內嵌資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [串流資料擷取概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
-* [批次資料擷取概觀](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
-* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [建立資料集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [建立區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [使用Adobe Audience Manager Data Connector引入数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [流数据引入概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
+* [批量数据摄取概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
+* [使用架构编辑器创建架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [创建数据集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
+* [创建区段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)

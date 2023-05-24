@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的訊號
-description: 本影片適用於移至Real-time Customer Data Platform (Real-time CDP)的Audience Manager使用者，影片中會討論您在Audience Manager中建立特徵所使用的訊號（機碼值組）如何用於Platform。
+title: 帮助Audience Manager用户了解Real-time CDP中的信号
+description: 本视频适用于要迁移到Real-time Customer Data Platform (Real-time CDP)的Audience Manager用户，其中讨论了如何在Platform中使用您在Audience Manager中用于构建特征的信号（键值对）。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,15 +16,15 @@ ht-degree: 1%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的訊號
+# 帮助Audience Manager用户了解Real-time CDP中的信号
 
-本影片適用於移至Real-time Customer Data Platform (Real-time CDP)的Audience Manager使用者，影片中會討論您在Audience Manager中建立特徵所使用的訊號（機碼值組）如何用於Platform。
+本视频适用于要迁移到Real-time Customer Data Platform (Real-time CDP)的Audience Manager用户，其中讨论了如何在Platform中使用您在Audience Manager中用于构建特征的信号（键值对）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是可幫助您瞭解Real-time Customer Data Platform的現有影片和資源。 歡迎探索相關影片和教學課程，深入瞭解Platform。
+以下现有视频和资源可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
 
-* [瞭解適用於Audience Manager使用者的Real-time CDP中的特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [瞭解適用於Audience Manager使用者的Real-time CDP中的區段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [帮助Audience Manager用户了解Real-time CDP中的特征](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
+* [帮助Audience Manager用户了解Real-time CDP中的区段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)

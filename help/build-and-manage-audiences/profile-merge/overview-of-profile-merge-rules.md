@@ -1,6 +1,6 @@
 ---
-title: 設定檔合併規則概要
-description: 瞭解什麼是設定檔合併規則、其運作方式，及其對行銷人員的價值。
+title: 配置文件合并规则概览
+description: 了解什么是配置文件合并规则、它们的工作方式及其对营销人员的价值。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 概述 [!UICONTROL Profile Merge Rules]
 
-瞭解內容 [!UICONTROL Profile Merge Rules] 是、運作方式，及其對行銷人員的價值。
+了解内容 [!UICONTROL Profile Merge Rules] 是、它们的工作方式以及它们对营销人员的价值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: 更新至Adobe Audience Manager DIL 8.0版（或更新版本）
-description: 本文會提供將Adobe Audience Manager (AAM)Data Integration Library(DIL)程式碼更新至8.0版或更新版本的步驟和建議。 這指的是「使用者端」DIL實作，而不是Adobe Analytics資料的伺服器端轉送，將涵蓋無Adobe標籤管理程式解決方案的DTM、Launch by Adobe和實作。
+title: 正在更新到Adobe Audience ManagerDIL版本8.0（或更高版本）
+description: 本文将为您提供有关将Adobe Audience Manager (AAM)Data Integration Library(DIL)代码更新到版本8.0或更高版本的步骤和建议。 这指的是“客户端”DIL实施，而不是Adobe Analytics数据的服务器端转发，将涵盖不使用Adobe标签管理器解决方案的DTM、Launch by Adobe和实施。
 feature: DIL Implementation
 topics: null
 activity: implement
@@ -17,76 +17,76 @@ ht-degree: 1%
 
 ---
 
-# 更新至Adobe Audience Manager的DIL版本8.0 （或更新版本） {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
+# 正在更新到Adobe Audience Manager的DIL版本8.0（或更高版本） {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
 
-本文將提供更新Adobe Audience Manager (AAM)的步驟和建議 [!DNL Data Integration Library] (DIL)程式碼至8.0版或更新版本。 這指的是「使用者端」DIL實作，而不是Adobe Analytics資料的伺服器端轉送，將涵蓋無Adobe標籤管理程式解決方案的DTM、Launch by Adobe和實作。
+本文将提供有关更新Adobe Audience Manager (AAM)的步骤和建议 [!DNL Data Integration Library] (DIL)版本8.0或更高版本的代码。 这指的是“客户端”DIL实施，而不是Adobe Analytics数据的服务器端转发，将涵盖不使用Adobe标签管理器解决方案的DTM、Launch by Adobe和实施。
 
 ## 概述 {#overview}
 
-Audience Manager的 [!DNL Data Integration Library] (DIL)程式碼可讓您在網站上實作AAM*。 實作舊版DIL時，不需要同時實作Adobe的Experience CloudID服務(ECID) （不過這是個好主意）。 從DIL 8.0版開始，硬性相依於ECID 3.3版或更新版本。 若您實作DIL8.0或更新版本，但未使用ECID 3.3或較舊的版本，您會收到錯誤訊息，而系統無法運作。 由於您可以實作AAM的方法有很多種，因此我們建立了此頁面，為您提供一些要完成的步驟以及一些建議。 您將會在下方找到依平台/實作方法劃分的這些步驟和建議。 有關DIL的更多資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en).
+Audience Manager [!DNL Data Integration Library] (DIL)代码允许您在网站上实施AAM*。 在实施以前版本的DIL时，不需要同时实施Adobe的Experience CloudID服务(ECID)（尽管这是个非常好的主意）。 从DIL版本8.0开始，硬依赖于ECID版本3.3或更高版本。 如果您在不使用ECID 3.3的情况下实施DIL8.0或更高版本，或者实施了早期版本，则会收到错误，并且无法正常运行。 由于有多种方法可以实施AAM，因此我们创建了此页面，为您提供了一些要完成的步骤以及一些建议。 在下面，您将看到按平台/实施方法划分的这些步骤和建议。 有关DIL的更多信息，请参阅 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en).
 
-* 如本頁面的說明中所述，這僅涵蓋「使用者端」DIL實施，由沒有Adobe Analytics的AAM客戶使用。 如果您有Adobe Analytics，應使用實作AAM的伺服器端轉送方法。 此方法的說明請參閱 [檔案](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+* 如本页描述中所述，这仅涵盖“客户端”DIL实施，由不具有Adobe Analytics的AAM客户使用。 如果您有Adobe Analytics，则应该使用实施AAM的服务器端转发方法。 有关该方法的描述，请参见 [文档](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-## 重複和已棄用的元素和方法 {#duplicate-and-deprecated-elements-and-methods}
+## 重复和已弃用的元素和方法 {#duplicate-and-deprecated-elements-and-methods}
 
-在舊版DIL和ECID中，有些重複方法(在DIL和ECID中執行相同功能的方法)會導致使用者不知道該使用哪一種方法。 通常您需要同時使用這兩個變數並將其比對，而該訊息未妥善傳達給我們的客戶。 從DIL8.0開始，DIL已棄用這些重複的方法和元素，建議您使用ECID版本。
+在DIL和ECID的早期版本中，存在重复方法(在DIL和ECID中执行相同功能的方法)，这会导致在使用哪种方法时产生混淆。 通常情况下，您需要同时使用这两种工具并将它们匹配起来，而该消息没有很好地传达给我们的客户。 从DIL8.0开始，DIL中已弃用这些重复的方法和元素，建议您使用ECID版本。
 
 例如：
 
-* 使用時 [!DNL DIL.create]，一些元素已過時，您應改用ECID元素。 這些元素會在 [[!DNL DIL.create] 檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html).
-* 此 [!DNL idSync] 執行個體層級方法也已過時，方法的 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html).
+* 使用时 [!DNL DIL.create]，一些元素已被弃用，您应该改用ECID元素。 这些元素在 [[!DNL DIL.create] 文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html).
+* 此 [!DNL idSync] 实例级别的方法也已弃用，如该方法的 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html).
 
-## 與客戶ID同步的ID {#id-syncing-with-a-customer-id}
+## 与客户ID同步的ID {#id-syncing-with-a-customer-id}
 
-在AAM中，您可以將電腦上的UUID （匿名不重複使用者ID）與客戶ID同步，以便上傳有關該客戶的離線資料，並將其與其線上行為繫結，進而加深對客戶的瞭解。 在過去，這是以兩種方式之一完成的：
+在AAM中，您可以将计算机上的UUID（匿名唯一用户ID）与客户ID同步，以便您可以上传有关该客户的离线数据，并将其与其在线行为相关联，从而更好地了解您的客户。 在过去，这是以两种方式之一完成的：
 
-* 此 [!DNL idSync] 執行個體層級方法
+* 此 [!DNL idSync] 实例级方法
 * 此 [!DNL declaredId] 中的元素 [!DNL DIL.create]
 
-如果您一直使用其中一種舊方法來與客戶ID同步，強烈建議您使用 [!DNL setCustomerIDs] 方法，是ECID服務的一部分。 更多關於的資訊 [!DNL setCustomerIDs] 可在方法的下列位置取得： [檔案](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html).
+如果您一直使用其中一种旧方法同步客户ID，强烈建议您使用 [!DNL setCustomerIDs] 方法，它是ECID服务的一部分。 有关以下内容的更多信息 [!DNL setCustomerIDs] 在方法的中可用 [文档](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html).
 
-**快速提示：** 先前使用上述任一種方法時，您已參考AAM [!UICONTROL Data Source] 使用 [!UICONTROL Data Source] ID （亦稱為「DPID」）。 更新至 [!DNL setCustomerIDs]，您需要使用AAM [!UICONTROL Data Source]的&quot;[!UICONTROL Integration Code]」而非。 仍然指向相同的 [!UICONTROL Data Source] 但只是不同的識別碼。 這如下影片所示。
+**快速提示：** 之前使用上述任一方法时，您参考了AAM [!UICONTROL Data Source] 使用 [!UICONTROL Data Source] ID（又称“DPID”）。 当更新到 [!DNL setCustomerIDs]，您需要使用AAM [!UICONTROL Data Source]的”[!UICONTROL Integration Code]”而非。 它仍然指向相同的 [!UICONTROL Data Source] 但只是个不同的标识。 这如下面的视频中所示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
 
-以下小節列出根據您的實作方法更新至DIL8.0的步驟和建議：
+以下部分列出了根据您的实施方法更新到DIL8.0的步骤和建议：
 
-## 更新至Adobe Experience Platform標籤中的DIL8.0 {#updating-to-dil-in-experience-platform-launch}
+## 更新至Adobe Experience Platform标记中的DIL8.0 {#updating-to-dil-in-experience-platform-launch}
 
-更新至DIL8.0的基本步驟
+更新到DIL8.0的基本步骤
 
-1. 如果您使用8.0之前的DIL，請在升級前進入AAM擴充功能中的DIL設定，並記下您使用的任何進階選項（用於後續步驟）。
-1. 將您的AAM擴充功能更新至8.0版或更新版本。
-1. 確認您的Experience CloudID服務擴充功能為3.3.0版或更新版本。
-1. 適用於任何已棄用的方法/元素(例如 `disableIDSyncs`)，請在AAM 8.0之前的擴充功能或用於DIL的自訂程式碼中啟用ECID擴充功能中的ECID方法。
+1. 如果您使用的是8.0之前的DIL，则在升级之前，请转到AAM扩展中的DIL配置，并记下您所使用的任何高级选项（将在后续步骤中使用）。
+1. 请将AAM扩展更新到8.0或更高版本。
+1. 验证您的Experience CloudID服务扩展的版本是否为3.3.0或更高版本。
+1. 用于任何已弃用的方法/元素(例如 `disableIDSyncs`AAM )，或者在DIL的自定义代码中，启用ECID扩展中的ECID方法。
 
    1. (DIL) `disableDestinationPublishingIframe` -> (ECID) `disableIdSyncs`
    1. (DIL) `disableIDSyncs` -> (ECID) `disableIdSyncs`
    1. (DIL) `iframeAkamaiHTTPS` -> (ECID) `dSyncSSLUseAkamai`
    1. (DIL) `declaredId` -> (ECID) `setCustomerIDs`
 
-1. 發佈變更。
+1. 发布更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
 
-## 更新至Adobe DTM中的DIL8.0 {#updating-to-dil-in-adobe-dtm}
+## 在AdobeDTM中更新到DIL8.0 {#updating-to-dil-in-adobe-dtm}
 
-1. 將AAM工具更新至8.0版或更新版本。 此版本設定位於AAM工具的「一般」區段下。
-1. 適用於任何已棄用的方法/元素(例如 `disableIDSyncs`)，請記下它們（以便將其新增至ECID工具），然後從自訂中移除它們，以便DIL8.0之前的AAM工具 [!DNL DIL code] 在AAM工具中。
-1. 將您的Experience CloudID服務擴充功能更新至3.3.0版或更新版本
-1. 新增進階選項至您從AAM工具自訂程式碼移除的ECID工具。
-1. 發佈變更
+1. 将AAM工具更新至8.0或更高版本。 此版本设置位于AAM工具的“常规”部分下。
+1. 用于任何已弃用的方法/元素(例如 `disableIDSyncs`AAM )，请记下它们（以便将其添加到ECID工具中），然后从自定义DIL中移除它们 [!DNL DIL code] 在AAM工具中。
+1. 将您的Experience CloudID服务扩展更新至版本3.3.0或更高版本
+1. 将高级选项添加到您从AAM工具的自定义代码中删除的ECID工具中。
+1. 发布更改
 
-## 更新至DIL8.0 (無AdobeTag Management解決方案) {#additional-resources}
+## 正在更新到DIL8.0，其中没有Adobe的Tag Management解决方案 {#additional-resources}
 
-如果您直接在頁面上更新程式碼，則可以使用較新的專案來取代較舊的專案，除非您需要將方法/元素從DIL移動到ECID，如上所述。 在這種情況下，您只需以ECID位置的ECID方法/元素取代DIL位置中的舊方法/元素即可。
+如果您直接在页面上更新代码，则只需使用较新的项目替换旧的项目即可，除非您需要将方法/元素从DIL移动到ECID，如上所述。 在这种情况下，您只需将DIL位置中的旧方法/元素替换为ECID位置中的ECID方法/元素即可。
 
-非Adobe標籤管理員的情況也一樣。 只要您有該標籤管理解決方案中的舊版本，請依照以下步驟所述，以新程式碼取代。
+非Adobe标签管理器的情况也是如此。 无论该标签管理解决方案中位于何处，只要您有旧版本，请按照以下步骤中的说明，将其替换为新的代码。
 
-1. 將您的DIL程式庫更新至最新版本（8.0或更新版本） — 您需要從Adobe諮詢或Adobe客戶服務取得最新的DIL程式碼，因為它目前無法在公共位置使用。 然後只需用新的DIL程式庫程式碼取代舊的DIL程式庫程式碼，並繼續進行下一個步驟（不要現在停止，否則您會遇到問題，ha）。
-1. 安裝 [!DNL ECID Service] 或將您現有的版本更新至3.3.0或更新版本。 您可以下載最新的Experience CloudID服務版本 [從我們的GitHub頁面](https://github.com/Adobe-Marketing-Cloud/id-service/releases). 如果您需要這方面的協助，請參閱 [檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html) 或諮詢Adobe顧問。
+1. 将您的DIL库更新到最新版本（8.0或更高版本） — 您需要从“Adobe咨询”或“Adobe客户关怀”获取最新的DIL代码，因为它当前在公共场所不可用。 然后，只需将旧的DIL库代码替换为新的DIL库代码，并继续执行下一步即可（不要立即停止，否则您将遇到问题，ha）。
+1. 安装 [!DNL ECID Service] 或将现有版本更新为3.3.0或更高版本。 您可以下载最新的Experience CloudID服务版本 [从我们的GitHub页面](https://github.com/Adobe-Marketing-Cloud/id-service/releases). 如果您需要这方面的帮助，请参见 [文档](https://experienceleague.adobe.com/docs/id-service/using/home.html) 或咨询Adobe顾问。
 
-1. 確認自訂程式碼中用於DIL的任何已棄用方法或元素已移至ECID方法：
+1. 验证自定义代码中用于DIL的任何已弃用方法或元素是否已移至ECID方法：
 
    1. (DIL) `disableDestinationPublishingIframe` -> (ECID) `disableIdSyncs`
 

@@ -1,6 +1,6 @@
 ---
-title: 建立及設定以人物為基礎的目的地
-description: 瞭解建立以人物為基礎的目的地的先決條件，以及如何設定整合的帳戶(連結至合作夥伴，例如Facebook)。 瞭解目的地本身的產品內設定。
+title: 创建和配置基于人员的目标
+description: 了解创建基于人员的目标的先决条件，以及如何配置集成帐户(指向合作伙伴的链接，如Facebook)。 了解目标本身的产品内设置。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立和設定 [!UICONTROL People-based Destinations]
+# 创建和配置 [!UICONTROL People-based Destinations]
 
-此影片首先會提供建立以人物為基礎的目的地的必要條件相關資訊，然後也會示範如何設定整合帳戶(連結至合作夥伴，例如 [!DNL Facebook])。 然後它會逐步引導您瞭解目的地本身的產品內設定。
+此视频首先介绍创建基于人员的目标的先决条件的相关信息，然后还会向您说明如何配置集成帐户(指向合作伙伴的链接，例如 [!DNL Facebook])。 然后，它将引导您了解目标本身的产品内设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

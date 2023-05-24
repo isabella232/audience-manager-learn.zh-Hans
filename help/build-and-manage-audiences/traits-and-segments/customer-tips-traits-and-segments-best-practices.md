@@ -1,6 +1,6 @@
 ---
-title: 客戶秘訣 — 特徵和區段最佳實務
-description: 觀看Ally Financial資深行銷專員Matt Vittorioso提供的管理特徵和區段秘訣。
+title: 客户提示 — 特征和区段最佳实践
+description: 观看Ally Financial高级营销专家Matt Vittorioso提供有关管理特征和区段的提示。
 feature: Segments
 topics: null
 activity: use
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# 客戶秘訣 — 特徵和區段最佳實務
+# 客户提示 — 特征和区段最佳实践
 
-**Matt Vittorioso**，資深行銷專員： **[!DNL Ally Financial]**，提供管理特徵和區段的秘訣。
+**马特·维托里奥索**，高级营销专家 **[!DNL Ally Financial]**，提供了有关管理特征和区段的提示。
 
-Matt Vittorioso是Ally Financial數位行銷團隊的資深行銷專家。 他領導數位細分團隊，負責所有進出受眾管理器的資料。 Matt與所有內部利害關係人和外部機構合作夥伴密切合作，以確保為Ally的所有促銷活動建立適當的區段。 提示包括以下主題：
+Matt Vittorioso是Ally Financial数字营销团队的高级营销专家。 他领导数字分段团队，负责输入和输出audience manager的所有数据。 Matt与所有内部利益相关者和外部机构合作伙伴密切合作，以确保为Ally的所有营销活动构建适当的区段。 提示包括以下主题：
 
-* 協調利害關係人並與他們溝通
-* 利用現成可用的功能
-* 定期檢閱特徵和區段
+* 协调利益相关者并与他们沟通
+* 利用开箱即用的功能
+* 定期审查特征和区段
 
-[閱讀Experience League社群中的Matt秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[阅读Experience League社区中的Matt提示。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

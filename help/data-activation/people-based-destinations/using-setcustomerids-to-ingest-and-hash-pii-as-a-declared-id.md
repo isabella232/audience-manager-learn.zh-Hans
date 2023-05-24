@@ -1,6 +1,6 @@
 ---
-title: 使用setCustomerIDs()將PII擷取並雜湊為宣告ID
-description: 瞭解用於擷取和雜湊電子郵件地址的Experience CloudID服務setCustomerIDs()方法。 瞭解如何將其作為宣告ID使用。
+title: 使用setCustomerIDs()将PII作为声明的ID进行摄取和哈希处理
+description: 了解Experience CloudID服务setCustomerIDs()方法以摄取和哈希电子邮件地址。 了解如何将其用作声明的ID。
 feature: People-based Destinations
 topics: null
 activity: implement
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 使用setCustomerIDs()將PII擷取並雜湊為宣告ID
+# 使用setCustomerIDs()将PII作为声明的ID进行摄取和哈希处理
 
-在本影片中，您將會瞭解為何及如何使用Experience CloudID服務 `setCustomerIDs()` 擷取和雜湊電子郵件地址的方法，並將其用作宣告ID。 這不僅會將CRM ID和電子郵件地址繫結在一起，還會將它們同步至Adobe Audience Manager UUID，例如匿名裝置ID。 接著，這些雜湊電子郵件地址便可以傳送至「以人物為基礎的目的地」。
+在本视频中，您将了解使用Experience CloudID服务的原因和方法 `setCustomerIDs()` 方法，用于摄取和哈希电子邮件地址，并将其用作声明的ID。 这不仅会将CRM ID和电子邮件地址绑定在一起，还会将它们同步到Adobe Audience Manager UUID，例如匿名设备ID。 然后，可以将这些经过哈希处理的电子邮件地址发送到基于人员的目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+欲知更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).

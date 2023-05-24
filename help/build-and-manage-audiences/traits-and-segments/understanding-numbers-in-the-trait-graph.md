@@ -1,6 +1,6 @@
 ---
-title: 瞭解特徵圖中的數字
-description: 在特徵資訊畫面中取得相關秘訣，以利瞭解報告中的特徵數字。
+title: 了解特征图中的数字
+description: 在特征信息屏幕中，获取一些关于了解报告的特质数字的提示。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解特徵圖中的數字
+# 了解特征图中的数字
 
-在特徵資訊畫面中取得相關秘訣，以利瞭解報告中的特徵數字。
+在特征信息屏幕中，获取一些关于了解报告的特质数字的提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

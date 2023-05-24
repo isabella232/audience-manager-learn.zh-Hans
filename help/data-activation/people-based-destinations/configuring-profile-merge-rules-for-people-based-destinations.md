@@ -1,6 +1,6 @@
 ---
-title: 設定以人物為基礎的目的地的設定檔合併規則
-description: 在本影片中，瞭解如何設定用於以人物為基礎的目的地的設定檔合併規則，包括何時使用全新的跨裝置選項。
+title: 为基于人员的目标配置配置文件合并规则
+description: 在本视频中，了解如何设置用于基于人员的目标的配置文件合并规则，包括何时使用全新的跨设备选项。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 設定 [!UICONTROL Profile Merge Rules] 適用於以人物為基礎的目的地
+# 配置 [!UICONTROL Profile Merge Rules] （适用于基于人员的目标）
 
-在本影片中，瞭解如何設定 [!UICONTROL Profile Merge Rule] 以人物為基礎的目的地，包括何時使用全新的跨裝置選項。
+在本视频中，了解如何设置 [!UICONTROL Profile Merge Rule] 用于基于人员的目标，包括何时使用全新的跨设备选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

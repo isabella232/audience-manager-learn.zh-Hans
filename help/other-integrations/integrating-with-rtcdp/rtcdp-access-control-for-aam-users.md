@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的存取控制
-description: 從Audience Manager移至Real-time Customer Data Platform時，您會想要瞭解使用者和群組許可權的設定位置。 本影片說明存取控制現在如何在Adobe Admin Console中。
+title: 帮助Audience Manager用户了解Real-time CDP中的访问控制
+description: 从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和群组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,15 +16,15 @@ ht-degree: 1%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的存取控制
+# 帮助Audience Manager用户了解Real-time CDP中的访问控制
 
-從Audience Manager移至Real-time Customer Data Platform時，您會想要瞭解使用者和群組許可權的設定位置。 本影片說明存取控制現在如何在Adobe Admin Console中。
+从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和群组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
 ## 其他资源
 
-以下現有資源可協助您瞭解Real-time Customer Data Platform。
+以下是可帮助您了解Real-time Customer Data Platform的现有资源。
 
-* [存取控制總覽](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [設定許可權](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [访问控制概述](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
+* [配置权限](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)

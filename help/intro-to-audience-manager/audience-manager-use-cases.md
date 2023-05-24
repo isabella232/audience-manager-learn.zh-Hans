@@ -1,6 +1,6 @@
 ---
-title: Audience Manager使用案例
-description: 在這段影片中，我們找出四個常見的Audience Manager使用案例，並描述相關的最佳實務。
+title: Audience Manager用例
+description: 在本视频中，我们确定了四个常见的Audience Manager用例，并介绍了与这些用例相关的最佳实践。
 feature: Overview
 topics: null
 activity: understand
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager使用案例
+# Audience Manager用例
 
-在這段影片中，我們找出四個常見的Audience Manager使用案例，並描述相關的最佳實務。
+在本视频中，我们确定了四个常见的Audience Manager用例，并介绍了与这些用例相关的最佳实践。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+欲知更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).

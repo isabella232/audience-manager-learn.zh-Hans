@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的區段
-description: 當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 本影片說明Audience Manager與Real-time CDP之間在區段和區段建立上的差異。
+title: 帮助Audience Manager用户了解Real-time CDP中的区段
+description: 当您从Audience Manager转移到Real-time Customer Data Platform时，了解概念的差异会很有帮助。 本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的差异。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,18 +16,18 @@ ht-degree: 1%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的區段
+# 帮助Audience Manager用户了解Real-time CDP中的区段
 
-當您從Audience Manager移至Real-time Customer Data Platform時，瞭解概念差異會很有幫助。 本影片說明Audience Manager與Real-time CDP之間在區段和區段建立上的差異。
+当您从Audience Manager转移到Real-time Customer Data Platform时，了解概念的差异会很有帮助。 本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的差异。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
+以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
 
-* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [建立資料集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [建立區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
-* [建立動態區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [建立多實體區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [使用架构编辑器创建架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [创建数据集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
+* [创建区段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [创建动态区段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
+* [创建多实体区段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

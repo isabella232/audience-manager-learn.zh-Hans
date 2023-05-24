@@ -1,6 +1,6 @@
 ---
-title: 設定檔合併影片和教學課程
-description: 檢視「設定檔合併」功能的影片和教學課程，包括「設定檔合併規則」。 控制用於細分的資料集，並跨多部裝置準確地鎖定人員。
+title: 配置文件合并视频和教程
+description: 查看有关配置文件合并功能（包括配置文件合并规则）的视频和教程。 控制用于分段的数据集，并跨多个设备准确地定位人员。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge]  — 影片和教學課程
+# [!UICONTROL Profile Merge]  — 视频和教程
 
-檢視「設定檔合併」功能的影片和教學課程，包括「設定檔合併規則」。 控制用於細分的資料集，並跨多部裝置準確地鎖定人員。
+查看有关配置文件合并功能（包括配置文件合并规则）的视频和教程。 控制用于分段的数据集，并跨多个设备准确地定位人员。
 
-* [設定檔合併規則概要](overview-of-profile-merge-rules.md)
-* [設定檔合併規則範例和使用案例](profile-merge-rule-examples-and-use-cases.md)
-* [設定檔合併規則增強功能概述](overview-of-profile-merge-rule-enhancements.md)
-* [建立及使用簡單的設定檔合併規則](creating-and-using-simple-profile-merge-rules.md)
-* [使用設定檔合併規則在驗證狀態下進行個人化](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [使用設定檔合併規則進行裝置延伸和增加觸及率](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-* [設定檔合併規則增強功能 — 先決條件](profile-merge-rule-enhancements-pre-requisites.md)
-* [設定檔合併規則增強功能如何影響細分、啟用和報告](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [解譯對象身分報告](interpret-audience-identity-reporting.md)
-* [瞭解Audience Manager中的跨裝置量度](understanding-cross-device-metrics-in-audience-manager.md)
+* [配置文件合并规则概览](overview-of-profile-merge-rules.md)
+* [配置文件合并规则示例和用例](profile-merge-rule-examples-and-use-cases.md)
+* [配置文件合并规则增强功能概述](overview-of-profile-merge-rule-enhancements.md)
+* [创建和使用简单配置文件合并规则](creating-and-using-simple-profile-merge-rules.md)
+* [使用配置文件合并规则在验证状态下进行个性化](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+* [将配置文件合并规则用于设备扩展和扩大访问范围](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [配置文件合并规则增强功能 — 先决条件](profile-merge-rule-enhancements-pre-requisites.md)
+* [配置文件合并规则增强功能如何影响分段、激活和报表](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [解释受众身份报表](interpret-audience-identity-reporting.md)
+* [了解Audience Manager中的跨设备量度](understanding-cross-device-metrics-in-audience-manager.md)
 
-這些影片可搭配 [設定檔合併規則檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+这些视频可以与 [配置文件合并规则文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

@@ -1,6 +1,6 @@
 ---
-title: 建立區段時選擇資料來源
-description: 瞭解在Audience Manager中建立新區段時，選擇正確資料來源的一些秘訣。
+title: 创建区段时选择数据源
+description: 了解在Audience Manager中创建新区段时关于选择正确数据源的一些提示。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立區段時選擇資料來源
+# 创建区段时选择数据源
 
-瞭解在Audience Manager中建立新區段時，選擇正確資料來源的一些秘訣。
+了解在Audience Manager中创建新区段时关于选择正确数据源的一些提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

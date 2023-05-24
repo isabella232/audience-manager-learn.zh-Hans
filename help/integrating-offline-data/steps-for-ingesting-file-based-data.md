@@ -1,6 +1,6 @@
 ---
-title: 如何內嵌檔案型資料
-description: 在本影片中，您會瞭解將離線資料上線至Audience Manager時需採取的步驟，包括資料檔案的檔案名稱要求。
+title: 如何摄取基于文件的数据
+description: 在本视频中，您将了解将离线数据载入到Audience Manager中时要执行的步骤，包括数据文件的文件名要求。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 擷取檔案型資料的步驟
+# 摄取基于文件的数据的步骤
 
-在本影片中，您會瞭解將離線資料上線至Audience Manager時需採取的步驟，包括資料檔案的檔案名稱要求。
+在本视频中，您将了解将离线数据载入到Audience Manager中时要执行的步骤，包括数据文件的文件名要求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-如需傳入檔案資料格式化的相關影片，請按一下 [此處](formatting-and-ingesting-file-based-data.md).
+有关入站文件数据格式化的视频，请单击 [此处](formatting-and-ingesting-file-based-data.md).
 
-如需詳細資訊，請參閱 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+欲了解更多信息，请参见 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

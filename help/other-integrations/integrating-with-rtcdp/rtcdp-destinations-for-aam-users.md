@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的目的地
-description: 當您從Audience Manager轉移到Real-time Customer Data Platform (Real-time CDP)時，必須瞭解目的地，以便於您知道如何對目的地合作夥伴啟用對象區段。 此影片討論不同的目的地型別及其在Real-time CDP中的位置。
+title: 帮助Audience Manager用户了解Real-time CDP中的目标
+description: 当您从Audience Manager转移到Real-time Customer Data Platform (Real-time CDP)时，必须了解目标，以便您知道如何将受众区段激活到目标合作伙伴。 此视频讨论了不同的目标类型以及它们在Real-time CDP中的位置。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的目的地
+# 帮助Audience Manager用户了解Real-time CDP中的目标
 
-當您從Audience Manager轉移到Real-time Customer Data Platform (Real-time CDP)時，必須瞭解目的地，以便於您知道如何對目的地合作夥伴啟用對象區段。 此影片討論不同的目的地型別及其在Real-time CDP中的位置。
+当您从Audience Manager转移到Real-time Customer Data Platform (Real-time CDP)时，必须了解目标，以便您知道如何将受众区段激活到目标合作伙伴。 此视频讨论了不同的目标类型以及它们在Real-time CDP中的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

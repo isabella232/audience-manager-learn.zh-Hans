@@ -1,6 +1,6 @@
 ---
-title: 為以人物為基礎的目的地建立資料來源
-description: 瞭解如何在Audience Manager中建立資料來源，以用於以人物為基礎的目的地。
+title: 为基于人员的目标创建数据源
+description: 了解如何在Audience Manager中创建用于基于人员的目标的数据源。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立 [!UICONTROL Data Source] 適用於以人物為基礎的目的地
+# 创建 [!UICONTROL Data Source] （适用于基于人员的目标）
 
-本影片將逐步說明如何建立 [!UICONTROL Data Source] 以人物為基礎的目的地所使用的Audience Manager中。
+本视频向您介绍如何创建 [!UICONTROL Data Source] 用于基于人员的目标的Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: 設定檔合併規則增強功能如何影響細分、啟用和報告
-description: 瞭解設定檔合併規則增強功能將如何影響Audience ManagerUI中的總計特徵和區段母體
+title: 配置文件合并规则增强功能如何影响分段、激活和报表
+description: 了解配置文件合并规则增强功能将如何影响Audience ManagerUI中的总特征和区段人口
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 如何 [!UICONTROL Profile Merge Rule] 增強功能會影響細分、啟用和報告
+# 如何 [!UICONTROL Profile Merge Rule] 增强功能会影响分段、激活和报告
 
-瞭解如何 [!UICONTROL Profile Merge Rule] 增強功能將影響 [!UICONTROL Total Trait] 和 [!UICONTROL Segment Populations] 在Audience Manager中。
+了解如何 [!UICONTROL Profile Merge Rule] 增强功能将影响 [!UICONTROL Total Trait] 和 [!UICONTROL Segment Populations] 在Audience Manager中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

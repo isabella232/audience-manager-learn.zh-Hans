@@ -1,6 +1,6 @@
 ---
-title: 瞭解適用於Audience Manager使用者的Real-time CDP中的結構描述和XDM
-description: 當您從Audience Manager移至Real-time Customer Data Platform (Real-time CDP)時，將會遇到一些新的概念和做法。 結構描述和XDM就屬於該類別。 此影片說明這些概念。
+title: 帮助Audience Manager用户了解Real-time CDP中的架构和XDM
+description: 当您从Audience Manager转移到Real-time Customer Data Platform (Real-time CDP)时，您将遇到一些新的概念和做法。 架构和XDM就属于这一类。 此视频介绍了这些概念。
 feature: Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 1%
 
 ---
 
-# 瞭解適用於Audience Manager使用者的Real-time CDP中的結構描述和XDM
+# 帮助Audience Manager用户了解Real-time CDP中的架构和XDM
 
-當您從Audience Manager移至Real-time Customer Data Platform (Real-time CDP)時，將會遇到一些新的概念和做法。 結構描述和XDM就屬於該類別。 此影片說明這些概念。
+当您从Audience Manager转移到Real-time Customer Data Platform (Real-time CDP)时，您将遇到一些新的概念和做法。 架构和XDM就属于这一类。 此视频介绍了这些概念。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索相關影片和教學課程，深入瞭解Platform。
+以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
 
-* [瞭解XDM系統與Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [建立方案](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [使用結構編輯器建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [了解XDM系统和Experience Data Model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+* [创建架构](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+* [使用架构编辑器创建架构](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

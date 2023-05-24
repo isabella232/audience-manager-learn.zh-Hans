@@ -1,6 +1,6 @@
 ---
-title: 使用Data Explorer來搜尋使用和未使用的索引鍵/值配對
-description: 在Audience Manager的日常工作中，您可能需要快速找出是否從特定索引鍵/值配對建立特徵。 本影片說明如何使用Data Explorer來瞭解。
+title: 使用Data Explorer搜索已用和未用的键/值对
+description: 在Audience Manager的日常工作中，您可能需要快速找出某个特征是否是从特定的键/值对创建的。 本视频向您说明如何使用Data Explorer来查找。
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Data Explorer] 搜尋AAM中使用和未使用的索引鍵/值組 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# 使用 [!UICONTROL Data Explorer] 在AAM中搜索使用和未使用的键/值对 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-在Audience Manager的日常工作中，您可能需要快速找出是否從特定索引鍵/值配對建立特徵。 本影片說明如何使用 [!UICONTROL Data Explorer].
+在Audience Manager的日常工作中，您可能需要快速找出某个特征是否是从特定的键/值对创建的。 本视频向您说明如何使用 [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-為了找出訊號是否已建立為特徵，您不必再下載BAAAM檔案及 [!UICONTROL Unused Signals] 報告。 現在，您只需在中搜尋該索引鍵/值組 [!DNL Data Explorer]，亦稱為 [!UICONTROL Signals] 應用程式和AAM中的索引鍵/值組，並尋找位於特徵和不屬於特徵中的索引鍵/值組，全都位在同一個清單中。 省時效果好極了！
+为了确定信号是否已创建为特征，您不必再下载BAAAM文件， [!UICONTROL Unused Signals] 报告。 现在，您只需在中搜索该键/值对即可 [!DNL Data Explorer]，又称 [!UICONTROL Signals] 在AAM中，找到位于特征中的键/值对和位于特征中的键/值对，所有这些键/值对都位于同一个列表中。 真是省时啊！
 
-如需有關的詳細資訊 [!UICONTROL Data Explorer]，造訪 [Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。
+有关详情，请参阅 [!UICONTROL Data Explorer]，访问 [Data Explorer — 概述、优点和用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。

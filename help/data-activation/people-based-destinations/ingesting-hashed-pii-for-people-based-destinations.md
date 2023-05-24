@@ -1,6 +1,6 @@
 ---
-title: 擷取以人物為基礎的目的地的雜湊PII
-description: 在本影片中，瞭解如何格式化檔案式ID同步，以將您的客戶ID (CRM ID)與雜湊電子郵件地址連結在一起。
+title: 摄取基于人员的目标的哈希PII
+description: 在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址挂接在一起。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 擷取以人物為基礎的目的地的雜湊PII
+# 摄取基于人员的目标的哈希PII
 
-在本影片中，瞭解如何格式化檔案式ID同步，以將您的客戶ID (CRM ID)與雜湊電子郵件地址連結在一起。 這可讓您傳送雜湊電子郵件地址至以人物為基礎的目的地，例如 [!DNL Facebook].
+在本视频中，了解如何格式化基于文件的ID同步，以将您的客户ID (CRM ID)与经过哈希处理的电子邮件地址挂接在一起。 这样，您就可以将经过哈希处理的电子邮件地址发送到基于人员的目标，例如 [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

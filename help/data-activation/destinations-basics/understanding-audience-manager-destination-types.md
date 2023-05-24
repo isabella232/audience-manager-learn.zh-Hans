@@ -1,6 +1,6 @@
 ---
-title: 瞭解Audience Manager目的地型別
-description: 瞭解Adobe Audience Manager中的各種目的地型別，並提供您何時會使用每種目的地的範例。
+title: 了解Audience Manager目标类型
+description: 了解Adobe Audience Manager中的各种目标类型，并举例说明何时使用每种目标。
 feature: Destination Basics
 doc-type: presentation
 thumbnail: 29839.jpg
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# 瞭解Audience Manager [!UICONTROL Destination] 型別
+# 了解Audience Manager [!UICONTROL Destination] 类型
 
-此影片將逐步帶您瞭解Adobe Audience Manager中的各種目的地型別，並提供您何時會使用每種目的地的範例。
+本视频向您介绍Adobe Audience Manager中的各种目标类型，并提供您何时会使用每种目标的示例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以在以下連結中檢視可用的伺服器對伺服器目的地合作夥伴清單： [Audience Manager以裝置為基礎的目的地檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+您可以在中查看可用的服务器到服务器目标合作伙伴列表 [Audience Manager基于设备的目标文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-如需有關目的地的其他資訊，請造訪 [目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) 在產品檔案中。
+有关目标的其他信息，请访问 [目标](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) 在产品文档中。

@@ -1,6 +1,6 @@
 ---
-title: 使用篩選器和建議來選擇Audience Marketplace中的協力廠商資料
-description: 本影片逐步解說Audience Marketplace中的篩選器和建議選項，協助您根據需求選擇正確的第三方資料提供者。
+title: 使用筛选器和推荐在Audience Marketplace中选择第三方数据
+description: 本视频介绍Audience Marketplace中的过滤器和推荐选项，帮助您根据自己的需求选择正确的第三方数据提供商。
 feature: Audience Marketplace
 topics: null
 activity: setup
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 使用篩選器和建議選擇第三方資料 [!UICONTROL Audience Marketplace]
+# 使用筛选器和建议在中选择第三方数据 [!UICONTROL Audience Marketplace]
 
-本影片逐步解說中的篩選器和建議選項 [!UICONTROL Audience Marketplace] 協助您根據需求選擇合適的第三方資料提供者。
+本视频介绍 [!UICONTROL Audience Marketplace] 以帮助您根据自己的需求选择合适的第三方数据提供商。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+欲知更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).

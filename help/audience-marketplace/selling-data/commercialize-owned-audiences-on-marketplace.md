@@ -1,6 +1,6 @@
 ---
-title: 在Marketplace上將擁有的對象商業化
-description: 在本影片中，您將瞭解如何在Audience Marketplace上將您的資料設定為私人或公開資料摘要，讓您成為第二方或第三方資料的資料提供者。
+title: 在Marketplace上商业化拥有的受众
+description: 在本视频中，您将了解如何将数据设置为Audience Marketplace上的私有或公共数据馈送，使您成为第二方或第三方数据的数据提供商。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 在Marketplace上將擁有的對象商業化
+# 在Marketplace上商业化拥有的受众
 
-在本影片中，瞭解如何將您的資料設定為Audience Marketplace上的私人或公開資料摘要，讓您成為第二方或第三方資料的資料提供者。
+在本视频中，了解如何在Audience Marketplace上将您的数据设置为私有或公共数据馈送，使您成为第二方或第三方数据的数据提供商。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

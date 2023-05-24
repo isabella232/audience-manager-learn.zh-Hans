@@ -1,6 +1,6 @@
 ---
-title: 區段中的特徵建議增強功能
-description: 在本影片中，瞭解如何在區段中使用更新的特徵建議，這些是Audience Marketplace建議。 進一步深入瞭解可延伸區段觸及範圍的第三方資料。
+title: 分段中的特征推荐增强功能
+description: 在本视频中，了解如何在区段中使用更新的特征推荐，这些推荐就是Audience Marketplace推荐。 获得对第三方数据的更多洞察，从而扩大区段的覆盖面。
 feature: Segments
 activity: setup
 doc-type: feature video
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] 區段增強功能
+# [!DNL Trait Recommendation] 分段中的增强功能
 
-在本影片中，您將會瞭解如何使用中的更新特徵建議 [!UICONTROL Segments]，包括 [!UICONTROL Audience Marketplace] recommendations。 這可讓您深入瞭解可延伸區段觸及範圍的第三方資料。
+在本视频中，您将了解如何在中使用更新的特征推荐 [!UICONTROL Segments]，包括 [!UICONTROL Audience Marketplace] recommendations. 这些将为您提供对第三方数据的额外洞察，以扩展区段的访问范围。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-如需詳細資訊，請瀏覽 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+欲知更多信息，请访问 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

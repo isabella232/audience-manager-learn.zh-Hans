@@ -1,5 +1,5 @@
 ---
-title: 瞭解Audience Manager的基本術語和概念
+title: 了解Audience Manager中的基本术语和概念
 description: 观看此支持视频，了解基本术语和概念以开始使用 Adobe Audience Manager，包括信号、特征、区段等。
 landing-page-description: 观看此支持视频，了解基本术语和概念以开始使用 Adobe Audience Manager，包括信号、特征、区段等。
 short-description: 观看此支持视频，了解基本术语和概念以开始使用 Adobe Audience Manager，包括信号、特征、区段等。
@@ -20,7 +20,7 @@ ht-degree: 85%
 
 ---
 
-# 瞭解Audience Manager的基本術語和概念
+# 了解Audience Manager中的基本术语和概念
 
 在此视频中，我们将介绍一些基本术语和概念，以帮助您开始使用 Audience Manager，包括信号、特征、细分等。
 
