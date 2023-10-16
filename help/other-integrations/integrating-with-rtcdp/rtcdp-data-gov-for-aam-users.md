@@ -1,7 +1,7 @@
 ---
 title: 帮助Audience Manager用户了解Real-time CDP中的数据治理
-description: 此视频向Audience Manager用户介绍了Real-time Customer Data Platform中的数据治理功能，并将其与Audience Manager中可用的功能进行了比较。 它讨论了Data Usage and Labeling Enforcement (DULE)框架及其在Platform中可以应用的地方。
-feature: Platform Integration
+description: 此视频向Audience Manager用户介绍了Real-time Customer Data Platform中的数据治理功能，并将其与Audience Manager中提供的功能进行了比较。 它讨论了数据使用和标签实施(DULE)框架以及在平台中可以应用的地方。
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # 帮助Audience Manager用户了解Real-time CDP中的数据治理
 
-此视频向Audience Manager用户介绍了Real-time Customer Data Platform中的数据治理功能，并将其与Audience Manager中可用的功能进行了比较。 它讨论了Data Usage and Labeling Enforcement (DULE)框架及其在Platform中可以应用的地方。
+此视频向Audience Manager用户介绍了Real-time Customer Data Platform中的数据治理功能，并将其与Audience Manager中提供的功能进行了比较。 它讨论了数据使用和标签实施(DULE)框架以及在平台中可以应用的地方。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
+以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，了解有关Platform的更多信息。
 
 * [数据治理概述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
 * [使用治理标签分类数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)

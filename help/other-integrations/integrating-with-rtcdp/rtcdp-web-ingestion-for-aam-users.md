@@ -1,7 +1,7 @@
 ---
 title: 帮助Audience Manager用户了解Real-time CDP中的Web数据引入
-description: 此视频向Audience Manager展示有关将网站数据引入Real-time Customer Data Platform (Real-time CDP)的概念，并概括介绍Audience Manager数据连接器适合的位置，以及数据如何直接从网站通过Web SDK移至Real-time CDP。
-feature: Platform Integration
+description: 此视频向Audience Manager展示有关将网站数据引入Real-time Customer Data Platform (Real-time CDP)的概念，并概括性地介绍Audience Manager数据连接器适合哪些方面以及数据如何直接从网站通过Web SDK移至Real-time CDP。
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 3%
@@ -18,13 +18,13 @@ ht-degree: 3%
 
 # 帮助Audience Manager用户了解Real-time CDP中的Web数据引入
 
-此视频向Audience Manager展示有关将网站数据引入Real-time Customer Data Platform (Real-time CDP)的概念，并概括介绍Audience Manager数据连接器适合的位置，以及数据如何直接从网站通过Web SDK移至Real-time CDP。
+此视频向Audience Manager展示有关将网站数据引入Real-time Customer Data Platform (Real-time CDP)的概念，并概括性地介绍Audience Manager数据连接器适合哪些方面以及数据如何直接从网站通过Web SDK移至Real-time CDP。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## 其他资源
 
-以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，以详细了解Platform。
+以下是一段现有的视频和教程，可帮助您了解Real-time Customer Data Platform。 您可以随意浏览关于这些内容的其他视频和教程，了解有关Platform的更多信息。
 
 * [使用Adobe Audience Manager Data Connector引入数据](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Adobe Experience Platform Web SDK 教程](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)

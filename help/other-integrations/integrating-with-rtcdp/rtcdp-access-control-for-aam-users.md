@@ -1,7 +1,7 @@
 ---
 title: 帮助Audience Manager用户了解Real-time CDP中的访问控制
-description: 从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和群组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
-feature: Platform Integration
+description: 从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
 exl-id: 27e8887b-6e02-452a-8526-ab235446505d
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 帮助Audience Manager用户了解Real-time CDP中的访问控制
 
-从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和群组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
+从Audience Manager迁移到Real-time Customer Data Platform时，您将想知道在何处设置了用户和组权限。 本视频说明访问控制现在将如何在Adobe Admin Console中使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
