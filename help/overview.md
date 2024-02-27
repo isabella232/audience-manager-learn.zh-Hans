@@ -9,36 +9,23 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
+source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 7%
+source-wordcount: '223'
+ht-degree: 0%
 
 ---
 
 # Audience Manager教程
 
-欢迎访问Audience Manager教程网站。 使用这些教程以及 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 将让您更好地了解如何使用Adobe Audience Manager通过Adobe的一流产品在任意渠道或设备上创建和激活受众 [!DNL data management platform].
+欢迎访问Audience Manager教程网站。 使用这些教程以及 [文档](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 将让您更好地了解如何使用Adobe Audience Manager通过Adobe同类最佳功能，在任意渠道或设备上创建和激活受众 [!DNL data management platform].
 
+* 请参阅 **“新增功能”** 部分了解最新更新和功能
 * **员工精选** 突出显示我们喜爱的一些内容
-* 在中按主题和副主题浏览内容 **左侧导航**
+* 在中按主题和子主题浏览内容 **左侧导航**
 * 使用 **搜索** 如果您知道自己要查找的内容，请使用页面顶部的字段
 
-<div id="whats-new-section">
-## 新增功能
 
-* **[概述 [!UICONTROL Profile Merge Rules] （视频）](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-   *了解内容 [!UICONTROL Profile Merge Rules] 是、它们的工作方式以及它们对营销人员的价值。*
-
-* **[[!UICONTROL Profile Merge Rule]示例和用例](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-   *在本视频中，您将看到 [!UICONTROL Profile Merge Rules] 以及它们的含义以及用例 [!UICONTROL Profile Merge Rules] 为解决。*
-
-* **[创建和配置基于人员的目标](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-   *了解如何设置 [!DNL People-Based Destination] 在Audience ManagerUI中*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -58,7 +45,9 @@ ht-degree: 7%
       <img alt="“使用Web SDK实施Adobe Experience Cloud”教程的缩略图图像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans"><strong>“利用 Web SDK 实施 Adobe Experience Cloud”教程</strong></a>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hans">
+    <strong>使用Web SDK实施Adobe Experience Cloud教程</strong>
+    </a>
     </div>
     <p>
     <em>了解如何使用Adobe Experience Platform Web SDK实施Experience Cloud应用程序。</em>
@@ -74,7 +63,7 @@ ht-degree: 7%
     </a>
     </div>
     <p>
-    <em>本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的差异。</em>
+    <em>本视频介绍了Audience Manager与Real-time CDP之间在区段和区段创建方面的区别。</em>
     <p>
   </td>
   <td>
